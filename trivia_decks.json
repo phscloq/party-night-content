@@ -1,0 +1,5801 @@
+{
+  "version": 2,
+  "questions": [
+    {
+      "id": "speed_sci_001",
+      "category": "Science",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which planet in our solar system has the most moons?",
+        "fr": "Quelle planète de notre système solaire a le plus de lunes ?",
+        "tr": "Güneş sistemimizde en çok uydusu olan gezegen hangisidir?",
+        "id": "Planet mana di tata surya kita yang memiliki bulan terbanyak?"
+      },
+      "correctAnswer": {
+        "en": "Saturn",
+        "fr": "Saturne",
+        "tr": "Satürn",
+        "id": "Saturnus"
+      },
+      "distractors": {
+        "en": [
+          "Jupiter",
+          "Neptune",
+          "Mars"
+        ],
+        "fr": [
+          "Jupiter",
+          "Neptune",
+          "Mars"
+        ],
+        "tr": [
+          "Jüpiter",
+          "Neptün",
+          "Mars"
+        ],
+        "id": [
+          "Yupiter",
+          "Neptunus",
+          "Mars"
+        ]
+      },
+      "explanation": {
+        "en": "Saturn has over 140 officially recognized moons!",
+        "fr": "Saturne compte plus de 140 lunes officiellement reconnues !",
+        "tr": "Satürn'ün 140'tan fazla resmi olarak tanınan uydusu vardır!",
+        "id": "Saturnus memiliki lebih dari 140 bulan yang diakui secara resmi!"
+      }
+    },
+    {
+      "id": "speed_tech_002",
+      "category": "Tech",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What was Apple's very first commercial product?",
+        "fr": "Quel a été le tout premier produit commercial d'Apple ?",
+        "tr": "Apple'ın piyasaya sürdüğü ilk ticari ürün hangisiydi?",
+        "id": "Apa produk komersial pertama Apple?"
+      },
+      "correctAnswer": {
+        "en": "Apple I Computer",
+        "fr": "Ordinateur Apple I",
+        "tr": "Apple I Bilgisayarı",
+        "id": "Komputer Apple I"
+      },
+      "distractors": {
+        "en": [
+          "Macintosh",
+          "iPod",
+          "Apple II"
+        ],
+        "fr": [
+          "Macintosh",
+          "iPod",
+          "Apple II"
+        ],
+        "tr": [
+          "Macintosh",
+          "iPod",
+          "Apple II"
+        ],
+        "id": [
+          "Macintosh",
+          "iPod",
+          "Apple II"
+        ]
+      },
+      "explanation": {
+        "en": "The Apple I was hand-built by Steve Wozniak in 1976.",
+        "fr": "L'Apple I a été fabriqué à la main par Steve Wozniak en 1976.",
+        "tr": "Apple I, 1976 yılında Steve Wozniak tarafından elle üretildi.",
+        "id": "Apple I dibuat secara manual oleh Steve Wozniak pada tahun 1976."
+      }
+    },
+    {
+      "id": "speed_hist_003",
+      "category": "History",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which country invented tea?",
+        "fr": "Quel pays a inventé le thé ?",
+        "tr": "Çay ilk olarak hangi ülkede keşfedilmiştir?",
+        "id": "Negara mana yang menemukan teh?"
+      },
+      "correctAnswer": {
+        "en": "China",
+        "fr": "Chine",
+        "tr": "Çin",
+        "id": "Tiongkok"
+      },
+      "distractors": {
+        "en": [
+          "United Kingdom",
+          "India",
+          "Japan"
+        ],
+        "fr": [
+          "Royaume-Uni",
+          "Inde",
+          "Japon"
+        ],
+        "tr": [
+          "Birleşik Krallık",
+          "Hindistan",
+          "Japonya"
+        ],
+        "id": [
+          "Inggris",
+          "India",
+          "Jepang"
+        ]
+      },
+      "explanation": {
+        "en": "Legend says Emperor Shennong discovered tea in 2737 BC in China.",
+        "fr": "La légende raconte que l'empereur Shennong a découvert le thé en 2737 avant J.-C. en Chine.",
+        "tr": "Efsaneye göre İmparator Shennong M.Ö. 2737'de Çin'de çayı keşfetti.",
+        "id": "Legenda mengatakan Kaisar Shennong menemukan teh pada 2737 SM di Tiongkok."
+      }
+    },
+    {
+      "id": "speed_movie_004",
+      "category": "Movies",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the highest-grossing animated movie of all time?",
+        "fr": "Quel est le film d'animation le plus rentable de tous les temps ?",
+        "tr": "Tüm zamanların en çok gişe hasılatı yapan animasyon filmi hangisidir?",
+        "id": "Apa film animasi terlaris sepanjang masa?"
+      },
+      "correctAnswer": {
+        "en": "Inside Out 2",
+        "fr": "Vice-Versa 2",
+        "tr": "Ters Yüz 2",
+        "id": "Inside Out 2"
+      },
+      "distractors": {
+        "en": [
+          "The Lion King (2019)",
+          "Frozen II",
+          "Super Mario Bros."
+        ],
+        "fr": [
+          "Le Roi Lion (2019)",
+          "La Reine des Neiges II",
+          "Super Mario Bros."
+        ],
+        "tr": [
+          "Aslan Kral (2019)",
+          "Karlar Ülkesi 2",
+          "Süper Mario Kardeşler"
+        ],
+        "id": [
+          "The Lion King (2019)",
+          "Frozen II",
+          "Super Mario Bros."
+        ]
+      },
+      "explanation": {
+        "en": "Inside Out 2 surpassed $1.69 billion at the global box office!",
+        "fr": "Vice-Versa 2 a dépassé 1,69 milliard de dollars au box-office mondial !",
+        "tr": "Ters Yüz 2, küresel gişede 1,69 milyar doları aştı!",
+        "id": "Inside Out 2 melampaui $1,69 miliar di box office global!"
+      }
+    },
+    {
+      "id": "speed_game_005",
+      "category": "Gaming",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "In gaming, what was Mario's original name in Donkey Kong (1981)?",
+        "fr": "Dans le jeu vidéo, quel était le nom original de Mario dans Donkey Kong (1981) ?",
+        "tr": "Video oyunlarında, Mario'nun Donkey Kong (1981) oyunundaki ilk adı neydi?",
+        "id": "Dalam game, apa nama asli Mario di Donkey Kong (1981)?"
+      },
+      "correctAnswer": {
+        "en": "Jumpman",
+        "fr": "Jumpman",
+        "tr": "Jumpman",
+        "id": "Jumpman"
+      },
+      "distractors": {
+        "en": [
+          "Plumber Boy",
+          "Luigi",
+          "Red Guy"
+        ],
+        "fr": [
+          "Plombier",
+          "Luigi",
+          "Gars Rouge"
+        ],
+        "tr": [
+          "Tesisatçı Çocuk",
+          "Luigi",
+          "Kırmızı Adam"
+        ],
+        "id": [
+          "Tukang Ledeng",
+          "Luigi",
+          "Pria Merah"
+        ]
+      },
+      "explanation": {
+        "en": "Mario was originally named Jumpman before getting his own series.",
+        "fr": "Mario s'appelait à l'origine Jumpman avant d'avoir sa propre série.",
+        "tr": "Mario kendi serisine kavuşmadan önce Jumpman olarak adlandırılmıştı.",
+        "id": "Mario awalnya bernama Jumpman sebelum memiliki serinya sendiri."
+      }
+    },
+    {
+      "id": "speed_nat_006",
+      "category": "Nature",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "How many hearts does an octopus have?",
+        "fr": "Combien de cœurs possède une pieuvre ?",
+        "tr": "Bir ahtapotun kaç tane kalbi vardır?",
+        "id": "Berapa banyak jantung yang dimiliki gurita?"
+      },
+      "correctAnswer": {
+        "en": "3",
+        "fr": "3",
+        "tr": "3",
+        "id": "3"
+      },
+      "distractors": {
+        "en": [
+          "1",
+          "2",
+          "4"
+        ],
+        "fr": [
+          "1",
+          "2",
+          "4"
+        ],
+        "tr": [
+          "1",
+          "2",
+          "4"
+        ],
+        "id": [
+          "1",
+          "2",
+          "4"
+        ]
+      },
+      "explanation": {
+        "en": "Octopuses have three hearts: two pump blood to the gills, one to the body.",
+        "fr": "Les pieuvres ont trois cœurs : deux pour les branchies et un pour le corps.",
+        "tr": "Ahtapotların üç kalbi vardır: ikisi solungaçlara, biri vücuda kan pompalar.",
+        "id": "Gurita memiliki tiga jantung: dua memompa darah ke insang, satu ke seluruh tubuh."
+      }
+    },
+    {
+      "id": "speed_sci_007",
+      "category": "Science",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which chemical element has the symbol 'Au'?",
+        "fr": "Quel élément chimique a pour symbole 'Au' ?",
+        "tr": "'Au' sembolüne sahip kimyasal element hangisidir?",
+        "id": "Unsur kimia mana yang memiliki simbol 'Au'?"
+      },
+      "correctAnswer": {
+        "en": "Gold",
+        "fr": "Or",
+        "tr": "Altın",
+        "id": "Emas"
+      },
+      "distractors": {
+        "en": [
+          "Silver",
+          "Copper",
+          "Aluminum"
+        ],
+        "fr": [
+          "Argent",
+          "Cuivre",
+          "Aluminium"
+        ],
+        "tr": [
+          "Gümüş",
+          "Bakır",
+          "Alüminyum"
+        ],
+        "id": [
+          "Perak",
+          "Tembaga",
+          "Aluminium"
+        ]
+      },
+      "explanation": {
+        "en": "'Au' comes from 'aurum', the Latin word for shining dawn.",
+        "fr": "'Au' provient d'aurum, le mot latin désignant l'aurore brillante.",
+        "tr": "'Au', Latince parlayan şafak anlamına gelen 'aurum' kelimesinden gelir.",
+        "id": "'Au' berasal dari 'aurum', kata Latin yang berarti fajar yang bersinar."
+      }
+    },
+    {
+      "id": "speed_geo_008",
+      "category": "Geography",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the capital city of Australia?",
+        "fr": "Quelle est la capitale de l'Australie ?",
+        "tr": "Avustralya'nın başkenti neresidir?",
+        "id": "Apa ibu kota Australia?"
+      },
+      "correctAnswer": {
+        "en": "Canberra",
+        "fr": "Canberra",
+        "tr": "Kanberra",
+        "id": "Canberra"
+      },
+      "distractors": {
+        "en": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ],
+        "fr": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ],
+        "tr": [
+          "Sidney",
+          "Melburn",
+          "Brisbane"
+        ],
+        "id": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ]
+      },
+      "explanation": {
+        "en": "Canberra was chosen as a compromise between rivals Sydney and Melbourne.",
+        "fr": "Canberra a été choisie comme compromis entre Sydney et Melbourne.",
+        "tr": "Kanberra, Sidney ve Melburn arasındaki rekabete uzlaşma olarak seçildi.",
+        "id": "Canberra dipilih sebagai kompromi antara rival Sydney dan Melbourne."
+      }
+    },
+    {
+      "id": "speed_art_009",
+      "category": "Art",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which artist painted 'The Starry Night'?",
+        "fr": "Quel artiste a peint 'La Nuit étoilée' ?",
+        "tr": "'Yıldızlı Gece' tablosunu hangi ressam yapmıştır?",
+        "id": "Seniman mana yang melukis 'The Starry Night'?"
+      },
+      "correctAnswer": {
+        "en": "Vincent van Gogh",
+        "fr": "Vincent van Gogh",
+        "tr": "Vincent van Gogh",
+        "id": "Vincent van Gogh"
+      },
+      "distractors": {
+        "en": [
+          "Claude Monet",
+          "Pablo Picasso",
+          "Salvador Dalí"
+        ],
+        "fr": [
+          "Claude Monet",
+          "Pablo Picasso",
+          "Salvador Dalí"
+        ],
+        "tr": [
+          "Claude Monet",
+          "Pablo Picasso",
+          "Salvador Dalí"
+        ],
+        "id": [
+          "Claude Monet",
+          "Pablo Picasso",
+          "Salvador Dalí"
+        ]
+      },
+      "explanation": {
+        "en": "Van Gogh painted it in 1889 while staying at the Saint-Paul asylum.",
+        "fr": "Van Gogh l'a peint en 1889 lors de son séjour à l'asile Saint-Paul.",
+        "tr": "Van Gogh bu tabloyu 1889'da Saint-Paul akıl hastanesinde yapmıştır.",
+        "id": "Van Gogh melukisnya pada tahun 1889 saat dirawat di rumah sakit jiwa Saint-Paul."
+      }
+    },
+    {
+      "id": "speed_sport_010",
+      "category": "Sports",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which country won the inaugural FIFA World Cup in 1930?",
+        "fr": "Quel pays a remporté la toute première Coupe du Monde de la FIFA en 1930 ?",
+        "tr": "1930'daki ilk FIFA Dünya Kupası'nı hangi ülke kazanmıştır?",
+        "id": "Negara mana yang memenangkan Piala Dunia FIFA pertama pada tahun 1930?"
+      },
+      "correctAnswer": {
+        "en": "Uruguay",
+        "fr": "Uruguay",
+        "tr": "Uruguay",
+        "id": "Uruguay"
+      },
+      "distractors": {
+        "en": [
+          "Brazil",
+          "Argentina",
+          "Italy"
+        ],
+        "fr": [
+          "Brésil",
+          "Argentine",
+          "Italie"
+        ],
+        "tr": [
+          "Brezilya",
+          "Arjantin",
+          "İtalya"
+        ],
+        "id": [
+          "Brasil",
+          "Argentina",
+          "Italia"
+        ]
+      },
+      "explanation": {
+        "en": "Uruguay won on home soil in Montevideo, defeating Argentina 4-2.",
+        "fr": "L'Uruguay s'est imposé à domicile à Montevideo en battant l'Argentine 4-2.",
+        "tr": "Uruguay, Montevideo'da oynanan finalde Arjantin'i 4-2 yenerek kupayı kazandı.",
+        "id": "Uruguay menang di kandang sendiri di Montevideo, mengalahkan Argentina 4-2."
+      }
+    },
+    {
+      "id": "speed_food_011",
+      "category": "Food",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What type of pastry is traditionally used to make baklava?",
+        "fr": "Quel type de pâte est traditionnellement utilisé pour faire le baklava ?",
+        "tr": "Baklava yapımında geleneksel olarak hangi hamur kullanılır?",
+        "id": "Jenis adonan apa yang secara tradisional digunakan untuk membuat baklava?"
+      },
+      "correctAnswer": {
+        "en": "Phyllo dough",
+        "fr": "Pâte filo",
+        "tr": "Yufka",
+        "id": "Adonan filo"
+      },
+      "distractors": {
+        "en": [
+          "Puff pastry",
+          "Shortcrust pastry",
+          "Choux pastry"
+        ],
+        "fr": [
+          "Pâte feuilletée",
+          "Pâte brisée",
+          "Pâte à choux"
+        ],
+        "tr": [
+          "Milföy hamuru",
+          "Turtalık hamur",
+          "Şu hamuru"
+        ],
+        "id": [
+          "Pastry puff",
+          "Shortcrust pastry",
+          "Adonan sus"
+        ]
+      },
+      "explanation": {
+        "en": "Baklava is made with tissue-thin sheets of unleavened phyllo dough.",
+        "fr": "Le baklava est préparé avec de très fines feuilles de pâte filo.",
+        "tr": "Baklava, tül inceliğindeki yufka katmanları ile yapılır.",
+        "id": "Baklava dibuat dengan lembaran tipis adonan filo tanpa ragi."
+      }
+    },
+    {
+      "id": "speed_sci_012",
+      "category": "Science",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the hardest naturally occurring mineral on Earth?",
+        "fr": "Quel est le minéral naturel le plus dur sur Terre ?",
+        "tr": "Dünya üzerindeki en sert doğal mineral hangisidir?",
+        "id": "Apa mineral alami terkeras di Bumi?"
+      },
+      "correctAnswer": {
+        "en": "Diamond",
+        "fr": "Diamant",
+        "tr": "Elmas",
+        "id": "Intan"
+      },
+      "distractors": {
+        "en": [
+          "Titanium",
+          "Quartz",
+          "Topaz"
+        ],
+        "fr": [
+          "Titane",
+          "Quartz",
+          "Topaze"
+        ],
+        "tr": [
+          "Titanyum",
+          "Kuvars",
+          "Topaz"
+        ],
+        "id": [
+          "Titanium",
+          "Kuarsa",
+          "Topas"
+        ]
+      },
+      "explanation": {
+        "en": "Diamond defines the maximum rating of 10 on the Mohs hardness scale.",
+        "fr": "Le diamant définit la note maximale de 10 sur l'échelle de dureté de Mohs.",
+        "tr": "Elmas, Mohs sertlik skalasında en yüksek seviye olan 10 değerine sahiptir.",
+        "id": "Intan menempati skala tertinggi 10 pada skala kekerasan Mohs."
+      }
+    },
+    {
+      "id": "speed_space_013",
+      "category": "Science",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the closest spiral galaxy to the Milky Way?",
+        "fr": "Quelle est la galaxie spirale la plus proche de la Voie lactée ?",
+        "tr": "Samanyolu'na en yakın sarmal galaksi hangisidir?",
+        "id": "Apa galaksi spiral terdekat dengan Bima Sakti?"
+      },
+      "correctAnswer": {
+        "en": "Andromeda",
+        "fr": "Andromède",
+        "tr": "Andromeda",
+        "id": "Andromeda"
+      },
+      "distractors": {
+        "en": [
+          "Triangulum",
+          "Sombrero",
+          "Whirlpool"
+        ],
+        "fr": [
+          "Triangulum",
+          "Sombrero",
+          "Tourbillon"
+        ],
+        "tr": [
+          "Üçgen",
+          "Sombrero",
+          "Girdap"
+        ],
+        "id": [
+          "Triangulum",
+          "Sombrero",
+          "Whirlpool"
+        ]
+      },
+      "explanation": {
+        "en": "The Andromeda Galaxy is approximately 2.5 million light-years away from Earth.",
+        "fr": "La galaxie d'Andromède se trouve à environ 2,5 millions d'années-lumière de la Terre.",
+        "tr": "Andromeda Galaksisi Dünya'dan yaklaşık 2,5 milyon ışık yılı uzaklıktadır.",
+        "id": "Galaksi Andromeda berjarak sekitar 2,5 juta tahun cahaya dari Bumi."
+      }
+    },
+    {
+      "id": "speed_music_014",
+      "category": "Music",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which rock band wrote and performed the hit song 'Bohemian Rhapsody'?",
+        "fr": "Quel groupe de rock a écrit et interprété la chanson à succès 'Bohemian Rhapsody' ?",
+        "tr": "Hit şarkı 'Bohemian Rhapsody'yi hangi rock grubu yazıp seslendirmiştir?",
+        "id": "Band rock mana yang menulis dan membawakan lagu hit 'Bohemian Rhapsody'?"
+      },
+      "correctAnswer": {
+        "en": "Queen",
+        "fr": "Queen",
+        "tr": "Queen",
+        "id": "Queen"
+      },
+      "distractors": {
+        "en": [
+          "The Beatles",
+          "Pink Floyd",
+          "The Rolling Stones"
+        ],
+        "fr": [
+          "The Beatles",
+          "Pink Floyd",
+          "The Rolling Stones"
+        ],
+        "tr": [
+          "The Beatles",
+          "Pink Floyd",
+          "The Rolling Stones"
+        ],
+        "id": [
+          "The Beatles",
+          "Pink Floyd",
+          "The Rolling Stones"
+        ]
+      },
+      "explanation": {
+        "en": "The song was written by Freddie Mercury and released in 1975.",
+        "fr": "La chanson a été écrite par Freddie Mercury et sortie en 1975.",
+        "tr": "Şarkı Freddie Mercury tarafından yazılmış ve 1975 yılında yayınlanmıştır.",
+        "id": "Lagu ini ditulis oleh Freddie Mercury dan dirilis pada tahun 1975."
+      }
+    },
+    {
+      "id": "speed_geo_015",
+      "category": "Geography",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "On which continent is the Sahara Desert located?",
+        "fr": "Sur quel continent se trouve le désert du Sahara ?",
+        "tr": "Sahra Çölü hangi kıtada yer almaktadır?",
+        "id": "Di benua manakah Gurun Sahara berada?"
+      },
+      "correctAnswer": {
+        "en": "Africa",
+        "fr": "Afrique",
+        "tr": "Afrika",
+        "id": "Afrika"
+      },
+      "distractors": {
+        "en": [
+          "Asia",
+          "South America",
+          "Australia"
+        ],
+        "fr": [
+          "Asie",
+          "Amérique du Sud",
+          "Australie"
+        ],
+        "tr": [
+          "Asya",
+          "Güney Amerika",
+          "Avustralya"
+        ],
+        "id": [
+          "Asia",
+          "Amerika Selatan",
+          "Australia"
+        ]
+      },
+      "explanation": {
+        "en": "The Sahara is the largest hot desert in the world, covering much of North Africa.",
+        "fr": "Le Sahara est le plus grand désert chaud du monde, couvrant une grande partie de l'Afrique du Nord.",
+        "tr": "Sahra, Kuzey Afrika'nın büyük bir bölümünü kaplayan dünyanın en büyük sıcak çölüdür.",
+        "id": "Sahara adalah gurun panas terbesar di dunia, mencakup sebagian besar Afrika Utara."
+      }
+    },
+    {
+      "id": "speed_lit_016",
+      "category": "Literature",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Who wrote the famous tragedy 'Romeo and Juliet'?",
+        "fr": "Qui a écrit la célèbre tragédie 'Roméo et Juliette' ?",
+        "tr": "Ünlü 'Romeo ve Juliet' tragedyasını kim yazmıştır?",
+        "id": "Siapa yang menulis tragedi terkenal 'Romeo and Juliet'?"
+      },
+      "correctAnswer": {
+        "en": "William Shakespeare",
+        "fr": "William Shakespeare",
+        "tr": "William Shakespeare",
+        "id": "William Shakespeare"
+      },
+      "distractors": {
+        "en": [
+          "Charles Dickens",
+          "Victor Hugo",
+          "Mark Twain"
+        ],
+        "fr": [
+          "Charles Dickens",
+          "Victor Hugo",
+          "Mark Twain"
+        ],
+        "tr": [
+          "Charles Dickens",
+          "Victor Hugo",
+          "Mark Twain"
+        ],
+        "id": [
+          "Charles Dickens",
+          "Victor Hugo",
+          "Mark Twain"
+        ]
+      },
+      "explanation": {
+        "en": "Shakespeare wrote the play early in his career, around 1597.",
+        "fr": "Shakespeare a écrit cette pièce au début de sa carrière, vers 1597.",
+        "tr": "Shakespeare bu oyunu kariyerinin başlarında, 1597 civarında yazmıştır.",
+        "id": "Shakespeare menulis drama ini di awal kariernya, sekitar tahun 1597."
+      }
+    },
+    {
+      "id": "speed_bio_017",
+      "category": "Science",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the largest organ of the human body?",
+        "fr": "Quel est le plus grand organe du corps humain ?",
+        "tr": "İnsan vücudundaki en büyük organ hangisidir?",
+        "id": "Apa organ terbesar dari tubuh manusia?"
+      },
+      "correctAnswer": {
+        "en": "Skin",
+        "fr": "Peau",
+        "tr": "Deri",
+        "id": "Kulit"
+      },
+      "distractors": {
+        "en": [
+          "Liver",
+          "Brain",
+          "Heart"
+        ],
+        "fr": [
+          "Foie",
+          "Cerveau",
+          "Cœur"
+        ],
+        "tr": [
+          "Karaciğer",
+          "Beyin",
+          "Kalp"
+        ],
+        "id": [
+          "Hati",
+          "Otak",
+          "Jantung"
+        ]
+      },
+      "explanation": {
+        "en": "The skin accounts for about 15% of total adult body weight.",
+        "fr": "La peau représente environ 15 % du poids corporel total d'un adulte.",
+        "tr": "Deri, yetişkin bir insan vücut ağırlığının yaklaşık %15'ini oluşturur.",
+        "id": "Kulit menyumbang sekitar 15% dari total berat badan orang dewasa."
+      }
+    },
+    {
+      "id": "speed_tech_018",
+      "category": "Tech",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Who is credited with inventing the World Wide Web in 1989?",
+        "fr": "À qui attribue-t-on l'invention du World Wide Web en 1989 ?",
+        "tr": "1989'da World Wide Web'in (Dünya Çapında Ağ) icadı kime aittir?",
+        "id": "Siapa yang diakui sebagai penemu World Wide Web pada tahun 1989?"
+      },
+      "correctAnswer": {
+        "en": "Tim Berners-Lee",
+        "fr": "Tim Berners-Lee",
+        "tr": "Tim Berners-Lee",
+        "id": "Tim Berners-Lee"
+      },
+      "distractors": {
+        "en": [
+          "Bill Gates",
+          "Steve Jobs",
+          "Mark Zuckerberg"
+        ],
+        "fr": [
+          "Bill Gates",
+          "Steve Jobs",
+          "Mark Zuckerberg"
+        ],
+        "tr": [
+          "Bill Gates",
+          "Steve Jobs",
+          "Mark Zuckerberg"
+        ],
+        "id": [
+          "Bill Gates",
+          "Steve Jobs",
+          "Mark Zuckerberg"
+        ]
+      },
+      "explanation": {
+        "en": "He invented the Web while working at CERN to help scientists share data.",
+        "fr": "Il a inventé le Web alors qu'il travaillait au CERN pour aider les scientifiques à partager des données.",
+        "tr": "Web'i CERN'de çalışırken bilim adamlarının veri paylaşmasına yardımcı olmak için icat etmiştir.",
+        "id": "Dia menciptakan Web saat bekerja di CERN untuk membantu ilmuwan berbagi data."
+      }
+    },
+    {
+      "id": "speed_hist_019",
+      "category": "History",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "In what year did the RMS Titanic sink in the Atlantic Ocean?",
+        "fr": "En quelle année le RMS Titanic a-t-il coulé dans l'océan Atlantique ?",
+        "tr": "RMS Titanik yolcu gemisi Atlantik Okyanusu'nda hangi yılda batmıştır?",
+        "id": "Pada tahun berapa RMS Titanic tenggelam di Samudra Atlantik?"
+      },
+      "correctAnswer": {
+        "en": "1912",
+        "fr": "1912",
+        "tr": "1912",
+        "id": "1912"
+      },
+      "distractors": {
+        "en": [
+          "1905",
+          "1920",
+          "1898"
+        ],
+        "fr": [
+          "1905",
+          "1920",
+          "1898"
+        ],
+        "tr": [
+          "1905",
+          "1920",
+          "1898"
+        ],
+        "id": [
+          "1905",
+          "1920",
+          "1898"
+        ]
+      },
+      "explanation": {
+        "en": "The Titanic sank on April 15, 1912, after striking an iceberg.",
+        "fr": "Le Titanic a coulé le 15 avril 1912 après avoir heurté un iceberg.",
+        "tr": "Titanik, 15 Nisan 1912'de bir buzdağına çarptıktan sonra battı.",
+        "id": "Titanic tenggelam pada 15 April 1912 setelah menabrak gunung es."
+      }
+    },
+    {
+      "id": "speed_math_020",
+      "category": "Science",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the value of the mathematical constant Pi to two decimal places?",
+        "fr": "Quelle est la valeur de la constante mathématique Pi à deux décimales près ?",
+        "tr": "Pi matematiksel sabitinin virgülden sonraki ilk iki basamağının değeri nedir?",
+        "id": "Berapa nilai konstanta matematika Pi hingga dua tempat desimal?"
+      },
+      "correctAnswer": {
+        "en": "3.14",
+        "fr": "3.14",
+        "tr": "3.14",
+        "id": "3.14"
+      },
+      "distractors": {
+        "en": [
+          "3.16",
+          "3.12",
+          "3.18"
+        ],
+        "fr": [
+          "3.16",
+          "3.12",
+          "3.18"
+        ],
+        "tr": [
+          "3.16",
+          "3.12",
+          "3.18"
+        ],
+        "id": [
+          "3.16",
+          "3.12",
+          "3.18"
+        ]
+      },
+      "explanation": {
+        "en": "Pi represents the ratio of a circle's circumference to its diameter.",
+        "fr": "Pi représente le rapport entre la circonférence d'un cercle et son diamètre.",
+        "tr": "Pi, bir çemberin çevresinin çapına olan oranını temsil eder.",
+        "id": "Pi mewakili rasio keliling lingkaran terhadap diameternya."
+      }
+    },
+    {
+      "id": "speed_food_021",
+      "category": "Food",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the main ingredient in the Mexican dip guacamole?",
+        "fr": "Quel est l'ingrédient principal du guacamole mexicain ?",
+        "tr": "Meksika sosu guakamolenin (guacamole) ana malzemesi nedir?",
+        "id": "Apa bahan utama dalam saus guacamole Meksiko?"
+      },
+      "correctAnswer": {
+        "en": "Avocado",
+        "fr": "Avocat",
+        "tr": "Avokado",
+        "id": "Alpukat"
+      },
+      "distractors": {
+        "en": [
+          "Tomato",
+          "Potato",
+          "Lime"
+        ],
+        "fr": [
+          "Tomate",
+          "Pomme de terre",
+          "Citron vert"
+        ],
+        "tr": [
+          "Domates",
+          "Patates",
+          "Misket limonu"
+        ],
+        "id": [
+          "Tomat",
+          "Kentang",
+          "Jeruk nipis"
+        ]
+      },
+      "explanation": {
+        "en": "Guacamole is primarily made of mashed avocados mixed with lime and salt.",
+        "fr": "Le guacamole est principalement composé d'avocats écrasés mélangés à du citron vert et du sel.",
+        "tr": "Guakamole temel olarak ezilmiş avokadoların limon ve tuz ile karıştırılmasından yapılır.",
+        "id": "Guacamole sebagian besar terbuat dari alpukat tumbuk yang dicampur dengan jeruk nipis dan garam."
+      }
+    },
+    {
+      "id": "speed_movie_022",
+      "category": "Movies",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which fictional city is protected by the superhero Batman?",
+        "fr": "Quelle ville fictive est protégée par le super-héros Batman ?",
+        "tr": "Süper kahraman Batman hangi kurgusal şehri korumaktadır?",
+        "id": "Kota fiktif mana yang dilindungi oleh pahlawan super Batman?"
+      },
+      "correctAnswer": {
+        "en": "Gotham City",
+        "fr": "Gotham City",
+        "tr": "Gotham City",
+        "id": "Gotham City"
+      },
+      "distractors": {
+        "en": [
+          "Metropolis",
+          "Star City",
+          "Central City"
+        ],
+        "fr": [
+          "Metropolis",
+          "Star City",
+          "Central City"
+        ],
+        "tr": [
+          "Metropolis",
+          "Star City",
+          "Central City"
+        ],
+        "id": [
+          "Metropolis",
+          "Star City",
+          "Central City"
+        ]
+      },
+      "explanation": {
+        "en": "Gotham City is famously known as the dark, crime-ridden home of Batman.",
+        "fr": "Gotham City est célèbre pour être la ville sombre et criminelle de Batman.",
+        "tr": "Gotham City, Batman'in yaşadığı suçlarla dolu karanlık şehir olarak bilinir.",
+        "id": "Gotham City terkenal sebagai kota gelap dan penuh kejahatan tempat tinggal Batman."
+      }
+    },
+    {
+      "id": "speed_sci_023",
+      "category": "Science",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which gas makes up the majority of Earth's atmosphere?",
+        "fr": "Quel gaz constitue la majorité de l'atmosphère terrestre ?",
+        "tr": "Dünya atmosferinin büyük çoğunluğunu hangi gaz oluşturur?",
+        "id": "Gas apa yang merupakan bagian terbesar dari atmosfer Bumi?"
+      },
+      "correctAnswer": {
+        "en": "Nitrogen",
+        "fr": "Azote",
+        "tr": "Azot",
+        "id": "Nitrogen"
+      },
+      "distractors": {
+        "en": [
+          "Oxygen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "fr": [
+          "Oxygène",
+          "Dioxyde de carbone",
+          "Hydrogène"
+        ],
+        "tr": [
+          "Oksijen",
+          "Karbondioksit",
+          "Hidrojen"
+        ],
+        "id": [
+          "Oksigen",
+          "Karbon Dioksida",
+          "Hidrogen"
+        ]
+      },
+      "explanation": {
+        "en": "Nitrogen makes up about 78% of the air we breathe.",
+        "fr": "L'azote représente environ 78 % de l'air que nous respirons.",
+        "tr": "Soluduğumuz havanın yaklaşık %78'ini Azot oluşturur.",
+        "id": "Nitrogen menyumbang sekitar 78% dari udara yang kita hirup."
+      }
+    },
+    {
+      "id": "speed_myth_024",
+      "category": "Mythology",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "In Greek mythology, who is the god of the sea?",
+        "fr": "Dans la mythologie grecque, qui est le dieu de la mer ?",
+        "tr": "Yunan mitolojisinde deniz tanrısı kimdir?",
+        "id": "Dalam mitologi Yunani, siapa dewa laut?"
+      },
+      "correctAnswer": {
+        "en": "Poseidon",
+        "fr": "Poséidon",
+        "tr": "Poseidon",
+        "id": "Poseidon"
+      },
+      "distractors": {
+        "en": [
+          "Zeus",
+          "Hades",
+          "Apollo"
+        ],
+        "fr": [
+          "Zeus",
+          "Hadès",
+          "Apollon"
+        ],
+        "tr": [
+          "Zeus",
+          "Hades",
+          "Apollon"
+        ],
+        "id": [
+          "Zeus",
+          "Hades",
+          "Apollo"
+        ]
+      },
+      "explanation": {
+        "en": "Poseidon is one of the Twelve Olympians and is famous for carrying a trident.",
+        "fr": "Poséidon est l'un des douze Olympiens et est célèbre pour porter un trident.",
+        "tr": "Poseidon On İki Olimposludan biridir ve taşıdığı üç dişli yabayla ünlüdür.",
+        "id": "Poseidon adalah salah satu dari Dua Belas Dewa Olimpus dan terkenal membawa trisula."
+      }
+    },
+    {
+      "id": "speed_geo_025",
+      "category": "Geography",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the smallest fully independent country in the world?",
+        "fr": "Quel est le plus petit pays totalement indépendant du monde ?",
+        "tr": "Dünyanın en küçük tam bağımsız ülkesi hangisidir?",
+        "id": "Apa negara merdeka terkecil di dunia?"
+      },
+      "correctAnswer": {
+        "en": "Vatican City",
+        "fr": "Cité du Vatican",
+        "tr": "Vatikan",
+        "id": "Kota Vatikan"
+      },
+      "distractors": {
+        "en": [
+          "Monaco",
+          "San Marino",
+          "Liechtenstein"
+        ],
+        "fr": [
+          "Monaco",
+          "Saint-Marin",
+          "Liechtenstein"
+        ],
+        "tr": [
+          "Monako",
+          "San Marino",
+          "Lihtenştayn"
+        ],
+        "id": [
+          "Monako",
+          "San Marino",
+          "Liechtenstein"
+        ]
+      },
+      "explanation": {
+        "en": "Vatican City covers just 44 hectares (110 acres) within Rome, Italy.",
+        "fr": "La Cité du Vatican ne couvre que 44 hectares au sein de Rome, en Italie.",
+        "tr": "Vatikan, İtalya'nın Roma şehri içinde sadece 44 hektarlık bir alanı kaplar.",
+        "id": "Kota Vatikan hanya mencakup 44 hektar di dalam kota Roma, Italia."
+      }
+    },
+    {
+      "id": "speed_game_026",
+      "category": "Gaming",
+      "difficulty": "hard",
+      "timeLimit": 15,
+      "question": {
+        "en": "As of 2024, what is the best-selling video game console of all time?",
+        "fr": "En 2024, quelle est la console de jeux vidéo la plus vendue de tous les temps ?",
+        "tr": "2024 yılı itibarıyla tüm zamanların en çok satan video oyun konsolu hangisidir?",
+        "id": "Pada tahun 2024, apa konsol permainan video terlaris sepanjang masa?"
+      },
+      "correctAnswer": {
+        "en": "PlayStation 2",
+        "fr": "PlayStation 2",
+        "tr": "PlayStation 2",
+        "id": "PlayStation 2"
+      },
+      "distractors": {
+        "en": [
+          "Nintendo DS",
+          "Nintendo Switch",
+          "Xbox 360"
+        ],
+        "fr": [
+          "Nintendo DS",
+          "Nintendo Switch",
+          "Xbox 360"
+        ],
+        "tr": [
+          "Nintendo DS",
+          "Nintendo Switch",
+          "Xbox 360"
+        ],
+        "id": [
+          "Nintendo DS",
+          "Nintendo Switch",
+          "Xbox 360"
+        ]
+      },
+      "explanation": {
+        "en": "The PS2 sold over 155 million units worldwide since its launch in 2000.",
+        "fr": "La PS2 s'est vendue à plus de 155 millions d'exemplaires dans le monde depuis son lancement en 2000.",
+        "tr": "PS2, 2000 yılındaki lansmanından bu yana dünya çapında 155 milyondan fazla sattı.",
+        "id": "PS2 terjual lebih dari 155 juta unit di seluruh dunia sejak diluncurkan pada tahun 2000."
+      }
+    },
+    {
+      "id": "speed_bio_027",
+      "category": "Science",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "How many bones are there in the adult human body?",
+        "fr": "Combien d'os y a-t-il dans le corps d'un humain adulte ?",
+        "tr": "Yetişkin bir insan vücudunda kaç kemik bulunur?",
+        "id": "Berapa banyak tulang yang ada dalam tubuh manusia dewasa?"
+      },
+      "correctAnswer": {
+        "en": "206",
+        "fr": "206",
+        "tr": "206",
+        "id": "206"
+      },
+      "distractors": {
+        "en": [
+          "208",
+          "196",
+          "212"
+        ],
+        "fr": [
+          "208",
+          "196",
+          "212"
+        ],
+        "tr": [
+          "208",
+          "196",
+          "212"
+        ],
+        "id": [
+          "208",
+          "196",
+          "212"
+        ]
+      },
+      "explanation": {
+        "en": "Babies are born with around 300 bones, which fuse together to form 206 by adulthood.",
+        "fr": "Les bébés naissent avec environ 300 os, qui fusionnent pour en former 206 à l'âge adulte.",
+        "tr": "Bebekler yaklaşık 300 kemikle doğarlar; bu kemikler kaynaşarak yetişkinlikte 206'ya düşer.",
+        "id": "Bayi lahir dengan sekitar 300 tulang, yang menyatu menjadi 206 pada masa dewasa."
+      }
+    },
+    {
+      "id": "speed_nat_002",
+      "category": "Nature",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the only mammal capable of true sustained flight?",
+        "fr": "Quel est le seul mammifère capable d'un véritable vol battu ?",
+        "tr": "Gerçek ve sürekli uçabilen tek memeli hayvan hangisidir?",
+        "id": "Apa satu-satunya mamalia yang mampu terbang secara mandiri?"
+      },
+      "correctAnswer": {
+        "en": "Bat",
+        "fr": "Chauve-souris",
+        "tr": "Yarasa",
+        "id": "Kelelawar"
+      },
+      "distractors": {
+        "en": [
+          "Flying Squirrel",
+          "Sugar Glider",
+          "Colugo"
+        ],
+        "fr": [
+          "Écureuil volant",
+          "Planeur à sucre",
+          "Colugo"
+        ],
+        "tr": [
+          "Uçan Sincap",
+          "Şeker Planörü",
+          "Kolugo"
+        ],
+        "id": [
+          "Tupai Terbang",
+          "Sugar Glider",
+          "Kubung"
+        ]
+      },
+      "explanation": {
+        "en": "Bats are the only mammals with the anatomical structure required for powered flight.",
+        "fr": "Les chauves-souris sont les seuls mammifères dotés des structures nécessaires au vol battu.",
+        "tr": "Yarasalar kanat çırparak aktif uçabilen tek memeli türüdür.",
+        "id": "Kelelawar adalah satu-satunya mamalia dengan anatomi untuk terbang mengepakkan sayap."
+      }
+    },
+    {
+      "id": "speed_nat_003",
+      "category": "Nature",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which marine creature has three hearts and copper-based blue blood?",
+        "fr": "Quelle créature marine a trois cœurs et un sang bleu à base de cuivre ?",
+        "tr": "Hangi deniz canlısının üç kalbi ve bakır bazlı mavi kanı vardır?",
+        "id": "Makhluk laut mana yang memiliki tiga jantung dan darah biru berbasis tembaga?"
+      },
+      "correctAnswer": {
+        "en": "Octopus",
+        "fr": "Poulpe",
+        "tr": "Ahtapot",
+        "id": "Gurita"
+      },
+      "distractors": {
+        "en": [
+          "Jellyfish",
+          "Starfish",
+          "Seahorse"
+        ],
+        "fr": [
+          "Méduse",
+          "Étoile de mer",
+          "Hippocampe"
+        ],
+        "tr": [
+          "Denizanası",
+          "Denizyıldızı",
+          "Denizatı"
+        ],
+        "id": [
+          "Ubur-ubur",
+          "Bintang Laut",
+          "Kuda Laut"
+        ]
+      },
+      "explanation": {
+        "en": "Octopuses use hemocyanin containing copper to transport oxygen, turning their blood blue.",
+        "fr": "Les poulpes utilisent l'hémocyanine contenant du cuivre, donnant une couleur bleue à leur sang.",
+        "tr": "Ahtapotların kanında oksijen taşımak için bakır içeren hemosiyanin bulunur ve bu da kanlarını mavi yapar.",
+        "id": "Gurita menggunakan hemosianin yang mengandung tembaga untuk mengangkut oksigen, membuat darah mereka berwarna biru."
+      }
+    },
+    {
+      "id": "speed_geo_004",
+      "category": "Geography",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the smallest independent state in the world by land area?",
+        "fr": "Quel est le plus petit État indépendant du monde en superficie ?",
+        "tr": "Yüzölçümü bakımından dünyanın en küçük bağımsız devleti hangisidir?",
+        "id": "Apa negara merdeka terkecil di dunia berdasarkan luas wilayah?"
+      },
+      "correctAnswer": {
+        "en": "Vatican City",
+        "fr": "Vatican",
+        "tr": "Vatikan",
+        "id": "Vatikan"
+      },
+      "distractors": {
+        "en": [
+          "Monaco",
+          "San Marino",
+          "Liechtenstein"
+        ],
+        "fr": [
+          "Monaco",
+          "Saint-Marin",
+          "Liechtenstein"
+        ],
+        "tr": [
+          "Monako",
+          "San Marino",
+          "Lihtenştayn"
+        ],
+        "id": [
+          "Monako",
+          "San Marino",
+          "Liechtenstein"
+        ]
+      },
+      "explanation": {
+        "en": "Vatican City covers only about 0.49 square kilometers (121 acres).",
+        "fr": "Le Vatican ne s'étend que sur environ 0,49 kilomètre carré.",
+        "tr": "Vatikan yalnızca yaklaşık 0,49 kilometrekarelik bir alanı kaplar.",
+        "id": "Vatikan hanya mencakup sekitar 0,49 kilometer persegi."
+      }
+    },
+    {
+      "id": "speed_hist_004",
+      "category": "History",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Who was the first official Emperor of the Roman Empire?",
+        "fr": "Qui fut le tout premier empereur officiel de l'Empire romain ?",
+        "tr": "Roma İmparatorluğu'nun resmi olarak ilk imparatoru kimdir?",
+        "id": "Siapa kaisar resmi pertama Kekaisaran Romawi?"
+      },
+      "correctAnswer": {
+        "en": "Augustus",
+        "fr": "Auguste",
+        "tr": "Augustus",
+        "id": "Augustus"
+      },
+      "distractors": {
+        "en": [
+          "Julius Caesar",
+          "Nero",
+          "Trajan"
+        ],
+        "fr": [
+          "Jules César",
+          "Néron",
+          "Trajan"
+        ],
+        "tr": [
+          "Jül Sezar",
+          "Neron",
+          "Trajan"
+        ],
+        "id": [
+          "Julius Caesar",
+          "Nero",
+          "Trajan"
+        ]
+      },
+      "explanation": {
+        "en": "Julius Caesar was perpetual dictator, but his adopted heir Augustus became the first emperor.",
+        "fr": "Jules César était dictateur, mais son fils adoptif Auguste devint le premier empereur.",
+        "tr": "Jül Sezar diktatördü, ancak evlatlığı Augustus Roma'nın ilk resmi imparatoru oldu.",
+        "id": "Julius Caesar adalah diktator seumur hidup, tetapi putra angkatnya Augustus menjadi kaisar pertama."
+      }
+    },
+    {
+      "id": "speed_food_003",
+      "category": "Food",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which country consumes the most chocolate per capita annually?",
+        "fr": "Quel pays consomme le plus de chocolat par habitant chaque année ?",
+        "tr": "Kişi başına yılda en çok çikolata tüketen ülke hangisidir?",
+        "id": "Negara mana yang mengonsumsi cokelat per kapita terbanyak per tahun?"
+      },
+      "correctAnswer": {
+        "en": "Switzerland",
+        "fr": "Suisse",
+        "tr": "İsviçre",
+        "id": "Swiss"
+      },
+      "distractors": {
+        "en": [
+          "Belgium",
+          "Germany",
+          "United States"
+        ],
+        "fr": [
+          "Belgique",
+          "Allemagne",
+          "États-Unis"
+        ],
+        "tr": [
+          "Belçika",
+          "Almanya",
+          "Amerika Birleşik Devletleri"
+        ],
+        "id": [
+          "Belgia",
+          "Jerman",
+          "Amerika Serikat"
+        ]
+      },
+      "explanation": {
+        "en": "Switzerland leads the world with an average of around 8.8 kilograms per person per year.",
+        "fr": "La Suisse est en tête avec environ 8,8 kilogrammes par personne et par an.",
+        "tr": "İsviçre kişi başı yıllık yaklaşık 8,8 kilogram çikolata tüketimiyle dünyada liderdir.",
+        "id": "Swiss memimpin dunia dengan rata-rata sekitar 8,8 kilogram per orang per tahun."
+      }
+    },
+    {
+      "id": "speed_quirk_001",
+      "category": "Odd Inventions",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the official national animal of Scotland?",
+        "fr": "Quel est l'animal national officiel de l'Écosse ?",
+        "tr": "İskoçya'nın resmi ulusal hayvanı hangisidir?",
+        "id": "Apa hewan nasional resmi Skotlandia?"
+      },
+      "correctAnswer": {
+        "en": "The Unicorn",
+        "fr": "La Licorne",
+        "tr": "Tekboynuz (Unicorn)",
+        "id": "Unicorn"
+      },
+      "distractors": {
+        "en": [
+          "The Red Stag",
+          "The Golden Eagle",
+          "The Highland Bull"
+        ],
+        "fr": [
+          "Le Cerf élaphe",
+          "L'Aigle royal",
+          "Le Taureau des Highlands"
+        ],
+        "tr": [
+          "Kızıl Geyik",
+          "Kaya Kartalı",
+          "Highland Boğası"
+        ],
+        "id": [
+          "Rusa Merah",
+          "Elang Emas",
+          "Banteng Dataran Tinggi"
+        ]
+      },
+      "explanation": {
+        "en": "In Celtic mythology, the unicorn symbolized purity, noble innocence, and untamed pride.",
+        "fr": "Dans la mythologie celtique, la licorne symbolisait la pureté et la fierté insoumise.",
+        "tr": "Kelt mitolojisinde tekboynuz saflığı, gücü ve boyun eğmez özgürlüğü simgeler.",
+        "id": "Dalam mitologi Keltik, unicorn melambangkan kemurnian, kekuatan, dan kebanggaan yang tak terikat."
+      }
+    },
+    {
+      "id": "speed_pop_005",
+      "category": "Pop Culture",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which video game franchise features the Master Chief as the main protagonist?",
+        "fr": "Quelle franchise de jeux vidéo met en vedette Master Chief comme protagoniste principal ?",
+        "tr": "Master Chief hangi ünlü video oyunu serisinin ana kahramanıdır?",
+        "id": "Waralaba video game mana yang menampilkan Master Chief sebagai protagonis utama?"
+      },
+      "correctAnswer": {
+        "en": "Halo",
+        "fr": "Halo",
+        "tr": "Halo",
+        "id": "Halo"
+      },
+      "distractors": {
+        "en": [
+          "Destiny",
+          "Call of Duty",
+          "Gears of War"
+        ],
+        "fr": [
+          "Destiny",
+          "Call of Duty",
+          "Gears of War"
+        ],
+        "tr": [
+          "Destiny",
+          "Call of Duty",
+          "Gears of War"
+        ],
+        "id": [
+          "Destiny",
+          "Call of Duty",
+          "Gears of War"
+        ]
+      },
+      "explanation": {
+        "en": "Master Chief Petty Officer John-117 is the legendary hero of the Halo universe.",
+        "fr": "Le Major John-117 est le héros légendaire de l'univers Halo.",
+        "tr": "Master Chief John-117, Halo evreninin efsanevi süper askeri kahramanıdır.",
+        "id": "Master Chief John-117 adalah pahlawan legendaris di dunia Halo."
+      }
+    },
+    {
+      "id": "speed_pop_006",
+      "category": "Pop Culture",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the name of Thor's magical hammer in Marvel comics and films?",
+        "fr": "Quel est le nom du marteau magique de Thor dans l'univers Marvel ?",
+        "tr": "Marvel filmlerinde Thor'un büyülü çekicinin adı nedir?",
+        "id": "Apa nama palu ajaib Thor dalam film dan komik Marvel?"
+      },
+      "correctAnswer": {
+        "en": "Mjolnir",
+        "fr": "Mjolnir",
+        "tr": "Mjolnir",
+        "id": "Mjolnir"
+      },
+      "distractors": {
+        "en": [
+          "Stormbreaker",
+          "Gungnir",
+          "Aegis"
+        ],
+        "fr": [
+          "Stormbreaker",
+          "Gungnir",
+          "Aegis"
+        ],
+        "tr": [
+          "Stormbreaker",
+          "Gungnir",
+          "Aegis"
+        ],
+        "id": [
+          "Stormbreaker",
+          "Gungnir",
+          "Aegis"
+        ]
+      },
+      "explanation": {
+        "en": "Mjolnir was forged in the heart of a dying star by the Dwarves of Nidavellir.",
+        "fr": "Mjolnir a été forgé au cœur d'une étoile mourante par les Nains de Nidavellir.",
+        "tr": "Mjolnir, Nidavellir Cüceleri tarafından ölmekte olan bir yıldızın kalbinde dövüldü.",
+        "id": "Mjolnir ditempa di jantung bintang yang sekarat oleh para Kurcaci Nidavellir."
+      }
+    },
+    {
+      "id": "speed_pop_007",
+      "category": "Pop Culture",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which musician released the hit song 'Blinding Lights' in 2019?",
+        "fr": "Quel artiste a sorti le tube planétaire 'Blinding Lights' en 2019 ?",
+        "tr": "2019'da hit olan 'Blinding Lights' şarkısını hangi sanatçı seslendirmiştir?",
+        "id": "Musisi mana yang merilis lagu hit 'Blinding Lights' pada tahun 2019?"
+      },
+      "correctAnswer": {
+        "en": "The Weeknd",
+        "fr": "The Weeknd",
+        "tr": "The Weeknd",
+        "id": "The Weeknd"
+      },
+      "distractors": {
+        "en": [
+          "Bruno Mars",
+          "Drake",
+          "Post Malone"
+        ],
+        "fr": [
+          "Bruno Mars",
+          "Drake",
+          "Post Malone"
+        ],
+        "tr": [
+          "Bruno Mars",
+          "Drake",
+          "Post Malone"
+        ],
+        "id": [
+          "Bruno Mars",
+          "Drake",
+          "Post Malone"
+        ]
+      },
+      "explanation": {
+        "en": "'Blinding Lights' spent a record-shattering 90 weeks on the Billboard Hot 100.",
+        "fr": "'Blinding Lights' a passé 90 semaines record sur le Billboard Hot 100.",
+        "tr": "'Blinding Lights', Billboard Hot 100 listesinde 90 hafta kalarak rekor kırmıştır.",
+        "id": "'Blinding Lights' menghabiskan rekor 90 minggu di tangga lagu Billboard Hot 100."
+      }
+    },
+    {
+      "id": "speed_pop_008",
+      "category": "Pop Culture",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "In 'The Matrix', which color pill does Neo take to wake up into the real world?",
+        "fr": "Dans 'Matrix', quelle pilule de couleur Neo prend-il pour se réveiller ?",
+        "tr": "'Matrix' filminde Neo gerçek dünyaya uyanmak için hangi renk hapı seçer?",
+        "id": "Di 'The Matrix', pil warna apa yang diminum Neo untuk bangun ke dunia nyata?"
+      },
+      "correctAnswer": {
+        "en": "Red Pill",
+        "fr": "Pilule rouge",
+        "tr": "Kırmızı Hap",
+        "id": "Pil Merah"
+      },
+      "distractors": {
+        "en": [
+          "Blue Pill",
+          "Green Pill",
+          "Yellow Pill"
+        ],
+        "fr": [
+          "Pilule bleue",
+          "Pilule verte",
+          "Pilule jaune"
+        ],
+        "tr": [
+          "Mavi Hap",
+          "Yeşil Hap",
+          "Sarı Hap"
+        ],
+        "id": [
+          "Pil Biru",
+          "Pil Hijau",
+          "Pil Kuning"
+        ]
+      },
+      "explanation": {
+        "en": "The red pill shows him the truth; the blue pill would keep him in blissful ignorance.",
+        "fr": "La pilule rouge lui montre la vérité ; la pilule bleue l'aurait gardé dans l'illusion.",
+        "tr": "Kırmızı hap gerçeği gösterirken, mavi hap simülasyonda kalmasını sağlardı.",
+        "id": "Pil merah menunjukkan kebenaran; pil biru akan membuatnya tetap dalam ilusi."
+      }
+    },
+    {
+      "id": "speed_pop_009",
+      "category": "Pop Culture",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Who is the creator of the popular animated sci-fi sitcom 'Futurama'?",
+        "fr": "Qui est le créateur de la série d'animation culte 'Futurama' ?",
+        "tr": "Popüler animasyon dizisi 'Futurama'nın yaratıcısı kimdir?",
+        "id": "Siapa pencipta sitkom animasi fiksi ilmiah populer 'Futurama'?"
+      },
+      "correctAnswer": {
+        "en": "Matt Groening",
+        "fr": "Matt Groening",
+        "tr": "Matt Groening",
+        "id": "Matt Groening"
+      },
+      "distractors": {
+        "en": [
+          "Seth MacFarlane",
+          "Dan Harmon",
+          "Justin Roiland"
+        ],
+        "fr": [
+          "Seth MacFarlane",
+          "Dan Harmon",
+          "Justin Roiland"
+        ],
+        "tr": [
+          "Seth MacFarlane",
+          "Dan Harmon",
+          "Justin Roiland"
+        ],
+        "id": [
+          "Seth MacFarlane",
+          "Dan Harmon",
+          "Justin Roiland"
+        ]
+      },
+      "explanation": {
+        "en": "Matt Groening created both 'The Simpsons' and 'Futurama'.",
+        "fr": "Matt Groening a créé à la fois 'Les Simpson' et 'Futurama'.",
+        "tr": "Matt Groening, hem 'Simpsonlar' hem de 'Futurama'nın efsanevi yaratıcısıdır.",
+        "id": "Matt Groening menciptakan 'The Simpsons' sekaligus 'Futurama'."
+      }
+    },
+    {
+      "id": "speed_pop_010",
+      "category": "Pop Culture",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the highest-grossing film of all time worldwide (unadjusted for inflation)?",
+        "fr": "Quel est le film ayant rapporté le plus d'argent au box-office mondial ?",
+        "tr": "Dünya çapında tüm zamanların en çok hasılat yapan filmi hangisidir?",
+        "id": "Apa film berpenghasilan kotor tertinggi sepanjang masa di seluruh dunia?"
+      },
+      "correctAnswer": {
+        "en": "Avatar",
+        "fr": "Avatar",
+        "tr": "Avatar",
+        "id": "Avatar"
+      },
+      "distractors": {
+        "en": [
+          "Avengers: Endgame",
+          "Titanic",
+          "Star Wars: The Force Awakens"
+        ],
+        "fr": [
+          "Avengers: Endgame",
+          "Titanic",
+          "Star Wars: Le Réveil de la Force"
+        ],
+        "tr": [
+          "Avengers: Endgame",
+          "Titanik",
+          "Yıldız Savaşları: Güç Uyanıyor"
+        ],
+        "id": [
+          "Avengers: Endgame",
+          "Titanic",
+          "Star Wars: The Force Awakens"
+        ]
+      },
+      "explanation": {
+        "en": "James Cameron's Avatar has grossed over $2.9 billion worldwide.",
+        "fr": "Avatar de James Cameron a dépassé les 2,9 milliards de dollars de recettes.",
+        "tr": "James Cameron'ın Avatar filmi dünya genelinde 2.9 milyar doları aşan hasılat elde etmiştir.",
+        "id": "Avatar karya James Cameron telah meraup lebih dari $2,9 miliar di seluruh dunia."
+      }
+    },
+    {
+      "id": "speed_pop_011",
+      "category": "Pop Culture",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which Pokémon is listed as number 001 in the National Pokédex?",
+        "fr": "Quel Pokémon porte le numéro 001 dans le Pokédex national ?",
+        "tr": "Ulusal Pokédex'te 001 numaralı Pokémon hangisidir?",
+        "id": "Pokémon mana yang terdaftar sebagai nomor 001 di Pokédex Nasional?"
+      },
+      "correctAnswer": {
+        "en": "Bulbasaur",
+        "fr": "Bulbizarre",
+        "tr": "Bulbasaur",
+        "id": "Bulbasaur"
+      },
+      "distractors": {
+        "en": [
+          "Pikachu",
+          "Charmander",
+          "Squirtle"
+        ],
+        "fr": [
+          "Pikachu",
+          "Salamèche",
+          "Carapuce"
+        ],
+        "tr": [
+          "Pikachu",
+          "Charmander",
+          "Squirtle"
+        ],
+        "id": [
+          "Pikachu",
+          "Charmander",
+          "Squirtle"
+        ]
+      },
+      "explanation": {
+        "en": "Bulbasaur starts the Kanto region Grass-type starter lineage.",
+        "fr": "Bulbizarre inaugure la lignée des starters de type Plante à Kanto.",
+        "tr": "Bulbasaur, Kanto bölgesinin 1 numaralı Çim türü başlangıç Pokémon'udur.",
+        "id": "Bulbasaur adalah Pokémon urutan pertama dalam Pokédex Kanto."
+      }
+    },
+    {
+      "id": "speed_food_007",
+      "category": "Food",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which country is the culinary origin of sushi?",
+        "fr": "De quel pays est originaire le sushi ?",
+        "tr": "Suşi lezzetinin doğduğu köken ülke neresidir?",
+        "id": "Negara mana yang menjadi asal kuliner sushi?"
+      },
+      "correctAnswer": {
+        "en": "Japan",
+        "fr": "Japon",
+        "tr": "Japonya",
+        "id": "Jepang"
+      },
+      "distractors": {
+        "en": [
+          "China",
+          "Thailand",
+          "South Korea"
+        ],
+        "fr": [
+          "Chine",
+          "Thaïlande",
+          "Corée du Sud"
+        ],
+        "tr": [
+          "Çin",
+          "Tayland",
+          "Güney Kore"
+        ],
+        "id": [
+          "Tiongkok",
+          "Thailand",
+          "Korea Selatan"
+        ]
+      },
+      "explanation": {
+        "en": "Modern Edo-style nigiri sushi developed in Tokyo in the 1820s.",
+        "fr": "Le sushi nigiri moderne est né à Tokyo dans les années 1820.",
+        "tr": "Modern nigiri suşi 1820'lerde Tokyo'da sokak lezzeti olarak ortaya çıktı.",
+        "id": "Sushi nigiri gaya modern berkembang di Tokyo pada tahun 1820-an."
+      }
+    },
+    {
+      "id": "speed_food_008",
+      "category": "Food",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the primary spice that gives curry powder and yellow mustard its distinct color?",
+        "fr": "Quelle épice donne à la moutarde et au curry leur couleur jaune intense ?",
+        "tr": "Körri tozuna ve hardala yoğun sarı rengini veren ana baharat hangisidir?",
+        "id": "Rempah utama apa yang memberi bubuk kari dan moster warna kuning khas?"
+      },
+      "correctAnswer": {
+        "en": "Turmeric",
+        "fr": "Curcuma",
+        "tr": "Zerdeçal",
+        "id": "Kunyit"
+      },
+      "distractors": {
+        "en": [
+          "Saffron",
+          "Cumin",
+          "Paprika"
+        ],
+        "fr": [
+          "Safran",
+          "Cumin",
+          "Paprika"
+        ],
+        "tr": [
+          "Safran",
+          "Kimyon",
+          "Kırmızı Biber"
+        ],
+        "id": [
+          "Saffron",
+          "Jintan",
+          "Paprika"
+        ]
+      },
+      "explanation": {
+        "en": "Turmeric contains curcumin, a vivid yellow-orange plant pigment.",
+        "fr": "Le curcuma contient de la curcumine, un pigment végétal jaune vif.",
+        "tr": "Zerdeçal, parlak sarı rengini kurkumin pigmentinden alır.",
+        "id": "Kunyit mengandung kurkumin, pigmen kuning cerah alami."
+      }
+    },
+    {
+      "id": "speed_food_009",
+      "category": "Food",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "From which tree bean is genuine chocolate made?",
+        "fr": "À partir des fèves de quel arbre le véritable chocolat est-il fabriqué ?",
+        "tr": "Hakiki çikolata hangi ağacın çekirdeklerinden üretilir?",
+        "id": "Dari biji pohon apa cokelat asli dibuat?"
+      },
+      "correctAnswer": {
+        "en": "Cacao Tree",
+        "fr": "Cacaoyer",
+        "tr": "Kakao Ağacı",
+        "id": "Pohon Kakao"
+      },
+      "distractors": {
+        "en": [
+          "Coffee Plant",
+          "Carob Tree",
+          "Vanilla Orchid"
+        ],
+        "fr": [
+          "Caféier",
+          "Caroubier",
+          "Orchidée vanille"
+        ],
+        "tr": [
+          "Kahve Ağacı",
+          "Keçiboynuzu",
+          "Vanilya Bitkisi"
+        ],
+        "id": [
+          "Pohon Kopi",
+          "Pohon Karob",
+          "Anggrek Vanila"
+        ]
+      },
+      "explanation": {
+        "en": "The Theobroma cacao tree yields pods containing precious cocoa beans.",
+        "fr": "Le Theobroma cacao produit les cabosses contenant les fèves de cacao.",
+        "tr": "Theobroma cacao ağacı, çikolatanın ham maddesi olan kakao çekirdeklerini verir.",
+        "id": "Pohon Theobroma cacao menghasilkan polong berisi biji kakao berharga."
+      }
+    },
+    {
+      "id": "speed_food_010",
+      "category": "Food",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What type of cheese is traditionally sprinkled on classic Italian pasta dishes?",
+        "fr": "Quel fromage râpé est traditionnellement servi sur les pâtes italiennes ?",
+        "tr": "Klasik İtalyan makarnalarının üzerine rendelenen meşhur sert peynir hangisidir?",
+        "id": "Jenis keju apa yang secara tradisional ditaburkan pada hidangan pasta Italia?"
+      },
+      "correctAnswer": {
+        "en": "Parmigiano-Reggiano",
+        "fr": "Parmesan (Parmigiano)",
+        "tr": "Parmesan",
+        "id": "Parmesan"
+      },
+      "distractors": {
+        "en": [
+          "Mozzarella",
+          "Gouda",
+          "Cheddar"
+        ],
+        "fr": [
+          "Mozzarella",
+          "Gouda",
+          "Cheddar"
+        ],
+        "tr": [
+          "Mozzarella",
+          "Gouda",
+          "Cheddar"
+        ],
+        "id": [
+          "Mozzarella",
+          "Gouda",
+          "Cheddar"
+        ]
+      },
+      "explanation": {
+        "en": "Parmigiano-Reggiano is aged 12 to 36 months in northern Italy.",
+        "fr": "Le Parmigiano-Reggiano est affiné entre 12 et 36 mois en Italie du Nord.",
+        "tr": "Parmigiano-Reggiano, Kuzey İtalya'da 12 ila 36 ay arasında olgunlaştırılır.",
+        "id": "Parmigiano-Reggiano diperam selama 12 hingga 36 bulan di Italia utara."
+      }
+    },
+    {
+      "id": "speed_geo_006",
+      "category": "Geography",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the capital city of Australia?",
+        "fr": "Quelle est la capitale de l'Australie ?",
+        "tr": "Avustralya'nın başkenti neresidir?",
+        "id": "Apa ibu kota Australia?"
+      },
+      "correctAnswer": {
+        "en": "Canberra",
+        "fr": "Canberra",
+        "tr": "Canberra",
+        "id": "Canberra"
+      },
+      "distractors": {
+        "en": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ],
+        "fr": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ],
+        "tr": [
+          "Sidney",
+          "Melbourne",
+          "Brisbane"
+        ],
+        "id": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ]
+      },
+      "explanation": {
+        "en": "Canberra was chosen as a compromise between rivals Sydney and Melbourne in 1908.",
+        "fr": "Canberra a été choisie en 1908 comme compromis entre Sydney et Melbourne.",
+        "tr": "Canberra, 1908'de Sidney ve Melbourne arasındaki rekabeti çözmek için başkent seçildi.",
+        "id": "Canberra dipilih sebagai kompromi antara Sydney dan Melbourne pada tahun 1908."
+      }
+    },
+    {
+      "id": "speed_geo_007",
+      "category": "Geography",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which river flows through Paris, France?",
+        "fr": "Quel fleuve traverse la ville de Paris ?",
+        "tr": "Fransa'nın başkenti Paris'in içinden geçen ünlü nehir hangisidir?",
+        "id": "Sungai apa yang mengalir melintasi kota Paris, Prancis?"
+      },
+      "correctAnswer": {
+        "en": "Seine",
+        "fr": "La Seine",
+        "tr": "Sen Nehri (Seine)",
+        "id": "Sungai Seine"
+      },
+      "distractors": {
+        "en": [
+          "Thames",
+          "Danube",
+          "Rhine"
+        ],
+        "fr": [
+          "Tamise",
+          "Danube",
+          "Rhin"
+        ],
+        "tr": [
+          "Thames",
+          "Tuna",
+          "Ren"
+        ],
+        "id": [
+          "Thames",
+          "Danube",
+          "Rhein"
+        ]
+      },
+      "explanation": {
+        "en": "The Seine cuts right through central Paris, dividing it into Left and Right Banks.",
+        "fr": "La Seine traverse le centre de Paris, divisant la ville en Rive Gauche et Rive Droite.",
+        "tr": "Sen Nehri, Paris'i Sol Yaka ve Sağ Yaka olarak ikiye böler.",
+        "id": "Sungai Seine membelah Paris menjadi Tepi Kiri dan Tepi Kanan."
+      }
+    },
+    {
+      "id": "speed_geo_016",
+      "category": "Geography",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the longest mountain range above sea level in the world?",
+        "fr": "Quelle est la plus longue chaîne de montagnes terrestre au monde ?",
+        "tr": "Dünyanın deniz seviyesi üzerindeki en uzun dağ sırası hangisidir?",
+        "id": "Apa pegunungan terpanjang di atas permukaan laut di dunia?"
+      },
+      "correctAnswer": {
+        "en": "The Andes",
+        "fr": "Les Andes",
+        "tr": "And Dağları",
+        "id": "Pegunungan Andes"
+      },
+      "distractors": {
+        "en": [
+          "The Himalayas",
+          "The Rocky Mountains",
+          "The Alps"
+        ],
+        "fr": [
+          "L'Himalaya",
+          "Les Rocheuses",
+          "Les Alpes"
+        ],
+        "tr": [
+          "Himalayalar",
+          "Kayalık Dağlar",
+          "Alpler"
+        ],
+        "id": [
+          "Himalaya",
+          "Pegunungan Rocky",
+          "Alpen"
+        ]
+      },
+      "explanation": {
+        "en": "The Andes span over 7,000 kilometers along South America's western edge.",
+        "fr": "Les Andes s'étendent sur plus de 7 000 km le long de l'Amérique du Sud.",
+        "tr": "And Dağları, Güney Amerika boyunca 7.000 kilometreden fazla uzanır.",
+        "id": "Andes membentang lebih dari 7.000 kilometer di sepanjang Amerika Selatan."
+      }
+    },
+    {
+      "id": "speed_geo_009",
+      "category": "Geography",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which country has the most natural lakes in the world?",
+        "fr": "Quel pays compte le plus de lacs naturels au monde ?",
+        "tr": "Dünyada en fazla doğal göle sahip olan ülke hangisidir?",
+        "id": "Negara mana yang memiliki danau alami terbanyak di dunia?"
+      },
+      "correctAnswer": {
+        "en": "Canada",
+        "fr": "Canada",
+        "tr": "Kanada",
+        "id": "Kanada"
+      },
+      "distractors": {
+        "en": [
+          "Russia",
+          "United States",
+          "Finland"
+        ],
+        "fr": [
+          "Russie",
+          "États-Unis",
+          "Finlande"
+        ],
+        "tr": [
+          "Rusya",
+          "Amerika Birleşik Devletleri",
+          "Finlandiya"
+        ],
+        "id": [
+          "Rusia",
+          "Amerika Serikat",
+          "Finlandia"
+        ]
+      },
+      "explanation": {
+        "en": "Canada holds over 60% of all the lakes on Earth!",
+        "fr": "Le Canada abrite plus de 60 % de tous les lacs de la planète !",
+        "tr": "Dünyadaki tüm göllerin %60'ından fazlası Kanada sınırları içindedir!",
+        "id": "Kanada memiliki lebih dari 60% danau di seluruh dunia!"
+      }
+    },
+    {
+      "id": "speed_hal_001",
+      "category": "Halloween",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "In modern Halloween tradition, what root vegetable was originally carved before pumpkins?",
+        "fr": "Avant la citrouille, quel légume sculptait-on à l'origine pour Halloween ?",
+        "tr": "Cadılar Bayramı'nda balkabağından önce geleneksel olarak hangi sebze oyuluyordu?",
+        "id": "Sebelum labu, sayuran apa yang awalnya diukir untuk tradisi Halloween?"
+      },
+      "correctAnswer": {
+        "en": "Turnip",
+        "fr": "Le navet",
+        "tr": "Şalgam / Turp",
+        "id": "Lobak"
+      },
+      "distractors": {
+        "en": [
+          "Potato",
+          "Beetroot",
+          "Cabbage"
+        ],
+        "fr": [
+          "Pomme de terre",
+          "Betterave",
+          "Chou"
+        ],
+        "tr": [
+          "Patates",
+          "Pancar",
+          "Lahana"
+        ],
+        "id": [
+          "Kentang",
+          "Bit",
+          "Kubis"
+        ]
+      },
+      "explanation": {
+        "en": "In Ireland and Scotland, people carved turnips into scary faces to ward off evil spirits.",
+        "fr": "En Irlande et en Écosse, on sculptait des navets pour éloigner les mauvais esprits.",
+        "tr": "İrlanda ve İskoçya'da kötü ruhları kovmak için fener olarak şalgamlar oyulurdu.",
+        "id": "Di Irlandia dan Skotlandia, orang mengukir lobak untuk mengusir roh jahat."
+      }
+    },
+    {
+      "id": "speed_hal_002",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "From which ancient Celtic festival does Halloween directly originate?",
+        "fr": "De quel ancien festival celtique provient la fête d'Halloween ?",
+        "tr": "Cadılar Bayramı kökenini hangi antik Kelt festivalinden almıştır?",
+        "id": "Dari festival Celtic kuno mana Halloween berasal?"
+      },
+      "correctAnswer": {
+        "en": "Samhain",
+        "fr": "Samhain",
+        "tr": "Samhain",
+        "id": "Samhain"
+      },
+      "distractors": {
+        "en": [
+          "Beltane",
+          "Imbolc",
+          "Lughnasadh"
+        ],
+        "fr": [
+          "Beltane",
+          "Imbolc",
+          "Lughnasadh"
+        ],
+        "tr": [
+          "Beltane",
+          "Imbolc",
+          "Lughnasadh"
+        ],
+        "id": [
+          "Beltane",
+          "Imbolc",
+          "Lughnasadh"
+        ]
+      },
+      "explanation": {
+        "en": "Samhain marked the end of the harvest season and the boundary between the living and dead.",
+        "fr": "Samhain marquait la fin des récoltes et la frontière entre les vivants et les morts.",
+        "tr": "Samhain, hasat mevsiminin bitişini ve ölüler ile yaşayanlar arasındaki geçişi simgelerdi.",
+        "id": "Samhain menandai akhir musim panen dan batas antara orang hidup dan orang mati."
+      }
+    },
+    {
+      "id": "speed_hal_003",
+      "category": "Halloween",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "According to legend, what creature shape does Count Dracula most famously turn into?",
+        "fr": "Selon la légende, en quel animal le comte Dracula se transforme-t-il le plus souvent ?",
+        "tr": "Efsaneye göre Kont Drakula en bilinen şekilde hangi hayvana dönüşür?",
+        "id": "Menurut legenda, menjadi hewan apa Count Dracula paling terkenal bertransformasi?"
+      },
+      "correctAnswer": {
+        "en": "Bat",
+        "fr": "Chauve-souris",
+        "tr": "Yarasa",
+        "id": "Kelelawar"
+      },
+      "distractors": {
+        "en": [
+          "Black Cat",
+          "Raven",
+          "Snake"
+        ],
+        "fr": [
+          "Chat noir",
+          "Corbeau",
+          "Serpent"
+        ],
+        "tr": [
+          "Kara Kedi",
+          "Kuzgun",
+          "Yılan"
+        ],
+        "id": [
+          "Kucing Hitam",
+          "Gagak",
+          "Ular"
+        ]
+      },
+      "explanation": {
+        "en": "Bram Stoker popularized Dracula transforming into a vampire bat and mist.",
+        "fr": "Bram Stoker a popularisé Dracula se transformant en chauve-souris et en brume.",
+        "tr": "Bram Stoker'ın romanında Drakula yarasa ve sis şekline bürünerek hareket eder.",
+        "id": "Bram Stoker mempopulerkan Dracula yang bisa berubah menjadi kelelawar dan kabut."
+      }
+    },
+    {
+      "id": "speed_hal_004",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which famous magician and escape artist tragically passed away on Halloween in 1926?",
+        "fr": "Quel célèbre illusionniste et roi de l'évasion est mort le jour d'Halloween en 1926 ?",
+        "tr": "1926 yılında Cadılar Bayramı gecesinde hayatını kaybeden efsanevi sihirbaz kimdir?",
+        "id": "Ilusionis terkenal mana yang meninggal dunia pada malam Halloween tahun 1926?"
+      },
+      "correctAnswer": {
+        "en": "Harry Houdini",
+        "fr": "Harry Houdini",
+        "tr": "Harry Houdini",
+        "id": "Harry Houdini"
+      },
+      "distractors": {
+        "en": [
+          "David Copperfield",
+          "Howard Thurston",
+          "Jean-Eugène Robert-Houdin"
+        ],
+        "fr": [
+          "David Copperfield",
+          "Howard Thurston",
+          "Jean-Eugène Robert-Houdin"
+        ],
+        "tr": [
+          "David Copperfield",
+          "Howard Thurston",
+          "Jean-Eugène Robert-Houdin"
+        ],
+        "id": [
+          "David Copperfield",
+          "Howard Thurston",
+          "Jean-Eugène Robert-Houdin"
+        ]
+      },
+      "explanation": {
+        "en": "Houdini died on October 31, 1926, from peritonitis following a ruptured appendix.",
+        "fr": "Houdini est mort le 31 octobre 1926 d'une péritonite causée par une rupture d'appendice.",
+        "tr": "Houdini, 31 Ekim 1926'da apandisit patlaması sonucu Cadılar Bayramı'nda öldü.",
+        "id": "Houdini meninggal pada 31 Oktober 1926 akibat komplikasi radang usus buntu."
+      }
+    },
+    {
+      "id": "speed_hal_005",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "In what historic Massachusetts town did the infamous witch trials take place in 1692?",
+        "fr": "Dans quelle ville du Massachusetts les célèbres procès de sorcières ont-ils eu lieu en 1692 ?",
+        "tr": "1692 yılında meşhur cadı mahkemelerinin kurulduğu Massachusetts kasabası hangisidir?",
+        "id": "Di kota Massachusetts mana pengadilan penyihir terkenal terjadi pada tahun 1692?"
+      },
+      "correctAnswer": {
+        "en": "Salem",
+        "fr": "Salem",
+        "tr": "Salem",
+        "id": "Salem"
+      },
+      "distractors": {
+        "en": [
+          "Boston",
+          "Plymouth",
+          "Concord"
+        ],
+        "fr": [
+          "Boston",
+          "Plymouth",
+          "Concord"
+        ],
+        "tr": [
+          "Boston",
+          "Plymouth",
+          "Concord"
+        ],
+        "id": [
+          "Boston",
+          "Plymouth",
+          "Concord"
+        ]
+      },
+      "explanation": {
+        "en": "The Salem Witch Trials resulted in nineteen innocent people being executed.",
+        "fr": "Les procès de Salem ont conduit à l'exécution de dix-neuf personnes accusées de sorcellerie.",
+        "tr": "Salem Cadı Mahkemeleri sonucunda 19 kişi cadılıkla suçlanarak idam edildi.",
+        "id": "Pengadilan Penyihir Salem mengakibatkan sembilan belas orang dihukum mati."
+      }
+    },
+    {
+      "id": "speed_hal_006",
+      "category": "Halloween",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What popular candy was originally called 'Chicken Feed' when invented in the 1880s?",
+        "fr": "Quel bonbon d'Halloween s'appelait à l'origine 'Nourriture pour poulets' ?",
+        "tr": "1880'lerde icat edildiğinde 'Tavuk Yemi' adıyla satılan ikonik şekerleme hangisidir?",
+        "id": "Permen Halloween mana yang awalnya dinamai 'Pakan Ayam' saat ditemukan pada tahun 1880-an?"
+      },
+      "correctAnswer": {
+        "en": "Candy Corn",
+        "fr": "Le Candy Corn",
+        "tr": "Mısır Şekeri (Candy Corn)",
+        "id": "Candy Corn"
+      },
+      "distractors": {
+        "en": [
+          "Gummy Bears",
+          "Jelly Beans",
+          "Lollipops"
+        ],
+        "fr": [
+          "Oursons gélifiés",
+          "Dragées Jelly Belly",
+          "Sucettes"
+        ],
+        "tr": [
+          "Jelibon",
+          "Jelly Beans",
+          "Lolipop"
+        ],
+        "id": [
+          "Permen Beruang",
+          "Jelly Beans",
+          "Lolipop"
+        ]
+      },
+      "explanation": {
+        "en": "Candy Corn was marketed to rural agricultural America as three-color corn kernels.",
+        "fr": "Le Candy Corn imitait l'aspect des grains de maïs multicolores pour les enfants de la campagne.",
+        "tr": "Candy Corn, mısır tanelerini taklit eden üç renkli yapısıyla çiftlik çocuklarına pazarlanmıştı.",
+        "id": "Candy Corn awalnya dibuat meniru biji jagung untuk konsumen pedesaan Amerika."
+      }
+    },
+    {
+      "id": "speed_hal_007",
+      "category": "Halloween",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which famous fictional monster is brought to life using electricity and grave-robed parts?",
+        "fr": "Quel monstre est créé à partir de membres humains et ramené à la vie par l'électricité ?",
+        "tr": "Mezarlardan toplanan parçalar ve elektrik akımıyla hayata döndürülen ünlü canavar kimdir?",
+        "id": "Monster fiksi mana yang dihidupkan menggunakan listrik dan bagian tubuh dari makam?"
+      },
+      "correctAnswer": {
+        "en": "Frankenstein's Monster",
+        "fr": "Le Monstre de Frankenstein",
+        "tr": "Frankenstein'ın Canavarı",
+        "id": "Monster Frankenstein"
+      },
+      "distractors": {
+        "en": [
+          "The Mummy",
+          "The Wolfman",
+          "The Phantom"
+        ],
+        "fr": [
+          "La Momie",
+          "Le Loup-garou",
+          "Le Fantôme"
+        ],
+        "tr": [
+          "Mumya",
+          "Kurt Adam",
+          "Görünmez Adam"
+        ],
+        "id": [
+          "Mumi",
+          "Manusia Serigala",
+          "Hantu"
+        ]
+      },
+      "explanation": {
+        "en": "Mary Shelley created the monster in her 1818 masterpiece novel.",
+        "fr": "Mary Shelley a créé le monstre dans son chef-d'œuvre de 1818.",
+        "tr": "Mary Shelley, 1818 yılında kaleme aldığı romanda bu ikonik karakteri yaratmıştır.",
+        "id": "Mary Shelley menciptakan karakter monster ini dalam novelnya tahun 1818."
+      }
+    },
+    {
+      "id": "speed_hal_008",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the medical term for an irrational and intense phobia of Halloween?",
+        "fr": "Quel est le terme clinique désignant la peur irrationnelle d'Halloween ?",
+        "tr": "Cadılar Bayramı'ndan aşırı ve mantıksız derecede korkma fobisine ne ad verilir?",
+        "id": "Apa istilah medis untuk fobia berlebihan dan irasional terhadap Halloween?"
+      },
+      "correctAnswer": {
+        "en": "Samhainophobia",
+        "fr": "Samhainophobie",
+        "tr": "Samhainofobi",
+        "id": "Samhainophobia"
+      },
+      "distractors": {
+        "en": [
+          "Necrophobia",
+          "Phasmophobia",
+          "Coulrophobia"
+        ],
+        "fr": [
+          "Nécrophobie",
+          "Phasmophobie",
+          "Coulrophobie"
+        ],
+        "tr": [
+          "Nekrofobi",
+          "Fazmofobi",
+          "Koulrofobi"
+        ],
+        "id": [
+          "Necrophobia",
+          "Phasmophobia",
+          "Coulrophobia"
+        ]
+      },
+      "explanation": {
+        "en": "Samhainophobia stems from the Celtic festival Samhain and fear of pagan spirits.",
+        "fr": "La samhainophobie tire son nom du festival Samhain et de la peur des esprits.",
+        "tr": "Samhainofobi adını Kelt festivali Samhain'den ve kötü ruh korkusundan alır.",
+        "id": "Samhainophobia berasal dari nama festival Samhain dan ketakutan pada arwah."
+      }
+    },
+    {
+      "id": "speed_sci_009",
+      "category": "Science",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the hardest naturally occurring mineral on Earth?",
+        "fr": "Quel est le minéral naturel le plus dur sur Terre ?",
+        "tr": "Dünyadaki en sert doğal mineral hangisidir?",
+        "id": "Apa mineral alami terkeras di Bumi?"
+      },
+      "correctAnswer": {
+        "en": "Diamond",
+        "fr": "Diamant",
+        "tr": "Elmas",
+        "id": "Berlian"
+      },
+      "distractors": {
+        "en": [
+          "Quartz",
+          "Topaz",
+          "Corundum"
+        ],
+        "fr": [
+          "Quartz",
+          "Topaze",
+          "Corindon"
+        ],
+        "tr": [
+          "Kuvars",
+          "Topaz",
+          "Korindon"
+        ],
+        "id": [
+          "Kuarsa",
+          "Topas",
+          "Korundum"
+        ]
+      },
+      "explanation": {
+        "en": "Diamond rates a maximum 10 on the Mohs hardness scale.",
+        "fr": "Le diamant est classé au niveau maximal de 10 sur l'échelle de Mohs.",
+        "tr": "Elmas, Mohs sertlik skalasında en yüksek puan olan 10 değerine sahiptir.",
+        "id": "Berlian memiliki nilai maksimal 10 pada skala kekerasan Mohs."
+      }
+    },
+    {
+      "id": "speed_sci_010",
+      "category": "Science",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "How many bones are there in the adult human body?",
+        "fr": "Combien d'os compte le corps humain adulte ?",
+        "tr": "Yetişkin bir insan vücudunda kaç kemik bulunur?",
+        "id": "Berapa banyak tulang yang ada di tubuh manusia dewasa?"
+      },
+      "correctAnswer": {
+        "en": "206",
+        "fr": "206",
+        "tr": "206",
+        "id": "206"
+      },
+      "distractors": {
+        "en": [
+          "195",
+          "215",
+          "300"
+        ],
+        "fr": [
+          "195",
+          "215",
+          "300"
+        ],
+        "tr": [
+          "195",
+          "215",
+          "300"
+        ],
+        "id": [
+          "195",
+          "215",
+          "300"
+        ]
+      },
+      "explanation": {
+        "en": "Babies are born with around 270 bones, which fuse down to 206 by adulthood.",
+        "fr": "Les bébés naissent avec environ 270 os qui fusionnent pour atteindre 206 à l'âge adulte.",
+        "tr": "Bebekler yaklaşık 270 kemikle doğar, yetişkinlikte kaynaşarak 206 kemiğe iner.",
+        "id": "Bayi lahir dengan sekitar 270 tulang yang menyatu menjadi 206 saat dewasa."
+      }
+    },
+    {
+      "id": "speed_sci_011",
+      "category": "Science",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which gas makes up approximately 78% of Earth's atmosphere?",
+        "fr": "Quel gaz compose environ 78 % de l'atmosphère terrestre ?",
+        "tr": "Dünya atmosferinin yaklaşık %78'ini oluşturan gaz hangisidir?",
+        "id": "Gas apa yang membentuk sekitar 78% atmosfer Bumi?"
+      },
+      "correctAnswer": {
+        "en": "Nitrogen",
+        "fr": "Azote",
+        "tr": "Azot",
+        "id": "Nitrogen"
+      },
+      "distractors": {
+        "en": [
+          "Oxygen",
+          "Carbon Dioxide",
+          "Argon"
+        ],
+        "fr": [
+          "Oxygène",
+          "Dioxyde de carbone",
+          "Argon"
+        ],
+        "tr": [
+          "Oksijen",
+          "Karbondioksit",
+          "Argon"
+        ],
+        "id": [
+          "Oksigen",
+          "Karbon Dioksida",
+          "Argon"
+        ]
+      },
+      "explanation": {
+        "en": "Nitrogen accounts for 78% and oxygen accounts for about 21% of dry air.",
+        "fr": "L'azote représente 78 % et l'oxygène environ 21 % de l'air sec.",
+        "tr": "Kuru havanın %78'i azot, yaklaşık %21'i ise oksijendir.",
+        "id": "Nitrogen menyumbang 78% dan oksigen sekitar 21% dari udara kering."
+      }
+    },
+    {
+      "id": "speed_nat_012",
+      "category": "Nature",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the fastest land animal in the world?",
+        "fr": "Quel est l'animal terrestre le plus rapide au monde ?",
+        "tr": "Dünyadaki en hızlı kara hayvanı hangisidir?",
+        "id": "Apa hewan darat tercepat di dunia?"
+      },
+      "correctAnswer": {
+        "en": "Cheetah",
+        "fr": "Guépard",
+        "tr": "Çita",
+        "id": "Cheetah"
+      },
+      "distractors": {
+        "en": [
+          "Lion",
+          "Pronghorn Antelope",
+          "Greyhound"
+        ],
+        "fr": [
+          "Lion",
+          "Antilope d'Amérique",
+          "Lévrier"
+        ],
+        "tr": [
+          "Aslan",
+          "Antilop",
+          "Tazı"
+        ],
+        "id": [
+          "Singa",
+          "Antelop",
+          "Anjing Greyhound"
+        ]
+      },
+      "explanation": {
+        "en": "Cheetahs can accelerate from 0 to 100 km/h in just three seconds.",
+        "fr": "Le guépard peut passer de 0 à 100 km/h en seulement trois secondes.",
+        "tr": "Çitalar sıfırdan saatte 100 kilometre hıza sadece üç saniyede ulaşabilir.",
+        "id": "Cheetah dapat melesat dari 0 hingga 100 km/jam hanya dalam tiga detik."
+      }
+    },
+    {
+      "id": "speed_nat_013",
+      "category": "Nature",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "How many hearts does an octopus have?",
+        "fr": "Combien de cœurs possède une pieuvre ?",
+        "tr": "Bir ahtapotun kaç tane kalbi vardır?",
+        "id": "Berapa banyak jantung yang dimiliki seekor gurita?"
+      },
+      "correctAnswer": {
+        "en": "3",
+        "fr": "3",
+        "tr": "3",
+        "id": "3"
+      },
+      "distractors": {
+        "en": [
+          "1",
+          "2",
+          "8"
+        ],
+        "fr": [
+          "1",
+          "2",
+          "8"
+        ],
+        "tr": [
+          "1",
+          "2",
+          "8"
+        ],
+        "id": [
+          "1",
+          "2",
+          "8"
+        ]
+      },
+      "explanation": {
+        "en": "Two branchial hearts pump blood through the gills, while a systemic heart pumps it to the body.",
+        "fr": "Deux cœurs branchiaux pompent le sang vers les branchies et un cœur central vers le corps.",
+        "tr": "İki solungaç kalbi kanı solungaçlara, bir ana kalp ise vücuda pompalar.",
+        "id": "Dua jantung memompa darah ke insang, dan satu jantung memompa ke seluruh tubuh."
+      }
+    },
+    {
+      "id": "speed_nat_014",
+      "category": "Nature",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the only mammal capable of true sustained flight?",
+        "fr": "Quel est le seul mammifère capable de voler ?",
+        "tr": "Gerçek anlamda kanat çırparak uçabilen tek memeli hayvan hangisidir?",
+        "id": "Apa satu-satunya mamalia yang mampu terbang sejati?"
+      },
+      "correctAnswer": {
+        "en": "Bat",
+        "fr": "Chauve-souris",
+        "tr": "Yarasa",
+        "id": "Kelelawar"
+      },
+      "distractors": {
+        "en": [
+          "Flying Squirrel",
+          "Sugar Glider",
+          "Colugo"
+        ],
+        "fr": [
+          "Écureuil volant",
+          "Planeur à sucre",
+          "Lémurien volant"
+        ],
+        "tr": [
+          "Uçan Sincap",
+          "Şeker Planörü",
+          "Uçan Kuskus"
+        ],
+        "id": [
+          "Tupai Terbang",
+          "Sugar Glider",
+          "Kubung"
+        ]
+      },
+      "explanation": {
+        "en": "Flying squirrels only glide, but bats have powered aerodynamic flight.",
+        "fr": "Les écureuils volants ne font que planer, seules les chauves-souris volent véritablement.",
+        "tr": "Uçan sincaplar yalnızca süzülür, gerçek anlamda uçabilen tek memeli yarasadır.",
+        "id": "Tupai terbang hanya meluncur, tetapi kelelawar mengepakkan sayap untuk terbang sejati."
+      }
+    },
+    {
+      "id": "speed_nat_015",
+      "category": "Nature",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What color is the skin of a polar bear beneath its thick white fur?",
+        "fr": "De quelle couleur est la peau d'un ours polaire sous sa fourrure ?",
+        "tr": "Kutup ayısının beyaz kürkünün altındaki deri hangi renktir?",
+        "id": "Apa warna kulit beruang kutub di bawah bulu putihnya yang tebal?"
+      },
+      "correctAnswer": {
+        "en": "Black",
+        "fr": "Noire",
+        "tr": "Siyah",
+        "id": "Hitam"
+      },
+      "distractors": {
+        "en": [
+          "White",
+          "Pink",
+          "Grey"
+        ],
+        "fr": [
+          "Blanche",
+          "Rose",
+          "Grise"
+        ],
+        "tr": [
+          "Beyaz",
+          "Pembe",
+          "Gri"
+        ],
+        "id": [
+          "Putih",
+          "Merah Muda",
+          "Abu-abu"
+        ]
+      },
+      "explanation": {
+        "en": "Black skin absorbs sunlight to keep the polar bear warm in arctic temperatures.",
+        "fr": "La peau noire absorbe la chaleur du soleil pour réchauffer l'ours polaire.",
+        "tr": "Siyah deri güneş ışınlarını maksimum düzeyde emerek ayıyı soğuktan korur.",
+        "id": "Kulit hitam menyerap sinar matahari untuk menjaga suhu tubuh di kutub."
+      }
+    },
+    {
+      "id": "speed_nat_016",
+      "category": "Nature",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which continent is the native home of wild penguins?",
+        "fr": "Sur quel continent les manchots sauvages sont-ils principalement chez eux ?",
+        "tr": "Vahşi penguenlerin doğal anavatanı olan kıta hangisidir?",
+        "id": "Benua mana yang merupakan habitat asli penguin liar?"
+      },
+      "correctAnswer": {
+        "en": "Antarctica",
+        "fr": "Antarctique",
+        "tr": "Antarktika",
+        "id": "Antarktika"
+      },
+      "distractors": {
+        "en": [
+          "Arctic (North Pole)",
+          "Europe",
+          "North America"
+        ],
+        "fr": [
+          "Arctique (Pôle Nord)",
+          "Europe",
+          "Amérique du Nord"
+        ],
+        "tr": [
+          "Kuzey Kutbu (Arktik)",
+          "Avrupa",
+          "Kuzey Amerika"
+        ],
+        "id": [
+          "Arktik (Kutub Utara)",
+          "Eropa",
+          "Amerika Utara"
+        ]
+      },
+      "explanation": {
+        "en": "All penguin species live naturally in the Southern Hemisphere, heavily concentrated around Antarctica.",
+        "fr": "Tous les manchots vivent dans l'hémisphère sud, principalement en Antarctique.",
+        "tr": "Penguenler Güney Yarımküre'de yaşar, Kuzey Kutbu'nda penguen bulunmaz.",
+        "id": "Semua spesies penguin hidup di Belahan Bumi Selatan, terutama di sekitar Antarktika."
+      }
+    },
+    {
+      "id": "speed_hist_012",
+      "category": "History",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "In which ancient civilization were the Pyramids of Giza constructed?",
+        "fr": "Quelle civilisation antique a érigé les grandes pyramides de Gizeh ?",
+        "tr": "Giza Piramitleri hangi antik medeniyet tarafından inşa edilmiştir?",
+        "id": "Di peradaban kuno mana Piramida Giza dibangun?"
+      },
+      "correctAnswer": {
+        "en": "Ancient Egypt",
+        "fr": "Égypte antique",
+        "tr": "Antik Mısır",
+        "id": "Mesir Kuno"
+      },
+      "distractors": {
+        "en": [
+          "Ancient Rome",
+          "Babylon",
+          "Persia"
+        ],
+        "fr": [
+          "Rome antique",
+          "Babylone",
+          "Perse"
+        ],
+        "tr": [
+          "Antik Roma",
+          "Babil",
+          "Pers İmparatorluğu"
+        ],
+        "id": [
+          "Romawi Kuno",
+          "Babilonia",
+          "Persia"
+        ]
+      },
+      "explanation": {
+        "en": "The Great Pyramid was built for Pharaoh Khufu circa 2560 BC.",
+        "fr": "La Grande Pyramide a été construite pour le pharaon Khéops vers 2560 av. J.-C.",
+        "tr": "Büyük Piramit, M.Ö. 2560 civarında Firavun Keops için anıt mezar olarak yapıldı.",
+        "id": "Piramida Agung dibangun untuk Firaun Khufu sekitar tahun 2560 SM."
+      }
+    },
+    {
+      "id": "speed_hist_013",
+      "category": "History",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Who was the first President of the United States?",
+        "fr": "Qui a été le tout premier président des États-Unis ?",
+        "tr": "Amerika Birleşik Devletleri'nin ilk başkanı kimdir?",
+        "id": "Siapa Presiden pertama Amerika Serikat?"
+      },
+      "correctAnswer": {
+        "en": "George Washington",
+        "fr": "George Washington",
+        "tr": "George Washington",
+        "id": "George Washington"
+      },
+      "distractors": {
+        "en": [
+          "Thomas Jefferson",
+          "John Adams",
+          "Benjamin Franklin"
+        ],
+        "fr": [
+          "Thomas Jefferson",
+          "John Adams",
+          "Benjamin Franklin"
+        ],
+        "tr": [
+          "Thomas Jefferson",
+          "John Adams",
+          "Benjamin Franklin"
+        ],
+        "id": [
+          "Thomas Jefferson",
+          "John Adams",
+          "Benjamin Franklin"
+        ]
+      },
+      "explanation": {
+        "en": "Washington served two terms from 1789 to 1797.",
+        "fr": "Washington a effectué deux mandats présidentiels entre 1789 et 1797.",
+        "tr": "Washington, 1789-1797 yılları arasında iki dönem başkanlık yaptı.",
+        "id": "Washington menjabat dua periode dari tahun 1789 hingga 1797."
+      }
+    },
+    {
+      "id": "speed_hist_014",
+      "category": "History",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "In what year did the Berlin Wall fall, leading to the reunification of Germany?",
+        "fr": "En quelle année le mur de Berlin est-il tombé ?",
+        "tr": "Almanya'nın birleşmesini sağlayan Berlin Duvarı hangi yıl yıkılmıştır?",
+        "id": "Pada tahun berapa Tembok Berlin runtuh?"
+      },
+      "correctAnswer": {
+        "en": "1989",
+        "fr": "1989",
+        "tr": "1989",
+        "id": "1989"
+      },
+      "distractors": {
+        "en": [
+          "1991",
+          "1985",
+          "1979"
+        ],
+        "fr": [
+          "1991",
+          "1985",
+          "1979"
+        ],
+        "tr": [
+          "1991",
+          "1985",
+          "1979"
+        ],
+        "id": [
+          "1991",
+          "1985",
+          "1979"
+        ]
+      },
+      "explanation": {
+        "en": "The Berlin Wall was breached on November 9, 1989.",
+        "fr": "Le mur de Berlin est tombé dans la nuit du 9 novembre 1989.",
+        "tr": "Berlin Duvarı, 9 Kasım 1989 gecesi halk tarafından yıkıldı.",
+        "id": "Tembok Berlin diruntuhkan pada 9 November 1989."
+      }
+    },
+    {
+      "id": "speed_hist_015",
+      "category": "History",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which famous Roman general was assassinated on the Ides of March in 44 BC?",
+        "fr": "Quel général et dictateur romain a été assassiné aux Ides de Mars en 44 av. J.-C. ?",
+        "tr": "M.Ö. 44 yılında Mart'ın 15'inde suikaste uğrayan ünlü Romalı lider kimdir?",
+        "id": "Jenderal Romawi terkenal mana yang dibunuh pada Ides of March tahun 44 SM?"
+      },
+      "correctAnswer": {
+        "en": "Julius Caesar",
+        "fr": "Jules César",
+        "tr": "Jül Sezar",
+        "id": "Julius Caesar"
+      },
+      "distractors": {
+        "en": [
+          "Mark Antony",
+          "Augustus",
+          "Nero"
+        ],
+        "fr": [
+          "Marc Antoine",
+          "Auguste",
+          "Néron"
+        ],
+        "tr": [
+          "Marcus Antonius",
+          "Augustus",
+          "Neron"
+        ],
+        "id": [
+          "Markus Antonius",
+          "Augustus",
+          "Nero"
+        ]
+      },
+      "explanation": {
+        "en": "Julius Caesar was stabbed 23 times in the Roman Senate.",
+        "fr": "Jules César a été poignardé de 23 coups au Sénat romain.",
+        "tr": "Jül Sezar, Roma Senatosu'nda 23 bıçak darbesiyle öldürüldü.",
+        "id": "Julius Caesar ditikam 23 kali di Senat Romawi."
+      }
+    },
+    {
+      "id": "speed_hist_016",
+      "category": "History",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which European explorer's fleet was the first to circumnavigate the globe?",
+        "fr": "Quelle flotte d'explorateur européen a accompli le premier tour du monde ?",
+        "tr": "Dünyanın çevresini ilk kez dolaşan keşif filosunun lideri kimdir?",
+        "id": "Armada penjelajah Eropa mana yang pertama kali mengelilingi dunia?"
+      },
+      "correctAnswer": {
+        "en": "Ferdinand Magellan",
+        "fr": "Fernand de Magellan",
+        "tr": "Ferdinand Macellan",
+        "id": "Ferdinand Magellan"
+      },
+      "distractors": {
+        "en": [
+          "Christopher Columbus",
+          "Vasco da Gama",
+          "James Cook"
+        ],
+        "fr": [
+          "Christophe Colomb",
+          "Vasco de Gama",
+          "James Cook"
+        ],
+        "tr": [
+          "Kristof Kolomb",
+          "Vasco da Gama",
+          "James Cook"
+        ],
+        "id": [
+          "Christopher Columbus",
+          "Vasco da Gama",
+          "James Cook"
+        ]
+      },
+      "explanation": {
+        "en": "Magellan's Spanish expedition completed the first global circumnavigation in 1522.",
+        "fr": "L'expédition de Magellan a achevé la première circumnavigation en 1522.",
+        "tr": "Macellan'ın başlattığı sefer, Juan Sebastián Elcano komutasında 1522'de dünyayı turladı.",
+        "id": "Ekspedisi Magellan menyelesaikan pelayaran keliling dunia pertama pada tahun 1522."
+      }
+    },
+    {
+      "id": "speed_geo_010",
+      "category": "Geography",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the largest desert in the world?",
+        "fr": "Quel est le plus grand désert du monde ?",
+        "tr": "Dünyanın en büyük çölü hangisidir?",
+        "id": "Apa gurun terbesar di dunia?"
+      },
+      "correctAnswer": {
+        "en": "Antarctic Desert",
+        "fr": "Désert antarctique",
+        "tr": "Antarktika Çölü",
+        "id": "Gurun Antarktika"
+      },
+      "distractors": {
+        "en": [
+          "Sahara Desert",
+          "Arabian Desert",
+          "Gobi Desert"
+        ],
+        "fr": [
+          "Désert du Sahara",
+          "Désert d'Arabie",
+          "Désert de Gobi"
+        ],
+        "tr": [
+          "Sahra Çölü",
+          "Arap Çölü",
+          "Gobi Çölü"
+        ],
+        "id": [
+          "Gurun Sahara",
+          "Gurun Arab",
+          "Gurun Gobi"
+        ]
+      },
+      "explanation": {
+        "en": "A desert is defined by low precipitation; Antarctica is the largest polar desert on Earth.",
+        "fr": "Un désert est défini par ses faibles précipitations ; l'Antarctique est le plus grand désert polaire.",
+        "tr": "Çöl tanımı yıllık yağış azlığına dayanır; Antarktika dünyanın en büyük kutup çölüdür.",
+        "id": "Gurun ditentukan oleh curah hujan yang rendah; Antarktika adalah gurun kutub terbesar di Bumi."
+      }
+    },
+    {
+      "id": "speed_geo_011",
+      "category": "Geography",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Through which South American country does the Amazon River primarily flow?",
+        "fr": "À travers quel pays d'Amérique du Sud le fleuve Amazone coule-t-il principalement ?",
+        "tr": "Amazon Nehri'nin en büyük bölümü hangi Güney Amerika ülkesindedir?",
+        "id": "Melalui negara Amerika Selatan mana Sungai Amazon terutama mengalir?"
+      },
+      "correctAnswer": {
+        "en": "Brazil",
+        "fr": "Brésil",
+        "tr": "Brezilya",
+        "id": "Brasil"
+      },
+      "distractors": {
+        "en": [
+          "Argentina",
+          "Colombia",
+          "Chile"
+        ],
+        "fr": [
+          "Argentine",
+          "Colombie",
+          "Chili"
+        ],
+        "tr": [
+          "Arjantin",
+          "Kolombiya",
+          "Şili"
+        ],
+        "id": [
+          "Argentina",
+          "Kolombia",
+          "Chili"
+        ]
+      },
+      "explanation": {
+        "en": "Over 60% of the Amazon basin lies within Brazil's borders.",
+        "fr": "Plus de 60 % du bassin amazonien se trouve au Brésil.",
+        "tr": "Amazon havzasının %60'ından fazlası Brezilya topraklarında yer alır.",
+        "id": "Lebih dari 60% cekungan Amazon berada di wilayah Brasil."
+      }
+    },
+    {
+      "id": "speed_geo_012",
+      "category": "Geography",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "In which city can you visit the famous Colosseum?",
+        "fr": "Dans quelle ville se trouve le célèbre Colisée ?",
+        "tr": "Ünlü Kolezyum amfitiyatrosu hangi şehirdedir?",
+        "id": "Di kota mana Anda dapat mengunjungi Colosseum yang terkenal?"
+      },
+      "correctAnswer": {
+        "en": "Rome",
+        "fr": "Rome",
+        "tr": "Roma",
+        "id": "Roma"
+      },
+      "distractors": {
+        "en": [
+          "Athens",
+          "Milan",
+          "Florence"
+        ],
+        "fr": [
+          "Athènes",
+          "Milan",
+          "Florence"
+        ],
+        "tr": [
+          "Atina",
+          "Milano",
+          "Floransa"
+        ],
+        "id": [
+          "Athena",
+          "Milan",
+          "Florence"
+        ]
+      },
+      "explanation": {
+        "en": "The Colosseum was built in the heart of Rome under the Flavian emperors in 72–80 AD.",
+        "fr": "Le Colisée a été construit au cœur de Rome sous les empereurs flaviens.",
+        "tr": "Kolezyum, M.S. 80 yılında Roma İmparatorluğu'nun başkentinde açılmıştır.",
+        "id": "Colosseum dibangun di pusat kota Roma pada era kaisar Flavia."
+      }
+    },
+    {
+      "id": "speed_geo_013",
+      "category": "Geography",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which country has the longest coastline in the world?",
+        "fr": "Quel pays possède le plus long littoral au monde ?",
+        "tr": "Dünyanın en uzun kıyı şeridine sahip ülkesi hangisidir?",
+        "id": "Negara mana yang memiliki garis pantai terpanjang di dunia?"
+      },
+      "correctAnswer": {
+        "en": "Canada",
+        "fr": "Canada",
+        "tr": "Kanada",
+        "id": "Kanada"
+      },
+      "distractors": {
+        "en": [
+          "Indonesia",
+          "Norway",
+          "Russia"
+        ],
+        "fr": [
+          "Indonésie",
+          "Norvège",
+          "Russie"
+        ],
+        "tr": [
+          "Endonezya",
+          "Norveç",
+          "Rusya"
+        ],
+        "id": [
+          "Indonesia",
+          "Norwegia",
+          "Rusia"
+        ]
+      },
+      "explanation": {
+        "en": "Canada's coastline stretches over 243,042 kilometers across three oceans.",
+        "fr": "Le littoral canadien mesure plus de 243 000 kilomètres sur trois océans.",
+        "tr": "Kanada'nın kıyı şeridi 243.000 kilometreyi aşar ve 3 okyanusa kıyısı vardır.",
+        "id": "Garis pantai Kanada membentang lebih dari 243.000 kilometer melintasi tiga samudera."
+      }
+    },
+    {
+      "id": "speed_geo_014",
+      "category": "Geography",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the highest mountain peak in the world above sea level?",
+        "fr": "Quel est le plus haut sommet du monde au-dessus du niveau de la mer ?",
+        "tr": "Dünyanın deniz seviyesinden en yüksek dağ zirvesi hangisidir?",
+        "id": "Apa puncak gunung tertinggi di dunia di atas permukaan laut?"
+      },
+      "correctAnswer": {
+        "en": "Mount Everest",
+        "fr": "Mont Everest",
+        "tr": "Everest Dağı",
+        "id": "Gunung Everest"
+      },
+      "distractors": {
+        "en": [
+          "K2",
+          "Kangchenjunga",
+          "Mont Blanc"
+        ],
+        "fr": [
+          "K2",
+          "Kangchenjunga",
+          "Mont Blanc"
+        ],
+        "tr": [
+          "K2",
+          "Kangchenjunga",
+          "Mont Blanc"
+        ],
+        "id": [
+          "K2",
+          "Kangchenjunga",
+          "Mont Blanc"
+        ]
+      },
+      "explanation": {
+        "en": "Mount Everest stands at 8,848.86 meters on the border of Nepal and China.",
+        "fr": "L'Everest culmine à 8 848 mètres à la frontière entre le Népal et la Chine.",
+        "tr": "Everest, Nepal ile Çin sınırında 8.848 metre yüksekliğe ulaşır.",
+        "id": "Gunung Everest berdiri di ketinggian 8.848 meter di perbatasan Nepal dan Tiongkok."
+      }
+    },
+    {
+      "id": "speed_geo_017",
+      "category": "Geography",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which island nation is known as the 'Land of the Rising Sun'?",
+        "fr": "Quelle nation insulaire est surnommée le 'Pays du Soleil Levant' ?",
+        "tr": "'Doğan Güneşin Ülkesi' olarak bilinen ada ülkesi hangisidir?",
+        "id": "Negara kepulauan mana yang dikenal sebagai 'Negeri Matahari Terbit'?"
+      },
+      "correctAnswer": {
+        "en": "Japan",
+        "fr": "Japon",
+        "tr": "Japonya",
+        "id": "Jepang"
+      },
+      "distractors": {
+        "en": [
+          "South Korea",
+          "Taiwan",
+          "Philippines"
+        ],
+        "fr": [
+          "Corée du Sud",
+          "Taïwan",
+          "Philippines"
+        ],
+        "tr": [
+          "Güney Kore",
+          "Tayvan",
+          "Filipinler"
+        ],
+        "id": [
+          "Korea Selatan",
+          "Taiwan",
+          "Filipina"
+        ]
+      },
+      "explanation": {
+        "en": "The name Nihon (Japan) literally translates to 'origin of the sun'.",
+        "fr": "Le nom Nihon signifie littéralement 'origine du soleil' en japonais.",
+        "tr": "Japonca'da Nihon (Nippon), 'Güneşin doğduğu yer' anlamına gelir.",
+        "id": "Nama Nihon (Jepang) secara harfiah berarti 'asal mula matahari'."
+      }
+    },
+    {
+      "id": "speed_geo_016_b",
+      "category": "Geography",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the smallest independent sovereign state in the world by area?",
+        "fr": "Quel est le plus petit État souverain indépendant au monde par sa superficie ?",
+        "tr": "Dünyanın yüzölçümü bakımından en küçük bağımsız ülkesi hangisidir?",
+        "id": "Apa negara berdaulat independen terkecil di dunia berdasarkan luas wilayah?"
+      },
+      "correctAnswer": {
+        "en": "Vatican City",
+        "fr": "Vatican",
+        "tr": "Vatikan",
+        "id": "Vatikan"
+      },
+      "distractors": {
+        "en": [
+          "Monaco",
+          "San Marino",
+          "Liechtenstein"
+        ],
+        "fr": [
+          "Monaco",
+          "Saint-Marin",
+          "Liechtenstein"
+        ],
+        "tr": [
+          "Monako",
+          "San Marino",
+          "Lihtenştayn"
+        ],
+        "id": [
+          "Monako",
+          "San Marino",
+          "Liechtenstein"
+        ]
+      },
+      "explanation": {
+        "en": "Vatican City covers an area of just 0.49 square kilometers inside Rome.",
+        "fr": "Le Vatican s'étend sur seulement 0,49 kilomètre carré au cœur de Rome.",
+        "tr": "Vatikan, Roma şehri içinde sadece 0.49 kilometrekarelik bir alanı kaplar.",
+        "id": "Vatikan hanya mencakup area seluas 0,49 kilometer persegi di dalam kota Roma."
+      }
+    },
+    {
+      "id": "speed_food_016",
+      "category": "Food",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "Which country produces the most coffee beans globally?",
+        "fr": "Quel pays est le premier producteur mondial de café ?",
+        "tr": "Dünyada en çok kahve üreten lider ülke hangisidir?",
+        "id": "Negara mana yang memproduksi biji kopi terbanyak di dunia?"
+      },
+      "correctAnswer": {
+        "en": "Brazil",
+        "fr": "Brésil",
+        "tr": "Brezilya",
+        "id": "Brasil"
+      },
+      "distractors": {
+        "en": [
+          "Colombia",
+          "Vietnam",
+          "Ethiopia"
+        ],
+        "fr": [
+          "Colombie",
+          "Vietnam",
+          "Éthiopie"
+        ],
+        "tr": [
+          "Kolombiya",
+          "Vietnam",
+          "Etiyopya"
+        ],
+        "id": [
+          "Kolombia",
+          "Vietnam",
+          "Etiopia"
+        ]
+      },
+      "explanation": {
+        "en": "Brazil has been the world's largest producer of coffee for over 150 years.",
+        "fr": "Le Brésil est le plus grand producteur mondial de café depuis plus de 150 ans.",
+        "tr": "Brezilya, 150 yılı aşkın süredir dünyanın en büyük kahve üreticisidir.",
+        "id": "Brasil telah menjadi produsen kopi terbesar di dunia selama lebih dari 150 tahun."
+      }
+    },
+    {
+      "id": "speed_food_012",
+      "category": "Food",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the main ingredient in authentic Mexican guacamole?",
+        "fr": "Quel est l'ingrédient de base du guacamole mexicain traditionnel ?",
+        "tr": "Geleneksel Meksika sosu guacamolenin ana malzemesi nedir?",
+        "id": "Apa bahan utama dalam guacamole tradisional Meksiko?"
+      },
+      "correctAnswer": {
+        "en": "Avocado",
+        "fr": "Avocat",
+        "tr": "Avokado",
+        "id": "Alpukat"
+      },
+      "distractors": {
+        "en": [
+          "Tomato",
+          "Cucumber",
+          "Green Apple"
+        ],
+        "fr": [
+          "Tomate",
+          "Concombre",
+          "Pomme verte"
+        ],
+        "tr": [
+          "Domates",
+          "Salatalık",
+          "Yeşil Elma"
+        ],
+        "id": [
+          "Tomat",
+          "Mentimun",
+          "Apel Hijau"
+        ]
+      },
+      "explanation": {
+        "en": "Guacamole is made by mashing ripe avocados with lime, salt, and cilantro.",
+        "fr": "Le guacamole est fait d'avocats écrasés avec de la coriandre et de la lime.",
+        "tr": "Guacamole ezilmiş olgun avokado, misket limonu ve kişnişle hazırlanır.",
+        "id": "Guacamole dibuat dengan melumatkan alpukat matang bersama jeruk nipis dan daun ketumbar."
+      }
+    },
+    {
+      "id": "speed_food_013",
+      "category": "Food",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What European nation consumes the most chocolate per capita?",
+        "fr": "Quel pays européen consomme le plus de chocolat par habitant ?",
+        "tr": "Kişi başına düşen çikolata tüketiminde dünya lideri olan ülke hangisidir?",
+        "id": "Negara Eropa mana yang mengonsumsi cokelat per kapita terbanyak?"
+      },
+      "correctAnswer": {
+        "en": "Switzerland",
+        "fr": "Suisse",
+        "tr": "İsviçre",
+        "id": "Swiss"
+      },
+      "distractors": {
+        "en": [
+          "Belgium",
+          "Germany",
+          "France"
+        ],
+        "fr": [
+          "Belgique",
+          "Allemagne",
+          "France"
+        ],
+        "tr": [
+          "Belçika",
+          "Almanya",
+          "Fransa"
+        ],
+        "id": [
+          "Belgia",
+          "Jerman",
+          "Prancis"
+        ]
+      },
+      "explanation": {
+        "en": "Swiss citizens consume nearly 9 kilograms of chocolate per person each year.",
+        "fr": "Les Suisses mangent près de 9 kilos de chocolat par an et par habitant.",
+        "tr": "İsviçre vatandaşları yılda kişi başı yaklaşık 9 kilogram çikolata tüketir.",
+        "id": "Warga Swiss mengonsumsi hampir 9 kilogram cokelat per orang setiap tahun."
+      }
+    },
+    {
+      "id": "speed_food_014",
+      "category": "Food",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the key ingredient used to brew traditional beer alongside water, hops, and yeast?",
+        "fr": "Quel ingrédient céréalier fondamental compose la bière avec l'eau, le houblon et la levure ?",
+        "tr": "Geleneksel biranın su, şerbetçiotu ve mayayla birlikte temel tahıl maddesi nedir?",
+        "id": "Apa bahan biji-bijian utama pembuat bir tradisional bersama air, hop, dan ragi?"
+      },
+      "correctAnswer": {
+        "en": "Barley (Malt)",
+        "fr": "Orge (Malt)",
+        "tr": "Arpa (Malt)",
+        "id": "Barli (Malt)"
+      },
+      "distractors": {
+        "en": [
+          "Rice",
+          "Corn",
+          "Oats"
+        ],
+        "fr": [
+          "Riz",
+          "Maïs",
+          "Avoine"
+        ],
+        "tr": [
+          "Pirinç",
+          "Mısır",
+          "Yulaf"
+        ],
+        "id": [
+          "Beras",
+          "Jagung",
+          "Gandum Oat"
+        ]
+      },
+      "explanation": {
+        "en": "Malted barley supplies the fermentable sugars that yeasts turn into alcohol.",
+        "fr": "L'orge maltée fournit les sucres fermentescibles pour la levure de bière.",
+        "tr": "Arpa maltı, mayanın alkole dönüştüreceği fermente edilebilir şekerleri sağlar.",
+        "id": "Barli malt menghasilkan gula yang difermentasi oleh ragi menjadi alkohol."
+      }
+    },
+    {
+      "id": "speed_food_015",
+      "category": "Food",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "question": {
+        "en": "What is the most expensive spice in the world by weight?",
+        "fr": "Quelle est l'épice la plus chère au monde au kilo ?",
+        "tr": "Ağırlığına göre dünyadaki en pahalı baharat hangisidir?",
+        "id": "Apa rempah-rempah termahal di dunia berdasarkan beratnya?"
+      },
+      "correctAnswer": {
+        "en": "Saffron",
+        "fr": "Safran",
+        "tr": "Safran",
+        "id": "Saffron"
+      },
+      "distractors": {
+        "en": [
+          "Vanilla",
+          "Cardamom",
+          "Cinnamon"
+        ],
+        "fr": [
+          "Vanille",
+          "Cardamome",
+          "Cannelle"
+        ],
+        "tr": [
+          "Vanilya",
+          "Kakule",
+          "Tarçın"
+        ],
+        "id": [
+          "Vanila",
+          "Kapulaga",
+          "Kayu Manis"
+        ]
+      },
+      "explanation": {
+        "en": "Saffron consists of hand-harvested stigmas from crocus flowers; 75,000 blossoms yield just one pound.",
+        "fr": "Il faut cueillir à la main 75 000 fleurs de crocus pour obtenir une seule livre de safran.",
+        "tr": "Yarım kilo safran elde etmek için 75.000 çiçek tepeciğinin elle toplanması gerekir.",
+        "id": "Dibutuhkan 75.000 kuntum bunga crocus yang dipetik tangan untuk menghasilkan 1 pon saffron."
+      }
+    },
+    {
+      "id": "speed_food_016_b",
+      "category": "Food",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "question": {
+        "en": "What baked bread dough pastry with a central hole originated in Jewish communities of Poland?",
+        "fr": "Quel petit pain rond poché et doré avec un trou au centre vient de Pologne ?",
+        "tr": "Ortası delik, önce suda haşlanıp sonra pişirilen meşhur yuvarlak ekmek hangisidir?",
+        "id": "Roti berbentuk cincin dengan lubang di tengah yang berasal dari Polandia adalah?"
+      },
+      "correctAnswer": {
+        "en": "Bagel",
+        "fr": "Bagel",
+        "tr": "Bagel",
+        "id": "Bagel"
+      },
+      "distractors": {
+        "en": [
+          "Donut",
+          "Pretzel",
+          "Croissant"
+        ],
+        "fr": [
+          "Beignet",
+          "Bretzel",
+          "Croissant"
+        ],
+        "tr": [
+          "Donut",
+          "Pretzel",
+          "Kruvasan"
+        ],
+        "id": [
+          "Donat",
+          "Pretzel",
+          "Croissant"
+        ]
+      },
+      "explanation": {
+        "en": "Bagels are traditionally boiled before baking to create their shiny, chewy crust.",
+        "fr": "Le bagel est poché dans l'eau bouillante avant d'être cuit au four.",
+        "tr": "Bagel, pişirilmeden önce kısa süre kaynatılarak o parlak ve çıtır kabuğa kavuşur.",
+        "id": "Bagel direbus sebentar sebelum dipanggang untuk menghasilkan kulit kenyal mengkilap."
+      }
+    },
+    {
+      "id": "bluff_nat_001",
+      "category": "Nature",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "What is the official term for a group of flamingos?",
+        "fr": "Quel est le terme officiel pour désigner un groupe de flamants roses ?",
+        "tr": "Flamingo sürüsüne verilen resmi terim nedir?",
+        "id": "Apa sebutan resmi untuk sekelompok burung flamingo?"
+      },
+      "correctAnswer": {
+        "en": "A Flamboyance",
+        "fr": "Une Flamboyance",
+        "tr": "Flamboyans",
+        "id": "Flamboyance"
+      },
+      "distractors": {
+        "en": [
+          "A Crimson",
+          "A Strut",
+          "A Spark"
+        ],
+        "fr": [
+          "Un Cramoisi",
+          "Une Parade",
+          "Une Étincelle"
+        ],
+        "tr": [
+          "Kızıllık",
+          "Caka",
+          "Kıvılcım"
+        ],
+        "id": [
+          "Merah Tua",
+          "Langkah Tegap",
+          "Percikan"
+        ]
+      },
+      "explanation": {
+        "en": "A group of flamingos is famously called a flamboyance.",
+        "fr": "Un groupe de flamants roses est célèbrement appelé une flamboyance.",
+        "tr": "Bir grup flamingoya İngilizce ve zoolojide flamboyance (gösteriş) denir.",
+        "id": "Sekelompok flamingo secara terkenal disebut flamboyance."
+      }
+    },
+    {
+      "id": "bluff_hist_002",
+      "category": "Weird History",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "What bizarre animal horde once attacked Napoleon Bonaparte?",
+        "fr": "Quelle horde d'animaux bizarre a un jour attaqué Napoléon Bonaparte ?",
+        "tr": "Napolyon Bonapart'a bir keresinde hangi tuhaf hayvan sürüsü saldırdı?",
+        "id": "Gerombolan hewan aneh apa yang pernah menyerang Napoleon Bonaparte?"
+      },
+      "correctAnswer": {
+        "en": "Wild rabbits",
+        "fr": "Des lapins sauvages",
+        "tr": "Yabani tavşanlar",
+        "id": "Kelinci liar"
+      },
+      "distractors": {
+        "en": [
+          "Angry swans",
+          "Mountain goats",
+          "Feral cats"
+        ],
+        "fr": [
+          "Des cygnes en colère",
+          "Des chèvres de montagne",
+          "Des chats sauvages"
+        ],
+        "tr": [
+          "Öfkeli kuğular",
+          "Dağ keçileri",
+          "Sokak kedileri"
+        ],
+        "id": [
+          "Angsa marah",
+          "Kambing gunung",
+          "Kucing liar"
+        ]
+      },
+      "explanation": {
+        "en": "Napoleon's staff released hundreds of rabbits for a hunt, but they swarmed him instead!",
+        "fr": "L'état-major de Napoléon a relâché des centaines de lapins pour une chasse, mais ils ont foncé sur lui !",
+        "tr": "Napolyon'un ekibi av için yüzlerce tavşan bıraktı ancak tavşanlar kaçmak yerine Napolyon'un üzerine çullandı!",
+        "id": "Staf Napoleon melepaskan ratusan kelinci untuk berburu, tetapi mereka malah mengerumuninya!"
+      }
+    },
+    {
+      "id": "bluff_inv_003",
+      "category": "Odd Inventions",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In Victorian England, what was a 'moustache cup' specially designed to do?",
+        "fr": "Dans l'Angleterre victorienne, à quoi servait spécifiquement une 'tasse à moustache' ?",
+        "tr": "Viktorya dönemi İngiltere'sinde 'bıyık fincanı' ne için özel olarak tasarlanmıştı?",
+        "id": "Di era Victoria Inggris, untuk apa 'cangkir kumis' dirancang secara khusus?"
+      },
+      "correctAnswer": {
+        "en": "Keep wax out of hot tea",
+        "fr": "Empêcher la cire de fondre dans le thé chaud",
+        "tr": "Bıyık ağdasının sıcak çaya karışmasını önlemek",
+        "id": "Mencegah lilin kumis masuk ke teh panas"
+      },
+      "distractors": {
+        "en": [
+          "Filter tea leaves",
+          "Warm facial hair",
+          "Prevent spills on horses"
+        ],
+        "fr": [
+          "Filtrer les feuilles de thé",
+          "Réchauffer la moustache",
+          "Éviter de renverser à cheval"
+        ],
+        "tr": [
+          "Çay yapraklarını süzmek",
+          "Bıyığı sıcak tutmak",
+          "Ata binerken dökülmeyi önlemek"
+        ],
+        "id": [
+          "Menyaring daun teh",
+          "Menghangatkan kumis",
+          "Mencegah tumpahan di atas kuda"
+        ]
+      },
+      "explanation": {
+        "en": "A ceramic guard kept moustache wax from melting into hot drinks.",
+        "fr": "Une protection en céramique empêchait la cire de moustache de fondre dans les boissons chaudes.",
+        "tr": "Seramik bir koruma kalkanı, bıyık ağdasının sıcak içeceklerde erimesini engelliyordu.",
+        "id": "Pelindung keramik menjaga agar lilin kumis tidak meleleh ke dalam minuman panas."
+      }
+    },
+    {
+      "id": "bluff_nat_004",
+      "category": "Nature",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What unusual shape is wombat poop naturally?",
+        "fr": "Quelle forme inhabituelle ont naturellement les crottes de wombat ?",
+        "tr": "Vombat dışkısı doğal olarak hangi sıra dışı şekildedir?",
+        "id": "Bentuk tidak biasa apa yang dimiliki kotoran wombat secara alami?"
+      },
+      "correctAnswer": {
+        "en": "Cubic",
+        "fr": "Cubique",
+        "tr": "Küp şeklinde",
+        "id": "Kubus"
+      },
+      "distractors": {
+        "en": [
+          "Pyramid",
+          "Spiral",
+          "Star-shaped"
+        ],
+        "fr": [
+          "Pyramidale",
+          "En spirale",
+          "En étoile"
+        ],
+        "tr": [
+          "Piramit şeklinde",
+          "Spiral",
+          "Yıldız şeklinde"
+        ],
+        "id": [
+          "Piramida",
+          "Spiral",
+          "Bintang"
+        ]
+      },
+      "explanation": {
+        "en": "Wombats produce cube-shaped droppings to stop them from rolling off rocks.",
+        "fr": "Les wombats produisent des déjections cubiques pour éviter qu'elles ne roulent.",
+        "tr": "Vombatlar dışkılarının kayalardan yuvarlanmasını önlemek için küp şeklinde dışkılar.",
+        "id": "Wombat menghasilkan kotoran berbentuk kubus agar tidak menggelinding dari bebatuan."
+      }
+    },
+    {
+      "id": "bluff_hist_005",
+      "category": "Weird History",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Approximately how long did the shortest war in recorded history last?",
+        "fr": "Combien de temps environ a duré la guerre la plus courte de l'histoire ?",
+        "tr": "Tarihteki en kısa savaş yaklaşık ne kadar sürmüştür?",
+        "id": "Kira-kira berapa lama perang terpendek dalam sejarah berlangsung?"
+      },
+      "correctAnswer": {
+        "en": "38 minutes",
+        "fr": "38 minutes",
+        "tr": "38 dakika",
+        "id": "38 menit"
+      },
+      "distractors": {
+        "en": [
+          "4 hours",
+          "12 hours",
+          "2 days"
+        ],
+        "fr": [
+          "4 heures",
+          "12 heures",
+          "2 jours"
+        ],
+        "tr": [
+          "4 saat",
+          "12 saat",
+          "2 gün"
+        ],
+        "id": [
+          "4 jam",
+          "12 jam",
+          "2 hari"
+        ]
+      },
+      "explanation": {
+        "en": "The 1896 Anglo-Zanzibar War ended in roughly 38 to 45 minutes.",
+        "fr": "La guerre anglo-zanzibarienne de 1896 a pris fin en environ 38 à 45 minutes.",
+        "tr": "1896 yılındaki İngiliz-Zanzibar Savaşı yaklaşık 38 ila 45 dakikada bitti.",
+        "id": "Perang Inggris-Zanzibar tahun 1896 berakhir dalam waktu sekitar 38 hingga 45 menit."
+      }
+    },
+    {
+      "id": "bluff_food_006",
+      "category": "Food History",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "What was ketchup marketed as in the United States during the 1830s?",
+        "fr": "Sous quelle forme le ketchup était-il vendu aux États-Unis dans les années 1830 ?",
+        "tr": "Ketçap 1830'lu yıllarda Amerika'da ne olarak satılıyordu?",
+        "id": "Sebagai apa saus tomat (ketchup) dipasarkan di AS pada tahun 1830-an?"
+      },
+      "correctAnswer": {
+        "en": "Medicine for indigestion",
+        "fr": "Médicament contre l'indigestion",
+        "tr": "Hazımsızlık ilacı",
+        "id": "Obat gangguan pencernaan"
+      },
+      "distractors": {
+        "en": [
+          "Shoe polish",
+          "Hair dye",
+          "Fly repellent"
+        ],
+        "fr": [
+          "Cirage pour chaussures",
+          "Teinture pour cheveux",
+          "Répulsif pour mouches"
+        ],
+        "tr": [
+          "Ayakkabı boyası",
+          "Saç boyası",
+          "Sinek kovucu"
+        ],
+        "id": [
+          "Semir sepatu",
+          "Pewarna rambut",
+          "Pengusir lalat"
+        ]
+      },
+      "explanation": {
+        "en": "Dr. John Cook Bennett sold ketchup pills as a cure for diarrhea and indigestion.",
+        "fr": "Le Dr John Cook Bennett vendait des pilules de ketchup pour soigner l'indigestion.",
+        "tr": "Dr. John Cook Bennett, ketçabı hazımsızlık ilacı olarak hap şeklinde satmıştır.",
+        "id": "Dr. John Cook Bennett menjual pil saus tomat sebagai obat gangguan pencernaan."
+      }
+    },
+    {
+      "id": "bluff_nat_007",
+      "category": "Nature",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Which of these animals does not have vocal cords?",
+        "fr": "Lequel de ces animaux ne possède pas de cordes vocales ?",
+        "tr": "Bu hayvanlardan hangisinin ses telleri yoktur?",
+        "id": "Hewan mana di antara berikut yang tidak memiliki pita suara?"
+      },
+      "correctAnswer": {
+        "en": "Giraffe",
+        "fr": "Girafe",
+        "tr": "Zürafa",
+        "id": "Jerapah"
+      },
+      "distractors": {
+        "en": [
+          "Kangaroo",
+          "Elephant",
+          "Zebra"
+        ],
+        "fr": [
+          "Kangourou",
+          "Éléphant",
+          "Zèbre"
+        ],
+        "tr": [
+          "Kanguru",
+          "Fil",
+          "Zebra"
+        ],
+        "id": [
+          "Kanguru",
+          "Gajah",
+          "Zebra"
+        ]
+      },
+      "explanation": {
+        "en": "Giraffes lack vocal cords and communicate primarily via infrasonic hums.",
+        "fr": "Les girafes n'ont pas de cordes vocales et communiquent par infrasons.",
+        "tr": "Zürafaların ses telleri yoktur; çoğunlukla infrasonik ses dalgalarıyla iletişim kurarlar.",
+        "id": "Jerapah tidak memiliki pita suara dan berkomunikasi lewat getaran infrasonik."
+      }
+    },
+    {
+      "id": "bluff_nat_008",
+      "category": "Nature",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Underneath their white fur, what color is a polar bear's skin?",
+        "fr": "Sous leur fourrure blanche, de quelle couleur est la peau d'un ours polaire ?",
+        "tr": "Beyaz kürklerinin altında kutup ayılarının derisi ne renktir?",
+        "id": "Di bawah bulu putih mereka, apa warna kulit beruang kutub?"
+      },
+      "correctAnswer": {
+        "en": "Black",
+        "fr": "Noir",
+        "tr": "Siyah",
+        "id": "Hitam"
+      },
+      "distractors": {
+        "en": [
+          "White",
+          "Pink",
+          "Blue"
+        ],
+        "fr": [
+          "Blanc",
+          "Rose",
+          "Bleu"
+        ],
+        "tr": [
+          "Beyaz",
+          "Pembe",
+          "Mavi"
+        ],
+        "id": [
+          "Putih",
+          "Merah Muda",
+          "Biru"
+        ]
+      },
+      "explanation": {
+        "en": "Their black skin absorbs the sun's heat to keep them warm in the Arctic.",
+        "fr": "Leur peau noire absorbe la chaleur du soleil pour les garder au chaud dans l'Arctique.",
+        "tr": "Siyah derileri, Kuzey Kutbu'nda onları sıcak tutmak için güneşin ısısını emer.",
+        "id": "Kulit hitam mereka menyerap panas matahari untuk membuat mereka tetap hangat di Kutub Utara."
+      }
+    },
+    {
+      "id": "bluff_hist_009",
+      "category": "Weird History",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "In 1932, the Australian military officially declared war on which flightless bird?",
+        "fr": "En 1932, l'armée australienne a officiellement déclaré la guerre à quel oiseau incapable de voler ?",
+        "tr": "1932'de Avustralya ordusu uçamayan hangi kuşa resmi olarak savaş ilan etmiştir?",
+        "id": "Pada tahun 1932, militer Australia secara resmi menyatakan perang terhadap burung tak bisa terbang yang mana?"
+      },
+      "correctAnswer": {
+        "en": "Emu",
+        "fr": "Émeu",
+        "tr": "Emu",
+        "id": "Emu"
+      },
+      "distractors": {
+        "en": [
+          "Ostrich",
+          "Kiwi",
+          "Cassowary"
+        ],
+        "fr": [
+          "Autruche",
+          "Kiwi",
+          "Casoar"
+        ],
+        "tr": [
+          "Deve kuşu",
+          "Kivi kuşu",
+          "Tepeli deve kuşu"
+        ],
+        "id": [
+          "Burung Unta",
+          "Kiwi",
+          "Kasuari"
+        ]
+      },
+      "explanation": {
+        "en": "During the 'Great Emu War', soldiers with machine guns failed to stop the emus from eating crops.",
+        "fr": "Pendant la 'Grande Guerre des Émeus', les soldats armés de mitrailleuses n'ont pas réussi à arrêter les émeus.",
+        "tr": "'Büyük Emu Savaşı' sırasında, makineli tüfekli askerler emuların ekinleri yemesini engelleyemedi.",
+        "id": "Selama 'Perang Emu Hebat', tentara dengan senapan mesin gagal menghentikan emu memakan hasil panen."
+      }
+    },
+    {
+      "id": "bluff_law_010",
+      "category": "Weird Laws",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "In Switzerland, it is legally considered animal abuse to own just one of what pet?",
+        "fr": "En Suisse, il est légalement considéré comme de la maltraitance animale de ne posséder qu'un seul de ces animaux de compagnie. Lequel ?",
+        "tr": "İsviçre'de hangi evcil hayvandan sadece bir tane sahiplenmek yasal olarak hayvan istismarı sayılır?",
+        "id": "Di Swiss, secara hukum dianggap sebagai pelecehan hewan jika hanya memiliki satu dari hewan peliharaan apa?"
+      },
+      "correctAnswer": {
+        "en": "Guinea pig",
+        "fr": "Cochon d'Inde",
+        "tr": "Gine domuzu",
+        "id": "Marmut"
+      },
+      "distractors": {
+        "en": [
+          "Dog",
+          "Cat",
+          "Goldfish"
+        ],
+        "fr": [
+          "Chien",
+          "Chat",
+          "Poisson rouge"
+        ],
+        "tr": [
+          "Köpek",
+          "Kedi",
+          "Japon balığı"
+        ],
+        "id": [
+          "Anjing",
+          "Kucing",
+          "Ikan mas"
+        ]
+      },
+      "explanation": {
+        "en": "Guinea pigs are highly social herd animals, so they must have at least one companion.",
+        "fr": "Les cochons d'Inde sont des animaux très sociaux, ils doivent donc avoir au moins un compagnon.",
+        "tr": "Gine domuzları oldukça sosyal sürü hayvanlarıdır, bu yüzden yanlarında en az bir arkadaş olmalıdır.",
+        "id": "Marmut adalah hewan kawanan yang sangat sosial, jadi mereka harus memiliki setidaknya satu teman."
+      }
+    },
+    {
+      "id": "bluff_food_011",
+      "category": "Food History",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Before pumpkins, what vegetable was originally carved to make Jack-o'-lanterns in Ireland?",
+        "fr": "Avant les citrouilles, quel légume était à l'origine sculpté pour faire des Jack-o'-lanterns en Irlande ?",
+        "tr": "Balkabağından önce İrlanda'da Cadılar Bayramı feneri yapmak için aslında hangi sebze oyulurdu?",
+        "id": "Sebelum labu, sayuran apa yang awalnya diukir untuk membuat Jack-o'-lantern di Irlandia?"
+      },
+      "correctAnswer": {
+        "en": "Turnip",
+        "fr": "Navet",
+        "tr": "Şalgam",
+        "id": "Lobak"
+      },
+      "distractors": {
+        "en": [
+          "Potato",
+          "Watermelon",
+          "Cabbage"
+        ],
+        "fr": [
+          "Pomme de terre",
+          "Pastèque",
+          "Chou"
+        ],
+        "tr": [
+          "Patates",
+          "Karpuz",
+          "Lahana"
+        ],
+        "id": [
+          "Kentang",
+          "Semangka",
+          "Kubis"
+        ]
+      },
+      "explanation": {
+        "en": "Irish people used turnips to ward off evil spirits before adopting the much easier-to-carve pumpkin.",
+        "fr": "Les Irlandais utilisaient des navets pour éloigner les mauvais esprits avant d'adopter la citrouille.",
+        "tr": "İrlandalılar, oyulması çok daha kolay olan balkabağına geçmeden önce kötü ruhları uzaklaştırmak için şalgam kullanıyorlardı.",
+        "id": "Orang Irlandia menggunakan lobak untuk mengusir roh jahat sebelum mengadopsi labu yang jauh lebih mudah diukir."
+      }
+    },
+    {
+      "id": "bluff_med_012",
+      "category": "Odd Inventions",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "In the 18th century, the chainsaw was originally invented to help with what medical procedure?",
+        "fr": "Au 18ème siècle, la tronçonneuse a été inventée à l'origine pour aider lors de quelle procédure médicale ?",
+        "tr": "18. yüzyılda motorlu testere başlangıçta hangi tıbbi prosedüre yardımcı olmak için icat edilmiştir?",
+        "id": "Pada abad ke-18, gergaji mesin awalnya diciptakan untuk membantu prosedur medis apa?"
+      },
+      "correctAnswer": {
+        "en": "Childbirth",
+        "fr": "L'accouchement",
+        "tr": "Doğum",
+        "id": "Persalinan"
+      },
+      "distractors": {
+        "en": [
+          "Amputation",
+          "Dentistry",
+          "Brain surgery"
+        ],
+        "fr": [
+          "L'amputation",
+          "La dentisterie",
+          "La chirurgie du cerveau"
+        ],
+        "tr": [
+          "Amputasyon",
+          "Diş hekimliği",
+          "Beyin ameliyatı"
+        ],
+        "id": [
+          "Amputasi",
+          "Kedokteran gigi",
+          "Bedah otak"
+        ]
+      },
+      "explanation": {
+        "en": "It was used for a symphysiotomy, a procedure to widen the pelvis during difficult deliveries.",
+        "fr": "Elle était utilisée pour une symphysiotomie, afin d'élargir le bassin lors d'accouchements difficiles.",
+        "tr": "Zor doğumlarda leğen kemiğini genişletmek amacıyla yapılan bir prosedür olan simfizyotomi için kullanılıyordu.",
+        "id": "Ini digunakan untuk simfisiotomi, sebuah prosedur untuk memperlebar panggul selama persalinan yang sulit."
+      }
+    },
+    {
+      "id": "bluff_nat_013",
+      "category": "Nature",
+      "difficulty": "easy",
+      "timeLimit": 20,
+      "question": {
+        "en": "Which marine animals are known to hold hands while sleeping so they don't drift apart?",
+        "fr": "Quels animaux marins sont connus pour se tenir la main en dormant afin de ne pas s'éloigner ?",
+        "tr": "Hangi deniz canlıları uyurken akıntıyla birbirlerinden uzaklaşmamak için el ele tutuşurlar?",
+        "id": "Hewan laut mana yang diketahui berpegangan tangan saat tidur agar tidak hanyut terpisah?"
+      },
+      "correctAnswer": {
+        "en": "Sea otters",
+        "fr": "Les loutres de mer",
+        "tr": "Deniz su samurları",
+        "id": "Berang-berang laut"
+      },
+      "distractors": {
+        "en": [
+          "Penguins",
+          "Seals",
+          "Dolphins"
+        ],
+        "fr": [
+          "Les manchots",
+          "Les phoques",
+          "Les dauphins"
+        ],
+        "tr": [
+          "Penguenler",
+          "Foklar",
+          "Yunuslar"
+        ],
+        "id": [
+          "Penguin",
+          "Anjing laut",
+          "Lumba-lumba"
+        ]
+      },
+      "explanation": {
+        "en": "Sea otters hold hands in 'rafts' to stay together in the strong ocean currents.",
+        "fr": "Les loutres de mer se tiennent la main en radeaux pour rester ensemble dans les forts courants océaniques.",
+        "tr": "Deniz su samurları güçlü okyanus akıntılarında bir arada kalmak için uyurken el ele tutuşurlar.",
+        "id": "Berang-berang laut berpegangan tangan dalam kelompok untuk tetap bersama di arus laut yang kuat."
+      }
+    },
+    {
+      "id": "bluff_hist_014",
+      "category": "Weird History",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "To keep flies away, the Ancient Egyptian Pharaoh Pepi II smeared his servants with what?",
+        "fr": "Pour éloigner les mouches, le pharaon d'Égypte ancienne Pépi II enduisait ses serviteurs de quoi ?",
+        "tr": "Antik Mısır Firavunu II. Pepi sinekleri kendisinden uzak tutmak için hizmetkarlarının vücuduna ne sürerdi?",
+        "id": "Untuk menjauhkan lalat, Firaun Mesir Kuno Pepi II mengolesi pelayannya dengan apa?"
+      },
+      "correctAnswer": {
+        "en": "Honey",
+        "fr": "Du miel",
+        "tr": "Bal",
+        "id": "Madu"
+      },
+      "distractors": {
+        "en": [
+          "Mud",
+          "Olive oil",
+          "Animal blood"
+        ],
+        "fr": [
+          "De la boue",
+          "De l'huile d'olive",
+          "Du sang animal"
+        ],
+        "tr": [
+          "Çamur",
+          "Zeytinyağı",
+          "Hayvan kanı"
+        ],
+        "id": [
+          "Lumpur",
+          "Minyak zaitun",
+          "Darah hewan"
+        ]
+      },
+      "explanation": {
+        "en": "He kept honey-covered slaves nearby so insects would attack them instead of him.",
+        "fr": "Il gardait près de lui des esclaves couverts de miel pour que les insectes les attaquent à sa place.",
+        "tr": "Böceklerin kendisine değil onlara saldırması için yakınlarında balla kaplı köleler tutardı.",
+        "id": "Dia menempatkan budak berlumuran madu di dekatnya sehingga serangga akan menyerang mereka, bukan dirinya."
+      }
+    },
+    {
+      "id": "bluff_food_015",
+      "category": "Odd Inventions",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Which popular, sugary carnival treat was ironically co-invented by a dentist?",
+        "fr": "Quelle friandise sucrée et populaire de fête foraine a ironiquement été co-inventée par un dentiste ?",
+        "tr": "Panayırlarda satılan hangi popüler ve şekerli yiyecek ironik bir şekilde bir diş hekimi tarafından icat edilmiştir?",
+        "id": "Jajanan karnaval populer dan manis apa yang ironisnya turut diciptakan oleh seorang dokter gigi?"
+      },
+      "correctAnswer": {
+        "en": "Cotton Candy",
+        "fr": "Barbe à papa",
+        "tr": "Pamuk şeker",
+        "id": "Arum manis"
+      },
+      "distractors": {
+        "en": [
+          "Lollipop",
+          "Caramel apples",
+          "Gummy bears"
+        ],
+        "fr": [
+          "Sucette",
+          "Pommes d'amour",
+          "Oursons en gélatine"
+        ],
+        "tr": [
+          "Lolipop",
+          "Elma şekeri",
+          "Jelibon"
+        ],
+        "id": [
+          "Permen lolipop",
+          "Apel karamel",
+          "Permen beruang (gummy bear)"
+        ]
+      },
+      "explanation": {
+        "en": "Dentist William Morrison co-invented the machine in 1897, originally calling it 'Fairy Floss'.",
+        "fr": "Le dentiste William Morrison a co-inventé la machine en 1897, l'appelant à l'origine 'Fairy Floss'.",
+        "tr": "Diş hekimi William Morrison 1897'de pamuk şeker makinesini icat etti ve buna 'Peri İpi' adını verdi.",
+        "id": "Dokter gigi William Morrison ikut menciptakan mesin tersebut pada tahun 1897, awalnya menyebutnya 'Fairy Floss'."
+      }
+    },
+    {
+      "id": "bluff_space_016",
+      "category": "Science",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Because there is no gravity to separate liquid and gas in the stomach, what is impossible to do in space?",
+        "fr": "Parce qu'il n'y a pas de gravité pour séparer les liquides et les gaz dans l'estomac, qu'est-il impossible de faire dans l'espace ?",
+        "tr": "Midedeki sıvı ve gazı ayıracak yerçekimi olmadığı için uzayda yapılması imkansız olan şey nedir?",
+        "id": "Karena tidak ada gravitasi untuk memisahkan cairan dan gas di perut, apa yang mustahil dilakukan di luar angkasa?"
+      },
+      "correctAnswer": {
+        "en": "Burp",
+        "fr": "Roter",
+        "tr": "Geğirmek",
+        "id": "Bersendawa"
+      },
+      "distractors": {
+        "en": [
+          "Sneeze",
+          "Hiccup",
+          "Yawn"
+        ],
+        "fr": [
+          "Éternuer",
+          "Avoir le hoquet",
+          "Bâiller"
+        ],
+        "tr": [
+          "Hapşırmak",
+          "Hıçkırmak",
+          "Esnemek"
+        ],
+        "id": [
+          "Bersin",
+          "Cegukan",
+          "Menguap"
+        ]
+      },
+      "explanation": {
+        "en": "Without gravity, trapped gas brings liquids up with it, turning a burp into vomiting.",
+        "fr": "Sans gravité, les gaz piégés remontent avec les liquides, transformant un rot en vomissement.",
+        "tr": "Yerçekimi olmadığında, sıkışan gaz sıvılarla birlikte yukarı çıkar ve geğirmeyi kusmaya dönüştürür.",
+        "id": "Tanpa gravitasi, gas yang terperangkap membawa cairan naik bersamanya, mengubah sendawa menjadi muntah."
+      }
+    },
+    {
+      "id": "bluff_nat_017",
+      "category": "Nature",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What bizarre defense mechanism does the Texas horned lizard use to scare away predators?",
+        "fr": "Quel mécanisme de défense bizarre le lézard cornu du Texas utilise-t-il pour effrayer les prédateurs ?",
+        "tr": "Teksas boynuzlu kertenkelesi yırtıcıları korkutmak için hangi tuhaf savunma mekanizmasını kullanır?",
+        "id": "Mekanisme pertahanan aneh apa yang digunakan kadal bertanduk Texas untuk menakut-nakuti pemangsa?"
+      },
+      "correctAnswer": {
+        "en": "Shoots blood from its eyes",
+        "fr": "Projette du sang de ses yeux",
+        "tr": "Gözlerinden kan fışkırtmak",
+        "id": "Menembakkan darah dari matanya"
+      },
+      "distractors": {
+        "en": [
+          "Vomits fire",
+          "Detaches its head",
+          "Screams like a baby"
+        ],
+        "fr": [
+          "Vomit du feu",
+          "Détache sa tête",
+          "Crie comme un bébé"
+        ],
+        "tr": [
+          "Ateş kusmak",
+          "Kafasını koparmak",
+          "Bebek gibi çığlık atmak"
+        ],
+        "id": [
+          "Memuntahkan api",
+          "Melepaskan kepalanya",
+          "Berteriak seperti bayi"
+        ]
+      },
+      "explanation": {
+        "en": "It can squirt a stream of bad-tasting blood from its eyes up to 5 feet away!",
+        "fr": "Il peut gicler un jet de sang au goût désagréable depuis ses yeux jusqu'à 1,5 mètre !",
+        "tr": "Kötü tada sahip bir kan akışını gözlerinden 1,5 metre uzağa kadar fışkırtabilir!",
+        "id": "Kadal ini bisa menyemprotkan aliran darah yang rasanya tidak enak dari matanya hingga sejauh 1,5 meter!"
+      }
+    },
+    {
+      "id": "bluff_hist_018",
+      "category": "Weird History",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "Due to its high ammonia content, what did the Ancient Romans use to whiten their teeth and wash their clothes?",
+        "fr": "En raison de sa forte teneur en ammoniac, qu'utilisaient les anciens Romains pour se blanchir les dents et laver leurs vêtements ?",
+        "tr": "Yüksek amonyak içeriği nedeniyle Antik Romalılar dişlerini beyazlatmak ve kıyafetlerini yıkamak için ne kullanırdı?",
+        "id": "Karena kandungan amonianya yang tinggi, apa yang digunakan orang Romawi Kuno untuk memutihkan gigi dan mencuci pakaian mereka?"
+      },
+      "correctAnswer": {
+        "en": "Human urine",
+        "fr": "De l'urine humaine",
+        "tr": "İnsan idrarı",
+        "id": "Urin manusia"
+      },
+      "distractors": {
+        "en": [
+          "Crushed bones",
+          "Seawater",
+          "Goat milk"
+        ],
+        "fr": [
+          "Des os broyés",
+          "De l'eau de mer",
+          "Du lait de chèvre"
+        ],
+        "tr": [
+          "Ezilmiş kemik",
+          "Deniz suyu",
+          "Keçi sütü"
+        ],
+        "id": [
+          "Tulang yang dihancurkan",
+          "Air laut",
+          "Susu kambing"
+        ]
+      },
+      "explanation": {
+        "en": "Ammonia is a natural cleaning agent, so Romans collected urine in public pots for laundries.",
+        "fr": "L'ammoniac est un nettoyant naturel, les Romains collectaient donc l'urine dans des pots publics pour les blanchisseries.",
+        "tr": "Amonyak doğal bir temizlik maddesidir, bu nedenle Romalılar çamaşırhaneler için umumi kaplarda idrar toplardı.",
+        "id": "Amonia adalah agen pembersih alami, jadi orang Romawi mengumpulkan urin dalam pot umum untuk tempat cuci pakaian."
+      }
+    },
+    {
+      "id": "bluff_nat_019",
+      "category": "Nature",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "Which animal has fingerprints so similar to human fingerprints that they have confused crime scene investigators?",
+        "fr": "Quel animal possède des empreintes digitales si similaires à celles des humains qu'elles ont confondu les enquêteurs de scènes de crime ?",
+        "tr": "Hangi hayvanın parmak izleri insanlarınkine o kadar benzerdir ki olay yeri inceleme ekiplerinin kafasını karıştırmıştır?",
+        "id": "Hewan mana yang memiliki sidik jari yang sangat mirip dengan sidik jari manusia sehingga membingungkan penyelidik tempat kejadian perkara?"
+      },
+      "correctAnswer": {
+        "en": "Koala",
+        "fr": "Koala",
+        "tr": "Koala",
+        "id": "Koala"
+      },
+      "distractors": {
+        "en": [
+          "Chimpanzee",
+          "Raccoon",
+          "Sloth"
+        ],
+        "fr": [
+          "Chimpanzé",
+          "Raton laveur",
+          "Paresseux"
+        ],
+        "tr": [
+          "Şempanze",
+          "Rakun",
+          "Tembel hayvan"
+        ],
+        "id": [
+          "Simpanse",
+          "Rakun",
+          "Kungkang"
+        ]
+      },
+      "explanation": {
+        "en": "Koala fingerprints feature loops and whorls almost completely indistinguishable from our own.",
+        "fr": "Les empreintes de koala présentent des boucles et des spirales presque indiscernables des nôtres.",
+        "tr": "Koala parmak izleri, bizimkilerden neredeyse ayırt edilemeyecek döngülere ve sarmallara sahiptir.",
+        "id": "Sidik jari koala memiliki lengkungan dan pusaran yang hampir sama sekali tidak bisa dibedakan dari milik kita."
+      }
+    },
+    {
+      "id": "bluff_inv_020",
+      "category": "Odd Inventions",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "When it was invented in 1957, bubble wrap was originally intended to be used as what?",
+        "fr": "Lors de son invention en 1957, à quoi le papier bulle était-il initialement destiné ?",
+        "tr": "Balonlu naylon (patpat) 1957'de ilk icat edildiğinde aslında ne olarak kullanılması amaçlanmıştı?",
+        "id": "Ketika diciptakan pada tahun 1957, bubble wrap (plastik gelembung) awalnya ditujukan untuk digunakan sebagai apa?"
+      },
+      "correctAnswer": {
+        "en": "Textured wallpaper",
+        "fr": "Du papier peint texturé",
+        "tr": "Dokulu duvar kağıdı",
+        "id": "Wallpaper bertekstur"
+      },
+      "distractors": {
+        "en": [
+          "Greenhouse insulation",
+          "Swimming pool cover",
+          "Shoe soles"
+        ],
+        "fr": [
+          "Une isolation pour serre",
+          "Une bâche de piscine",
+          "Des semelles de chaussures"
+        ],
+        "tr": [
+          "Sera yalıtımı",
+          "Yüzme havuzu örtüsü",
+          "Ayakkabı tabanı"
+        ],
+        "id": [
+          "Isolasi rumah kaca",
+          "Penutup kolam renang",
+          "Sol sepatu"
+        ]
+      },
+      "explanation": {
+        "en": "The inventors tried to sell it as 3D wallpaper, but the idea completely flopped.",
+        "fr": "Les inventeurs ont essayé de le vendre comme papier peint 3D, mais l'idée a fait un bide complet.",
+        "tr": "Mucitler bunu 3 boyutlu duvar kağıdı olarak satmaya çalıştılar, ancak fikir tamamen başarısız oldu.",
+        "id": "Para penemu mencoba menjualnya sebagai wallpaper 3D, tetapi ide tersebut benar-benar gagal."
+      }
+    },
+    {
+      "id": "bluff_nat_021",
+      "category": "Nature",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "question": {
+        "en": "Which Mexican amphibian is famous for its ability to regenerate its own brain, heart, and severed limbs?",
+        "fr": "Quel amphibien mexicain est célèbre pour sa capacité à régénérer son propre cerveau, son cœur et ses membres coupés ?",
+        "tr": "Kopan uzuvlarını, kalbini ve hatta beynini yenileme yeteneğiyle ünlü Meksika amfibisi hangisidir?",
+        "id": "Amfibi Meksiko mana yang terkenal karena kemampuannya untuk meregenerasi otaknya sendiri, jantung, dan anggota tubuh yang terputus?"
+      },
+      "correctAnswer": {
+        "en": "Axolotl",
+        "fr": "Axolotl",
+        "tr": "Aksolotl",
+        "id": "Axolotl"
+      },
+      "distractors": {
+        "en": [
+          "Tree frog",
+          "Salamander",
+          "Iguana"
+        ],
+        "fr": [
+          "Rainette",
+          "Salamandre",
+          "Iguane"
+        ],
+        "tr": [
+          "Ağaç kurbağası",
+          "Semender",
+          "İguana"
+        ],
+        "id": [
+          "Katak pohon",
+          "Salamander",
+          "Iguana"
+        ]
+      },
+      "explanation": {
+        "en": "Axolotls can perfectly regrow missing body parts without any scarring.",
+        "fr": "Les axolotls peuvent parfaitement faire repousser des parties du corps manquantes sans aucune cicatrice.",
+        "tr": "Aksolotllar eksik vücut parçalarını yara izi bırakmadan kusursuz bir şekilde yeniden büyütebilirler.",
+        "id": "Axolotl dapat menumbuhkan kembali bagian tubuh yang hilang dengan sempurna tanpa meninggalkan bekas luka."
+      }
+    },
+    {
+      "id": "bluff_food_022",
+      "category": "Food Science",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Which fruit is naturally slightly radioactive due to its high potassium content?",
+        "fr": "Quel fruit est naturellement légèrement radioactif en raison de sa forte teneur en potassium ?",
+        "tr": "İçerdiği yüksek potasyum nedeniyle doğal olarak hafif radyoaktif olan meyve hangisidir?",
+        "id": "Buah mana yang secara alami sedikit radioaktif karena kandungan kaliumnya yang tinggi?"
+      },
+      "correctAnswer": {
+        "en": "Banana",
+        "fr": "Banane",
+        "tr": "Muz",
+        "id": "Pisang"
+      },
+      "distractors": {
+        "en": [
+          "Coconut",
+          "Pineapple",
+          "Mango"
+        ],
+        "fr": [
+          "Noix de coco",
+          "Ananas",
+          "Mangue"
+        ],
+        "tr": [
+          "Hindistan cevizi",
+          "Ananas",
+          "Mango"
+        ],
+        "id": [
+          "Kelapa",
+          "Nanas",
+          "Mangga"
+        ]
+      },
+      "explanation": {
+        "en": "Bananas contain Potassium-40. Don't worry, you'd have to eat millions at once to get sick!",
+        "fr": "Les bananes contiennent du Potassium-40. Pas d'inquiétude, il faudrait en manger des millions d'un coup pour être malade !",
+        "tr": "Muzlar Potasyum-40 içerir. Endişelenmeyin, hasta olmak için aynı anda milyonlarcasını yemeniz gerekir!",
+        "id": "Pisang mengandung Kalium-40. Jangan khawatir, Anda harus makan jutaan pisang sekaligus untuk menjadi sakit!"
+      }
+    },
+    {
+      "id": "bluff_pop_001",
+      "category": "Movies",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What was the original working title for the hit TV sitcom Friends?",
+        "fr": "Quel était le titre de travail original de la série culte Friends ?",
+        "tr": "Efsane dizi Friends için düşünülen ilk orijinal çalışma başlığı neydi?",
+        "id": "Apa judul kerja asli untuk serial komedi TV Friends?"
+      },
+      "correctAnswer": {
+        "en": "Insomnia Cafe",
+        "fr": "Insomnia Cafe",
+        "tr": "Insomnia Cafe",
+        "id": "Insomnia Cafe"
+      },
+      "distractors": {
+        "en": [
+          "Six of Us",
+          "New York Central",
+          "The Greenwich Tribe"
+        ],
+        "fr": [
+          "Six of Us",
+          "New York Central",
+          "The Greenwich Tribe"
+        ],
+        "tr": [
+          "Six of Us",
+          "New York Central",
+          "The Greenwich Tribe"
+        ],
+        "id": [
+          "Six of Us",
+          "New York Central",
+          "The Greenwich Tribe"
+        ]
+      },
+      "explanation": {
+        "en": "Creators David Crane and Marta Kauffman originally pitched the show as Insomnia Cafe.",
+        "fr": "David Crane et Marta Kauffman ont d'abord présenté la série sous le titre Insomnia Cafe.",
+        "tr": "Dizinin yaratıcıları ilk projeyi Insomnia Cafe adıyla kanala sunmuştu.",
+        "id": "Kreator David Crane dan Marta Kauffman awalnya mengajukan acara ini sebagai Insomnia Cafe."
+      }
+    },
+    {
+      "id": "bluff_pop_002",
+      "category": "Gaming",
+      "difficulty": "easy",
+      "timeLimit": 20,
+      "question": {
+        "en": "What was the original name of Nintendo's Mario in Donkey Kong (1981)?",
+        "fr": "Quel était le premier nom de Mario de Nintendo dans Donkey Kong (1981) ?",
+        "tr": "Nintendo'nun ünlü karakteri Mario'nun Donkey Kong oyunundaki ilk adı neydi?",
+        "id": "Apa nama asli karakter Mario di Donkey Kong (1981)?"
+      },
+      "correctAnswer": {
+        "en": "Jumpman",
+        "fr": "Jumpman",
+        "tr": "Jumpman",
+        "id": "Jumpman"
+      },
+      "distractors": {
+        "en": [
+          "Mr. Video",
+          "Carpentino",
+          "Little Red"
+        ],
+        "fr": [
+          "Mr. Video",
+          "Carpentino",
+          "Little Red"
+        ],
+        "tr": [
+          "Mr. Video",
+          "Carpentino",
+          "Little Red"
+        ],
+        "id": [
+          "Mr. Video",
+          "Carpentino",
+          "Little Red"
+        ]
+      },
+      "explanation": {
+        "en": "Shigeru Miyamoto originally called him Jumpman before naming him Mario after landlord Mario Segale.",
+        "fr": "Shigeru Miyamoto l'a d'abord appelé Jumpman avant de s'inspirer de Mario Segale.",
+        "tr": "Shigeru Miyamoto başlangıçta karaktere Jumpman adını vermişti.",
+        "id": "Shigeru Miyamoto awalnya menamainya Jumpman sebelum menamainya Mario dari Mario Segale."
+      }
+    },
+    {
+      "id": "bluff_geo_001",
+      "category": "Geography",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Which South Asian island nation was officially known as Ceylon until 1972?",
+        "fr": "Quelle nation insulaire d'Asie du Sud était officiellement appelée Ceylan jusqu'en 1972 ?",
+        "tr": "1972 yılına kadar resmi olarak Seylan (Ceylon) adıyla bilinen ada ülkesi hangisidir?",
+        "id": "Negara pulau Asia Selatan mana yang secara resmi dikenal sebagai Ceylon hingga tahun 1972?"
+      },
+      "correctAnswer": {
+        "en": "Sri Lanka",
+        "fr": "Sri Lanka",
+        "tr": "Sri Lanka",
+        "id": "Sri Lanka"
+      },
+      "distractors": {
+        "en": [
+          "Madagascar",
+          "Maldives",
+          "Mauritius"
+        ],
+        "fr": [
+          "Madagascar",
+          "Maldives",
+          "Maurice"
+        ],
+        "tr": [
+          "Madagaskar",
+          "Maldivler",
+          "Mauritius"
+        ],
+        "id": [
+          "Madagaskar",
+          "Maladewa",
+          "Mauritius"
+        ]
+      },
+      "explanation": {
+        "en": "The country changed its name from Ceylon to Sri Lanka when it became a republic in 1972.",
+        "fr": "Le pays a abandonné le nom de Ceylan pour devenir la république du Sri Lanka en 1972.",
+        "tr": "Ülke 1972'de cumhuriyet ilan edildiğinde Seylan olan adını Sri Lanka olarak değiştirdi.",
+        "id": "Negara ini mengubah namanya dari Ceylon menjadi Sri Lanka saat menjadi republik pada tahun 1972."
+      }
+    },
+    {
+      "id": "bluff_sci_002",
+      "category": "Science",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What common everyday substance expands by about 9% in volume when freezing?",
+        "fr": "Quelle substance courante du quotidien augmente d'environ 9 % de volume en gelant ?",
+        "tr": "Donarken hacmi yaklaşık %9 oranında genişleyen yaygın günlük madde hangisidir?",
+        "id": "Zat umum sehari-hari apa yang volumenya memuai sekitar 9% saat membeku?"
+      },
+      "correctAnswer": {
+        "en": "Water",
+        "fr": "L'eau",
+        "tr": "Su",
+        "id": "Air"
+      },
+      "distractors": {
+        "en": [
+          "Olive Oil",
+          "Milk",
+          "Mercury"
+        ],
+        "fr": [
+          "Huile d'olive",
+          "Lait",
+          "Mercure"
+        ],
+        "tr": [
+          "Zeytinyağı",
+          "Süt",
+          "Cıva"
+        ],
+        "id": [
+          "Minyak Zaitun",
+          "Susu",
+          "Merkuri"
+        ]
+      },
+      "explanation": {
+        "en": "Unlike most liquids that contract when solidifying, water expands due to its crystalline hydrogen bonds.",
+        "fr": "Contrairement à la plupart des liquides, l'eau se dilate lorsqu'elle gèle en raison de ses liaisons hydrogène.",
+        "tr": "Çoğu sıvı donarken büzülürken su, kristal hidrojen bağları nedeniyle donarken genleşir.",
+        "id": "Tidak seperti kebanyakan cairan yang menyusut saat memadat, air memuai saat membeku karena ikatan hidrogennya."
+      }
+    },
+    {
+      "id": "bluff_hal_009",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In 19th-century Ireland, what did young women place under their pillows on Halloween to dream of their future husbands?",
+        "fr": "Dans l'Irlande du XIXe siècle, que mettaient les jeunes femmes sous leur oreiller à Halloween pour rêver de leur futur mari ?",
+        "tr": "19. yüzyıl İrlanda'sında genç kızlar rüyalarında müstakbel eşlerini görmek için yastıklarının altına ne koyardı?",
+        "id": "Di Irlandia abad ke-19, apa yang ditaruh wanita muda di bawah bantal saat Halloween agar memimpikan calon suami mereka?"
+      },
+      "correctAnswer": {
+        "en": "Four-leaf clovers with rosemary",
+        "fr": "Trèfles à quatre feuilles et romarin",
+        "tr": "Biberiyeli dört yapraklı yonca",
+        "id": "Semanggi empat daun dan rosemary"
+      },
+      "distractors": {
+        "en": [
+          "Carved turnip peelings",
+          "Silver wedding coins",
+          "Black cat whiskers"
+        ],
+        "fr": [
+          "Épluchures de navet",
+          "Pièces de monnaie en argent",
+          "Moustaches de chat noir"
+        ],
+        "tr": [
+          "Soyulmuş şalgam kabukları",
+          "Gümüş gelin paraları",
+          "Kara kedi bıyığı"
+        ],
+        "id": [
+          "Kulit lobak yang diukir",
+          "Koin perak pernikahan",
+          "Kumis kucing hitam"
+        ]
+      },
+      "explanation": {
+        "en": "Sprigs of rosemary tied to clovers were believed to invite romantic prophetic dreams on Halloween night.",
+        "fr": "On pensait que le romarin et le trèfle provoquaient des rêves prémonitoires amoureux à Halloween.",
+        "tr": "Cadılar Bayramı gecesi yastık altına konulan biberiye ve yoncanın gelecekteki eşi göstereceğine inanılırdı.",
+        "id": "Ranting rosemary yang diikat semanggi dipercaya membawa mimpi jodoh masa depan pada malam Halloween."
+      }
+    },
+    {
+      "id": "bluff_hal_010",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What bizarre municipal law regarding Halloween masks was passed in Walnut Creek, California in 1965?",
+        "fr": "Quelle loi municipale étrange sur les masques d'Halloween a été votée à Walnut Creek en Californie en 1965 ?",
+        "tr": "1965 yılında Kaliforniya Walnut Creek'te Cadılar Bayramı maskeleriyle ilgili hangi tuhaf yasa çıkarılmıştır?",
+        "id": "Hukum kota aneh apa tentang topeng Halloween yang disahkan di Walnut Creek, California pada tahun 1965?"
+      },
+      "correctAnswer": {
+        "en": "Must carry a police mask permit",
+        "fr": "Avoir un permis de port de masque",
+        "tr": "Polisten resmi maske izni alma zorunluluğu",
+        "id": "Wajib membawa izin topeng dari polisi"
+      },
+      "distractors": {
+        "en": [
+          "Only wear masks after dark",
+          "Masks cannot have eyebrows",
+          "Must wear bells on shoes"
+        ],
+        "fr": [
+          "Interdit avant la nuit",
+          "Masques sans sourcils",
+          "Porter des clochettes aux souliers"
+        ],
+        "tr": [
+          "Sadece hava kararınca takabilme",
+          "Kaşsız maske takma zorunluluğu",
+          "Ayakkabıya zil takma şartı"
+        ],
+        "id": [
+          "Hanya boleh dipakai saat gelap",
+          "Topeng tidak boleh beralis",
+          "Wajib memakai lonceng di sepatu"
+        ]
+      },
+      "explanation": {
+        "en": "Anyone wishing to wear a mask in public had to register and obtain a sheriff's permit.",
+        "fr": "Toute personne voulant porter un masque devait s'enregistrer auprès du shérif.",
+        "tr": "Kamuya açık alanda maske takmak isteyen herkesin şeriften resmi izin belgesi alması gerekiyordu.",
+        "id": "Siapa pun yang ingin memakai topeng di tempat umum harus mendaftar izin resmi ke polisi."
+      }
+    },
+    {
+      "id": "bluff_hal_011",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In traditional folklore, what was believed to happen if you put your clothes on inside out and walked backwards on Halloween?",
+        "fr": "Selon le folklore, que se passe-t-il si vous mettez vos vêtements à l'envers et marchez à reculons à Halloween ?",
+        "tr": "Geleneksel batıl inançlara göre, Cadılar Bayramı'nda giysilerinizi ters giyip geriye doğru yürürseniz ne olurdu?",
+        "id": "Menurut cerita rakyat, apa yang dipercaya terjadi jika Anda memakai baju terbalik dan berjalan mundur saat Halloween?"
+      },
+      "correctAnswer": {
+        "en": "You will see a real witch at midnight",
+        "fr": "Vous verrez une vraie sorcière à minuit",
+        "tr": "Gece yarısı gerçek bir cadıyla karşılaşırsınız",
+        "id": "Anda akan melihat penyihir asli di tengah malam"
+      },
+      "distractors": {
+        "en": [
+          "Ghosts cannot see you",
+          "Turn into a black cat",
+          "Find a pot of buried gold"
+        ],
+        "fr": [
+          "Les fantômes ne vous voient pas",
+          "Devenir un chat noir",
+          "Trouver un trésor enfoui"
+        ],
+        "tr": [
+          "Hayaletler sizi göremez",
+          "Kara kediye dönüşürsünüz",
+          "Gömülü bir altın küpü bulursunuz"
+        ],
+        "id": [
+          "Hantu tidak bisa melihat Anda",
+          "Berubah jadi kucing hitam",
+          "Menemukan kuali emas"
+        ]
+      },
+      "explanation": {
+        "en": "Superstition held that walking backwards inside-out breached the veil to reveal genuine flying witches.",
+        "fr": "La superstition prétendait que cela brisait le voile des dimensions pour voir les sorcières voler.",
+        "tr": "Eski bir inanışa göre ters yürümek boyut perdesini aralar ve gece yarısı gerçek cadıları görünür kılardı.",
+        "id": "Takhayul kuno percaya berjalan mundur terbalik membuka portal untuk melihat penyihir terbang."
+      }
+    },
+    {
+      "id": "bluff_hal_012",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In medieval Scotland, what food was roasted in fire by lovers on Halloween to predict if their relationship would last?",
+        "fr": "Dans l'Écosse médiévale, quel aliment les amoureux grillaient-ils au feu pour savoir si leur amour durerait ?",
+        "tr": "Orta Çağ İskoçya'sında sevgililer ilişkilerinin ömrünü öğrenmek için ateşte ne kavururdu?",
+        "id": "Di Skotlandia abad pertengahan, makanan apa yang dibakar di api oleh pasangan untuk meramal hubungan mereka?"
+      },
+      "correctAnswer": {
+        "en": "Hazelnuts",
+        "fr": "Des noisettes",
+        "tr": "Fındık",
+        "id": "Kacang Hazelnut"
+      },
+      "distractors": {
+        "en": [
+          "Chestnuts",
+          "Pumpkin seeds",
+          "Apples"
+        ],
+        "fr": [
+          "Châtaignes",
+          "Graines de citrouille",
+          "Pommes"
+        ],
+        "tr": [
+          "Kestane",
+          "Kabak çekirdeği",
+          "Elma"
+        ],
+        "id": [
+          "Kastanye",
+          "Biji labu",
+          "Apel"
+        ]
+      },
+      "explanation": {
+        "en": "If the nuts burned quietly together, the couple would enjoy a harmonious marriage.",
+        "fr": "Si les noisettes brûlaient paisiblement ensemble, le mariage serait heureux et durable.",
+        "tr": "Eğer ateşe atılan fındıklar patlamadan sessizce birlikte yanarsa, aşkın huzurlu süreceğine inanılırdı.",
+        "id": "Jika kacang terbakar tenang berdampingan, pernikahan diramalkan akan rukun dan langgeng."
+      }
+    },
+    {
+      "id": "bluff_hal_013",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What did the residents of Des Moines, Iowa start requiring children to do on Halloween to earn candy in the 1930s?",
+        "fr": "Que devaient obligatoirement faire les enfants de Des Moines dans l'Iowa pour mériter leurs bonbons dans les années 1930 ?",
+        "tr": "1930'larda Iowa'da çocukların Cadılar Bayramı'nda şeker alabilmek için ne yapması zorunluydu?",
+        "id": "Apa yang wajib dilakukan anak-anak di Des Moines, Iowa pada tahun 1930-an untuk mendapatkan permen saat Halloween?"
+      },
+      "correctAnswer": {
+        "en": "Tell a funny joke or riddle",
+        "fr": "Raconter une blague ou une devinette",
+        "tr": "Komik bir fıkra veya bilmece anlatmak",
+        "id": "Menceritakan lelucon atau teka-teki lucu"
+      },
+      "distractors": {
+        "en": [
+          "Sing the national anthem",
+          "Perform a theatrical dance",
+          "Recite a poem backwards"
+        ],
+        "fr": [
+          "Chanter l'hymne national",
+          "Faire une danse de mime",
+          "Réciter un poème à l'envers"
+        ],
+        "tr": [
+          "Milli marşı söylemek",
+          "Tiyatro dansı sergilemek",
+          "Tersinden şiir okumak"
+        ],
+        "id": [
+          "Menyanyikan lagu kebangsaan",
+          "Menari tarian teater",
+          "Membaca puisi terbalik"
+        ]
+      },
+      "explanation": {
+        "en": "Known as 'Beggars' Night', kids had to entertain homeowners with a comedy routine to prevent vandalism.",
+        "fr": "Appelé 'Beggars' Night', les enfants devaient faire rire les propriétaires pour éviter le vandalisme.",
+        "tr": "'Dilenciler Gecesi' adı verilen bu gelenekte vandalizmi önlemek için çocuklardan kapıda fıkra anlatmaları istenirdi.",
+        "id": "Disebut 'Beggars' Night', anak-anak harus menghibur tuan rumah dengan lelucon untuk mencegah kenakalan."
+      }
+    },
+    {
+      "id": "bluff_hal_014",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "Why are black cats superstitiously associated with witches in European history?",
+        "fr": "Pourquoi les chats noirs sont-ils historiquement associés aux sorcières en Europe ?",
+        "tr": "Avrupa tarihinde kara kediler neden cadılarla ve büyücülükle bağdaştırılmıştır?",
+        "id": "Mengapa kucing hitam secara takhayul dikaitkan dengan penyihir dalam sejarah Eropa?"
+      },
+      "correctAnswer": {
+        "en": "Believed to be witches disguised as animals",
+        "fr": "Considérés comme des sorcières métamorphosées",
+        "tr": "Hayvan kılığına girmiş cadılar olduklarına inanılması",
+        "id": "Diyakini sebagai penyihir yang menyamar jadi hewan"
+      },
+      "distractors": {
+        "en": [
+          "They only meow at full moons",
+          "Used to brew invisible potions",
+          "They steal souls while people sleep"
+        ],
+        "fr": [
+          "Ils ne miaulent que les soirs de pleine lune",
+          "Ingrédient de potions magiques",
+          "Ils voleraient l'âme des dormeurs"
+        ],
+        "tr": [
+          "Sadece dolunayda miyavlamaları",
+          "Görünmezlik iksirinde kullanılmaları",
+          "Uyurken ruhları çaldıklarına inanılması"
+        ],
+        "id": [
+          "Hanya mengeong saat bulan purnama",
+          "Dipakai ramuan tembus pandang",
+          "Mencuri jiwa orang yang tidur"
+        ]
+      },
+      "explanation": {
+        "en": "Puritans believed witches could shapeshift into black cats up to nine times.",
+        "fr": "Les Puritains croyaient que les sorcières pouvaient se changer en chats noirs jusqu'à neuf fois.",
+        "tr": "Orta Çağ inanışına göre cadılar dokuz kez kara kedi kılığına bürünme yeteneğine sahipti.",
+        "id": "Kaum Puritan percaya bahwa penyihir bisa berubah wujud menjadi kucing hitam hingga sembilan kali."
+      }
+    },
+    {
+      "id": "bluff_hal_015",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In Mexico's Día de los Muertos, what bright flower is placed to guide spirits back to altars?",
+        "fr": "Au Mexique pour le Jour des Morts, quelle fleur orange guide les esprits vers les autels ?",
+        "tr": "Meksika'nın Ölüler Günü kutlamasında ruhları sunaklara yönlendirmek için hangi parlak çiçek kullanılır?",
+        "id": "Dalam Día de los Muertos di Meksiko, bunga cerah apa yang dipajang untuk menuntun arwah ke altar?"
+      },
+      "correctAnswer": {
+        "en": "Marigold (Cempasúchil)",
+        "fr": "Le souci (Cempasúchil)",
+        "tr": "Kadife Çiçeği (Cempasúchil)",
+        "id": "Bunga Marigold (Cempasúchil)"
+      },
+      "distractors": {
+        "en": [
+          "Black Dahlia",
+          "Red Rose",
+          "White Orchid"
+        ],
+        "fr": [
+          "Dahlia noir",
+          "Rose rouge",
+          "Orchidée blanche"
+        ],
+        "tr": [
+          "Kara Yıldız Çiçeği",
+          "Kırmızı Gül",
+          "Beyaz Orkide"
+        ],
+        "id": [
+          "Dahlia Hitam",
+          "Mawar Merah",
+          "Anggrek Putih"
+        ]
+      },
+      "explanation": {
+        "en": "The pungent scent and bright orange color of marigolds are believed to guide souls home.",
+        "fr": "Le parfum puissant et la couleur dorée des soucis guident les âmes défuntes.",
+        "tr": "Kadife çiçeğinin güçlü kokusu ve canlı turuncu renginin ölülerin ruhlarına yol gösterdiğine inanılır.",
+        "id": "Aroma kuat dan warna jingga terang marigold dipercaya menuntun arwah leluhur pulang."
+      }
+    },
+    {
+      "id": "bluff_hal_016",
+      "category": "Halloween",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What did early American trick-or-treaters often receive before wrapped chocolate bars became standard in the 1970s?",
+        "fr": "Que recevaient souvent les enfants américains à Halloween avant les barres de chocolat dans les années 70 ?",
+        "tr": "1970'lerden önce paketli çikolatalar yaygınlaşmadan önce Cadılar Bayramı'nda çocuklara çoğunlukla ne verilirdi?",
+        "id": "Apa yang sering diterima anak-anak Amerika saat Halloween sebelum permen cokelat kemasan populer di era 1970-an?"
+      },
+      "correctAnswer": {
+        "en": "Apples, nuts, and homemade pastries",
+        "fr": "Des pommes, des noix et gâteaux maison",
+        "tr": "Elma, fındık ve ev yapımı kurabiyeler",
+        "id": "Apel, kacang-kacangan, dan kue buatan rumah"
+      },
+      "distractors": {
+        "en": [
+          "Cans of chicken soup",
+          "Handmade woolen gloves",
+          "Shiny silver pennies"
+        ],
+        "fr": [
+          "Des boîtes de conserve de soupe",
+          "Des gants en laine tricotés",
+          "Des pièces de monnaie neuves"
+        ],
+        "tr": [
+          "Konserve tavuk çorbası",
+          "El örgüsü yün eldiven",
+          "Parlak gümüş bozukluklar"
+        ],
+        "id": [
+          "Kaleng sup ayam",
+          "Sarung tangan wol rajut",
+          "Uang koin perak berkilau"
+        ]
+      },
+      "explanation": {
+        "en": "Neighbors routinely baked cookies and gave fresh orchard apples until packaged candy took over for safety.",
+        "fr": "Les voisins offraient des pâtisseries maison et des fruits avant que les bonbons emballés ne s'imposent.",
+        "tr": "Eski dönemlerde komşular ev yapımı kurabiyeler ve taze elmalar ikram ederdi.",
+        "id": "Tetangga biasanya memanggang kue dan memberi apel segar sebelum permen kemasan mendominasi demi keamanan."
+      }
+    },
+    {
+      "id": "bluff_qrk_007",
+      "category": "Odd Facts",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What unusual feature does wombat poop famously have?",
+        "fr": "Quelle forme géométrique étrange ont les crottes de wombat ?",
+        "tr": "Vombat hayvanının dışkısının en bilinen tuhaf özelliği nedir?",
+        "id": "Bentuk unik apa yang terkenal dari kotoran wombat?"
+      },
+      "correctAnswer": {
+        "en": "It is cube-shaped",
+        "fr": "Elles sont cubiques",
+        "tr": "Küp şeklindedir",
+        "id": "Berbentuk kubus"
+      },
+      "distractors": {
+        "en": [
+          "It glows in the dark",
+          "It floats on water like cork",
+          "It smells like eucalyptus mint"
+        ],
+        "fr": [
+          "Elles brillent dans le noir",
+          "Elles flottent comme du liège",
+          "Elles sentent l'eucalyptus"
+        ],
+        "tr": [
+          "Karanlıkta parlar",
+          "Mantar gibi suda yüzer",
+          "Okaliptüs nanesi kokar"
+        ],
+        "id": [
+          "Bisa menyala dalam gelap",
+          "Mengapung seperti gabus",
+          "Beraroma mint eukaliptus"
+        ]
+      },
+      "explanation": {
+        "en": "Wombats produce cube-shaped droppings to prevent them from rolling off rocks where they mark territory.",
+        "fr": "La forme cubique empêche les crottes de rouler lorsqu'ils marquent leur territoire sur les rochers.",
+        "tr": "Küp şekli, vombatların bölgelerini işaretledikleri kayalardan dışkının yuvarlanmasını engeller.",
+        "id": "Bentuk kubus mencegah kotoran menggelinding dari bebatuan saat menandai wilayah."
+      }
+    },
+    {
+      "id": "bluff_qrk_008",
+      "category": "Odd Inventions",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In 1989, what did the Soviet Union famously trade to Pepsi in exchange for soft drinks due to a currency embargo?",
+        "fr": "En 1989, qu'est-ce que l'Union soviétique a échangé avec Pepsi contre des sodas ?",
+        "tr": "1989'da Sovyetler Birliği, Pepsi içecekleri karşılığında şirkete ne vermiştir?",
+        "id": "Pada tahun 1989, apa yang ditukar Uni Soviet ke Pepsi sebagai gantinya minuman soda?"
+      },
+      "correctAnswer": {
+        "en": "A fleet of submarines and warships",
+        "fr": "Une flotte de sous-marins et navires de guerre",
+        "tr": "Bir filo denizaltı ve savaş gemisi",
+        "id": "Armada kapal selam dan kapal perang"
+      },
+      "distractors": {
+        "en": [
+          "One million fur hats",
+          "Five hundred Siberian tigers",
+          "Space rocket blueprints"
+        ],
+        "fr": [
+          "Un million de toques en fourrure",
+          "Cinq cents tigres de Sibérie",
+          "Des plans de fusées spatiales"
+        ],
+        "tr": [
+          "Bir milyon adet kalpak kürk",
+          "Beş yüz Sibirya kaplanı",
+          "Uzay roketi planları"
+        ],
+        "id": [
+          "Satu juta topi bulu",
+          "Lima ratus harimau Siberia",
+          "Cetak biru roket antariksa"
+        ]
+      },
+      "explanation": {
+        "en": "The USSR traded 17 submarines and 3 warships to Pepsi, making Pepsi briefly the 6th largest military in the world!",
+        "fr": "L'URSS a cédé 17 sous-marins et 3 navires, faisant brièvement de Pepsi la 6e armée du monde !",
+        "tr": "Sovyetler 17 denizaltı ve 3 savaş gemisi vererek Pepsi'yi kısa süreliğine dünyanın en büyük 6. ordusu yaptı!",
+        "id": "Soviet menukar 17 kapal selam dan 3 kapal perang, membuat Pepsi sempat jadi militer ke-6 terbesar!"
+      }
+    },
+    {
+      "id": "bluff_qrk_009",
+      "category": "Weird Laws",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In Switzerland, what is strictly illegal to own only one of, because they get too lonely?",
+        "fr": "En Suisse, de quel animal est-il interdit de n'en posséder qu'un seul car il déprime ?",
+        "tr": "İsviçre'de yalnızlıktan depresyona girdikleri gerekçesiyle tek başına beslenmesi yasak olan evcil hayvan hangisidir?",
+        "id": "Di Swiss, hewan apa yang dilarang keras hanya dipelihara seekor karena mudah kesepian?"
+      },
+      "correctAnswer": {
+        "en": "Guinea pig",
+        "fr": "Cochon d'Inde",
+        "tr": "Ginepig (Kobay)",
+        "id": "Marmot (Guinea Pig)"
+      },
+      "distractors": {
+        "en": [
+          "Goldfish",
+          "Hamster",
+          "Parrot"
+        ],
+        "fr": [
+          "Poisson rouge",
+          "Hamster",
+          "Perroquet"
+        ],
+        "tr": [
+          "Japon balığı",
+          "Hamster",
+          "Papağan"
+        ],
+        "id": [
+          "Ikan mas koki",
+          "Hamster",
+          "Burung beo"
+        ]
+      },
+      "explanation": {
+        "en": "Swiss animal rights laws classify guinea pigs as social herd animals that must have companionship.",
+        "fr": "La loi suisse impose la présence d'au moins deux cochons d'Inde pour préserver leur bien-être social.",
+        "tr": "İsviçre yasaları ginepiglerin sosyal canlılar olduğunu belirterek en az çift olarak bakılmasını şart koşar.",
+        "id": "Hukum perlindungan hewan Swiss mewajibkan marmot dipelihara berpasangan karena sifat sosialnya."
+      }
+    },
+    {
+      "id": "bluff_qrk_010",
+      "category": "Odd Facts",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What surprising bodily function do flamingos use their pink color to signal?",
+        "fr": "Que révèle l'intensité de la couleur rose des flamants roses à leurs congénères ?",
+        "tr": "Flamingolar pembe tüylerinin parlaklığını diğer flamingolara neyi göstermek için kullanır?",
+        "id": "Sinyal apa yang ditunjukkan flamingo dari kecerahan bulu merah mudanya?"
+      },
+      "correctAnswer": {
+        "en": "Mating readiness and health",
+        "fr": "Leur forme et fertilité amoureuse",
+        "tr": "Sağlık ve çiftleşmeye hazır olma durumu",
+        "id": "Kesiapan kawin dan kesehatan"
+      },
+      "distractors": {
+        "en": [
+          "Territorial anger level",
+          "Distance from fresh water",
+          "Rank in the flock hierarchy"
+        ],
+        "fr": [
+          "Leur niveau d'agressivité",
+          "La proximité de l'eau douce",
+          "Leur rang hiérarchique"
+        ],
+        "tr": [
+          "Öfke ve saldırganlık seviyesi",
+          "Tatlı suya olan mesafe",
+          "Sürüdeki liderlik rütbesi"
+        ],
+        "id": [
+          "Tingkat kemarahan",
+          "Jarak dari air tawar",
+          "Peringkat hierarki kelompok"
+        ]
+      },
+      "explanation": {
+        "en": "Flamingos secrete a cosmetic pink oil from their tail glands to preen themselves and look vibrant for mates.",
+        "fr": "Ils étalent une huile rosée sur leurs plumes pour paraître plus attirants lors des parades nuptiales.",
+        "tr": "Kuyruk bezlerinden salgıladıkları pembe yağla tüylerini cilalayarak eş adaylarına sağlıklı görünürler.",
+        "id": "Flamingo mengoleskan minyak merah muda dari kelenjar ekor agar tampak memikat bagi pasangan."
+      }
+    },
+    {
+      "id": "bluff_qrk_011",
+      "category": "Odd Inventions",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What did British inventor Trevor Baylis invent in 1991 so people in rural Africa without electricity could listen to educational broadcasts?",
+        "fr": "Qu'a inventé Trevor Baylis en 1991 pour permettre d'écouter les infos sans électricité ni piles ?",
+        "tr": "İngiliz mucit Trevor Baylis, 1991'de elektriksiz köyler için hangi aleti icat etmiştir?",
+        "id": "Apa yang diciptakan Trevor Baylis pada 1991 agar orang tanpa listrik bisa mendengar siaran?"
+      },
+      "correctAnswer": {
+        "en": "Wind-up clockwork radio",
+        "fr": "La radio à manivelle",
+        "tr": "Kurmalı el radyosu",
+        "id": "Radio engkol bertenaga putar"
+      },
+      "distractors": {
+        "en": [
+          "Solar-powered earphone",
+          "Waterwheel transmitter",
+          "Bicycle battery amplifier"
+        ],
+        "fr": [
+          "L'écouteur solaire",
+          "L'émetteur hydraulique",
+          "L'amplificateur à pédales"
+        ],
+        "tr": [
+          "Güneş enerjili kulaklık",
+          "Su çarklı radyo vericisi",
+          "Bisiklet dinamosu amfisi"
+        ],
+        "id": [
+          "Earphone bertenaga surya",
+          "Pemancar kincir air",
+          "Pengeras suara sepeda"
+        ]
+      },
+      "explanation": {
+        "en": "A hand crank coiled a spring inside that powered a generator for 15 minutes of radio playing.",
+        "fr": "Une manivelle remontait un ressort qui actionnait un générateur pour diffuser la radio sans pile.",
+        "tr": "Kol elle çevrildiğinde yayı kuruyor ve pilsiz 15 dakika boyunca kesintisiz radyo dinletiyordu.",
+        "id": "Engkol tangan memutar pegas yang menggerakkan generator untuk menyalakan radio tanpa baterai."
+      }
+    },
+    {
+      "id": "bluff_qrk_012",
+      "category": "Weird History",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In 1834, what everyday food was patented and sold as a medicine in the United States to treat indigestion?",
+        "fr": "En 1834, quel aliment populaire a été vendu comme médicament contre l'indigestion aux États-Unis ?",
+        "tr": "1834 yılında ABD'de mide rahatsızlıklarına iyi geldiği iddiasıyla ilaç olarak satılan yiyecek hangisidir?",
+        "id": "Pada tahun 1834, makanan sehari-hari apa yang dipatenkan dan dijual sebagai obat pencernaan di AS?"
+      },
+      "correctAnswer": {
+        "en": "Tomato Ketchup",
+        "fr": "Le ketchup de tomates",
+        "tr": "Domates Ketçabı",
+        "id": "Saus Tomat Ketchup"
+      },
+      "distractors": {
+        "en": [
+          "Peanut butter",
+          "Corn flakes",
+          "Mayonnaise"
+        ],
+        "fr": [
+          "Le beurre de cacahuète",
+          "Les corn flakes",
+          "La mayonnaise"
+        ],
+        "tr": [
+          "Fıstık ezmesi",
+          "Mısır gevreği",
+          "Mayonez"
+        ],
+        "id": [
+          "Selai kacang",
+          "Sereal jagung",
+          "Mayones"
+        ]
+      },
+      "explanation": {
+        "en": "Dr. John Cook Bennett turned ketchup into concentrated medicinal pills to treat diarrhea and jaundice.",
+        "fr": "Le Dr Bennett vendait le ketchup sous forme de pilules médicinales contre la jaunisse et les coliques.",
+        "tr": "Dr. John Bennett, domates ketçabını hap haline getirerek sindirim ilacı olarak reçeteyle satmıştır.",
+        "id": "Dr. John Cook Bennett mengolah saus tomat menjadi pil obat untuk mengatasi diare dan penyakit kuning."
+      }
+    },
+    {
+      "id": "bluff_qrk_013",
+      "category": "Odd Facts",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What bizarre thing happens to water in hot geysers when thrown into sub-zero arctic air?",
+        "fr": "Quel phénomène surprenant se produit lorsque de l'eau bouillante est jetée dans un air polaire ?",
+        "tr": "Kaynar su dondurucu kutup soğuğunda havaya fırlatıldığında neye dönüşür?",
+        "id": "Fenomena mengejutkan apa yang terjadi saat air mendidih dilempar ke udara dingin kutub?"
+      },
+      "correctAnswer": {
+        "en": "Instantly vaporizes into snow dust",
+        "fr": "Elle se sublime instantanément en neige",
+        "tr": "Anında kar bulutuna dönüşür",
+        "id": "Seketika berubah menjadi kabut salju"
+      },
+      "distractors": {
+        "en": [
+          "Explodes with a loud bang",
+          "Turns into solid ice balls",
+          "Burns bright blue sparks"
+        ],
+        "fr": [
+          "Elle explose avec un grand bruit",
+          "Elle forme des billes de verre",
+          "Elle étincelle en bleu"
+        ],
+        "tr": [
+          "Yüksek sesle patlar",
+          "Sert buz bilyelerine dönüşür",
+          "Mavi kıvılcımlar saçar"
+        ],
+        "id": [
+          "Meledak dengan suara keras",
+          "Menjadi bola es padat",
+          "Menghasilkan percikan biru"
+        ]
+      },
+      "explanation": {
+        "en": "Known as the Mpemba effect, boiling water droplets break apart and flash freeze into white clouds.",
+        "fr": "L'effet Mpemba permet aux microgouttelettes bouillantes de geler instantanément en poussière de glace.",
+        "tr": "Kaynar su zerrecikleri havayla temas ettiği anda şok donmaya uğrayarak beyaz bir kar bulutu oluşturur.",
+        "id": "Tetesan air mendidih seketika pecah dan membeku menjadi awan kabut salju di udara kutub."
+      }
+    },
+    {
+      "id": "bluff_qrk_014",
+      "category": "Weird Laws",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "In York, England, what ancient law technically remained on the books for centuries regarding visitors carrying bows?",
+        "fr": "À York en Angleterre, quelle loi médiévale absurde est restée inscrite pendant des siècles ?",
+        "tr": "İngiltere'nin York kentinde yüzyıllarca kanun kitaplarında kalan absürt yasa neye izin veriyordu?",
+        "id": "Di York, Inggris, hukum kuno absurd apa yang secara teknis bertahan selama berabad-abad?"
+      },
+      "correctAnswer": {
+        "en": "Shooting a Scotsman with a bow and arrow",
+        "fr": "Tirer sur un Écossais à l'arc après minuit",
+        "tr": "Ok ve yay taşıyan İskoçyalıya ok atmak",
+        "id": "Memanah orang Skotlandia yang membawa busur"
+      },
+      "distractors": {
+        "en": [
+          "Riding a pig across the town square",
+          "Wearing green shoes on a Sunday",
+          "Feeding swans roasted cheese"
+        ],
+        "fr": [
+          "Chevaucher un cochon sur la place",
+          "Porter des souliers verts le dimanche",
+          "Donner du fromage aux cygnes"
+        ],
+        "tr": [
+          "Meydanda domuza binmek",
+          "Pazar günü yeşil ayakkabı giymek",
+          "Kuğulara kızarmış peynir vermek"
+        ],
+        "id": [
+          "Menaiki babi di alun-alun kota",
+          "Memakai sepatu hijau di hari Minggu",
+          "Memberi makan angsa keju panggang"
+        ]
+      },
+      "explanation": {
+        "en": "Ancient curfew bylaws from border wars technically allowed shooting armed invaders inside city walls.",
+        "fr": "Une ordonnance moyenâgeuse autorisait les gardes à tirer sur les envahisseurs armés dans l'enceinte de la ville.",
+        "tr": "Orta Çağ sınır savaşlarından kalma yasa, şehir surları içindeki silahlı İskoçlara karşı savunma izni veriyordu.",
+        "id": "Hukum jam malam kuno dari era perang perbatasan secara teknis mengizinkan memanah penyusup bersenjata."
+      }
+    },
+    {
+      "id": "bluff_qrk_015",
+      "category": "Odd Facts",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What did astronaut John Young smuggle into space on Apollo 16 in 1972 in his spacesuit pocket?",
+        "fr": "Quel aliment interdit l'astronaute John Young a-t-il emporté en cachette dans l'espace en 1965 ?",
+        "tr": "Astronot John Young, uzay giysisinin cebinde uzaya gizlice ne kaçırmıştır?",
+        "id": "Apa yang diselundupkan astronot John Young ke luar angkasa di saku baju antariksa?"
+      },
+      "correctAnswer": {
+        "en": "A corned beef sandwich",
+        "fr": "Un sandwich au corned-beef",
+        "tr": "Konserve dana etli sandviç",
+        "id": "Sandwich daging kornet"
+      },
+      "distractors": {
+        "en": [
+          "A chocolate doughnut",
+          "A jar of peanut butter",
+          "A slice of pepperoni pizza"
+        ],
+        "fr": [
+          "Un beignet au chocolat",
+          "Un pot de beurre de cacahuète",
+          "Une part de pizza"
+        ],
+        "tr": [
+          "Çikolatalı donut",
+          "Kavanoz fıstık ezmesi",
+          "Dilim sucuklu pizza"
+        ],
+        "id": [
+          "Donat cokelat",
+          "Toples selai kacang",
+          "Sepotong pizza pepperoni"
+        ]
+      },
+      "explanation": {
+        "en": "NASA reprimanded the astronauts because floating breadcrumbs could damage spacecraft electronics.",
+        "fr": "La NASA a paniqué car les miettes flottantes en apesanteur risquaient d'endommager les circuits électroniques.",
+        "tr": "Yerçekimsiz ortamda uçuşan ekmek kırıntıları göstergelere zarar verebileceği için NASA astronotları uyardı.",
+        "id": "NASA menegur astronot karena remahan roti yang melayang bisa merusak sistem elektronik pesawat."
+      }
+    },
+    {
+      "id": "bluff_qrk_016",
+      "category": "Odd Facts",
+      "difficulty": "medium",
+      "timeLimit": 20,
+      "question": {
+        "en": "What is the collective noun for a gathering of flamingos?",
+        "fr": "Comment appelle-t-on un groupe ou un rassemblement de flamants roses en anglais ?",
+        "tr": "İngilizcede bir grup flamingoyu tanımlamak için kullanılan resmi topluluk adı nedir?",
+        "id": "Apa sebutan kolektif bahasa Inggris untuk sekelompok flamingo yang berkumpul?"
+      },
+      "correctAnswer": {
+        "en": "A flamboyance",
+        "fr": "Une flamboyance",
+        "tr": "Flamboyance (Göz Alıcılık)",
+        "id": "A flamboyance"
+      },
+      "distractors": {
+        "en": [
+          "A blush",
+          "A carnival",
+          "A ballet"
+        ],
+        "fr": [
+          "Un blush",
+          "Un carnaval",
+          "Un ballet"
+        ],
+        "tr": [
+          "Bir allık",
+          "Bir karnaval",
+          "Bir bale"
+        ],
+        "id": [
+          "A blush",
+          "A carnival",
+          "A ballet"
+        ]
+      },
+      "explanation": {
+        "en": "A flock of flamingos is wonderfully referred to in English zoology as a 'flamboyance'.",
+        "fr": "En anglais zoologique, un rassemblement de flamants roses est poétiquement appelé 'flamboyance'.",
+        "tr": "İngilizce zoolojide bir flamingo sürüsüne 'flamboyance' (gösteriş/parıltı) denir.",
+        "id": "Dalam zoologi bahasa Inggris, sekawanan burung flamingo secara unik disebut 'a flamboyance'."
+      }
+    }
+  ]
+}

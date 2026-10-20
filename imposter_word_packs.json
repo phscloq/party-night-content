@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "U01",
+    "category": "food",
+    "nuance": "Hot breakfast beverages",
+    "common": {
+      "en": "Coffee",
+      "fr": "Café",
+      "tr": "Kahve",
+      "id": "Kopi"
+    },
+    "imposter": {
+      "en": "Tea",
+      "fr": "Thé",
+      "tr": "Çay",
+      "id": "Teh"
+    }
+  },
+  {
+    "id": "U02",
+    "category": "food",
+    "nuance": "Spreads for toast",
+    "common": {
+      "en": "Butter",
+      "fr": "Beurre",
+      "tr": "Tereyağı",
+      "id": "Mentega"
+    },
+    "imposter": {
+      "en": "Margarine",
+      "fr": "Margarine",
+      "tr": "Margarin",
+      "id": "Margarin"
+    }
+  },
+  {
+    "id": "U03",
+    "category": "food",
+    "nuance": "Fast food favorites",
+    "common": {
+      "en": "Pizza",
+      "fr": "Pizza",
+      "tr": "Pizza",
+      "id": "Pizza"
+    },
+    "imposter": {
+      "en": "Burger",
+      "fr": "Burger",
+      "tr": "Hamburger",
+      "id": "Burger"
+    }
+  },
+  {
+    "id": "U04",
+    "category": "food",
+    "nuance": "Cold sweet treats",
+    "common": {
+      "en": "Ice Cream",
+      "fr": "Glace",
+      "tr": "Dondurma",
+      "id": "Es Krim"
+    },
+    "imposter": {
+      "en": "Milkshake",
+      "fr": "Milk-shake",
+      "tr": "Milkshake",
+      "id": "Milkshake"
+    }
+  },
+  {
+    "id": "U05",
+    "category": "food",
+    "nuance": "Breakfast batter treats",
+    "common": {
+      "en": "Pancake",
+      "fr": "Crêpe",
+      "tr": "Pankek",
+      "id": "Panekuk"
+    },
+    "imposter": {
+      "en": "Waffle",
+      "fr": "Gaufre",
+      "tr": "Waffle",
+      "id": "Wafel"
+    }
+  },
+  {
+    "id": "U06",
+    "category": "food",
+    "nuance": "Citrus fruits",
+    "common": {
+      "en": "Lemon",
+      "fr": "Citron",
+      "tr": "Limon",
+      "id": "Lemon"
+    },
+    "imposter": {
+      "en": "Lime",
+      "fr": "Citron vert",
+      "tr": "Misket Limonu",
+      "id": "Jeruk Nipis"
+    }
+  },
+  {
+    "id": "U07",
+    "category": "food",
+    "nuance": "Table dipping sauces",
+    "common": {
+      "en": "Ketchup",
+      "fr": "Ketchup",
+      "tr": "Ketçap",
+      "id": "Saus Tomat"
+    },
+    "imposter": {
+      "en": "Mayonnaise",
+      "fr": "Mayonnaise",
+      "tr": "Mayonez",
+      "id": "Mayones"
+    }
+  },
+  {
+    "id": "U08",
+    "category": "food",
+    "nuance": "Salty potato snacks",
+    "common": {
+      "en": "French Fries",
+      "fr": "Frites",
+      "tr": "Patates Kızartması",
+      "id": "Kentang Goreng"
+    },
+    "imposter": {
+      "en": "Potato Chips",
+      "fr": "Chips",
+      "tr": "Patates Cipsi",
+      "id": "Keripik Kentang"
+    }
+  },
+  {
+    "id": "U09",
+    "category": "food",
+    "nuance": "Sweet toast toppings",
+    "common": {
+      "en": "Jam",
+      "fr": "Confiture",
+      "tr": "Reçel",
+      "id": "Selai"
+    },
+    "imposter": {
+      "en": "Honey",
+      "fr": "Miel",
+      "tr": "Bal",
+      "id": "Madu"
+    }
+  },
+  {
+    "id": "U10",
+    "category": "objects",
+    "nuance": "Between building floors",
+    "common": {
+      "en": "Elevator",
+      "fr": "Ascenseur",
+      "tr": "Asansör",
+      "id": "Lift"
+    },
+    "imposter": {
+      "en": "Escalator",
+      "fr": "Escalier mécanique",
+      "tr": "Yürüyen Merdiven",
+      "id": "Eskalator"
+    }
+  },
+  {
+    "id": "U11",
+    "category": "objects",
+    "nuance": "Eyewear",
+    "common": {
+      "en": "Glasses",
+      "fr": "Lunettes",
+      "tr": "Gözlük",
+      "id": "Kacamata"
+    },
+    "imposter": {
+      "en": "Sunglasses",
+      "fr": "Lunettes de soleil",
+      "tr": "Güneş Gözlüğü",
+      "id": "Kacamata Hitam"
+    }
+  },
+  {
+    "id": "U12",
+    "category": "objects",
+    "nuance": "Luggage for traveling",
+    "common": {
+      "en": "Backpack",
+      "fr": "Sac à dos",
+      "tr": "Sırt Çantası",
+      "id": "Ransel"
+    },
+    "imposter": {
+      "en": "Suitcase",
+      "fr": "Valise",
+      "tr": "Bavul",
+      "id": "Koper"
+    }
+  },
+  {
+    "id": "U13",
+    "category": "objects",
+    "nuance": "Stationery writing tools",
+    "common": {
+      "en": "Pencil",
+      "fr": "Crayon",
+      "tr": "Kurşun Kalem",
+      "id": "Pensil"
+    },
+    "imposter": {
+      "en": "Pen",
+      "fr": "Stylo",
+      "tr": "Tükenmez Kalem",
+      "id": "Pulpen"
+    }
+  },
+  {
+    "id": "U14",
+    "category": "objects",
+    "nuance": "Wrist accessories",
+    "common": {
+      "en": "Wristwatch",
+      "fr": "Montre",
+      "tr": "Kol Saati",
+      "id": "Jam Tangan"
+    },
+    "imposter": {
+      "en": "Smartwatch",
+      "fr": "Montre connectée",
+      "tr": "Akıllı Saat",
+      "id": "Smartwatch"
+    }
+  },
+  {
+    "id": "U15",
+    "category": "objects",
+    "nuance": "Reflective surfaces",
+    "common": {
+      "en": "Mirror",
+      "fr": "Miroir",
+      "tr": "Ayna",
+      "id": "Cermin"
+    },
+    "imposter": {
+      "en": "Window",
+      "fr": "Fenêtre",
+      "tr": "Pencere",
+      "id": "Jendela"
+    }
+  },
+  {
+    "id": "U16",
+    "category": "objects",
+    "nuance": "Portable light sources",
+    "common": {
+      "en": "Candle",
+      "fr": "Bougie",
+      "tr": "Mum",
+      "id": "Lilin"
+    },
+    "imposter": {
+      "en": "Flashlight",
+      "fr": "Lampe torche",
+      "tr": "El Feneri",
+      "id": "Senter"
+    }
+  },
+  {
+    "id": "U17",
+    "category": "objects",
+    "nuance": "Bedding comfort",
+    "common": {
+      "en": "Pillow",
+      "fr": "Oreiller",
+      "tr": "Yastık",
+      "id": "Bantal"
+    },
+    "imposter": {
+      "en": "Blanket",
+      "fr": "Couverture",
+      "tr": "Battaniye",
+      "id": "Selimut"
+    }
+  },
+  {
+    "id": "U18",
+    "category": "objects",
+    "nuance": "Personal audio devices",
+    "common": {
+      "en": "Headphones",
+      "fr": "Casque audio",
+      "tr": "Kulaklık",
+      "id": "Headphone"
+    },
+    "imposter": {
+      "en": "Earphones",
+      "fr": "Écouteurs",
+      "tr": "Kulak İçi Kulaklık",
+      "id": "Earphone"
+    }
+  },
+  {
+    "id": "U19",
+    "category": "objects",
+    "nuance": "Rain gear",
+    "common": {
+      "en": "Umbrella",
+      "fr": "Parapluie",
+      "tr": "Şemsiye",
+      "id": "Payung"
+    },
+    "imposter": {
+      "en": "Raincoat",
+      "fr": "Imperméable",
+      "tr": "Yağmurluk",
+      "id": "Jas Hujan"
+    }
+  },
+  {
+    "id": "U20",
+    "category": "objects",
+    "nuance": "Bathroom washing supplies",
+    "common": {
+      "en": "Shampoo",
+      "fr": "Shampoing",
+      "tr": "Şampuan",
+      "id": "Sampo"
+    },
+    "imposter": {
+      "en": "Soap",
+      "fr": "Savon",
+      "tr": "Sabun",
+      "id": "Sabun"
+    }
+  },
+  {
+    "id": "U21",
+    "category": "nature",
+    "nuance": "Apex big cats",
+    "common": {
+      "en": "Lion",
+      "fr": "Lion",
+      "tr": "Aslan",
+      "id": "Singa"
+    },
+    "imposter": {
+      "en": "Tiger",
+      "fr": "Tigre",
+      "tr": "Kaplan",
+      "id": "Harimau"
+    }
+  },
+  {
+    "id": "U22",
+    "category": "nature",
+    "nuance": "Large marine mammals",
+    "common": {
+      "en": "Dolphin",
+      "fr": "Dauphin",
+      "tr": "Yunus",
+      "id": "Lumba-lumba"
+    },
+    "imposter": {
+      "en": "Whale",
+      "fr": "Baleine",
+      "tr": "Balina",
+      "id": "Paus"
+    }
+  },
+  {
+    "id": "U23",
+    "category": "nature",
+    "nuance": "Birds of prey",
+    "common": {
+      "en": "Eagle",
+      "fr": "Aigle",
+      "tr": "Kartal",
+      "id": "Elang"
+    },
+    "imposter": {
+      "en": "Hawk",
+      "fr": "Faucon",
+      "tr": "Şahin",
+      "id": "Rajawali"
+    }
+  },
+  {
+    "id": "U24",
+    "category": "nature",
+    "nuance": "Sky celestial bodies",
+    "common": {
+      "en": "Sun",
+      "fr": "Soleil",
+      "tr": "Güneş",
+      "id": "Matahari"
+    },
+    "imposter": {
+      "en": "Moon",
+      "fr": "Lune",
+      "tr": "Ay",
+      "id": "Bulan"
+    }
+  },
+  {
+    "id": "U25",
+    "category": "nature",
+    "nuance": "Freshwater bodies",
+    "common": {
+      "en": "River",
+      "fr": "Rivière",
+      "tr": "Nehir",
+      "id": "Sungai"
+    },
+    "imposter": {
+      "en": "Lake",
+      "fr": "Lac",
+      "tr": "Göl",
+      "id": "Danau"
+    }
+  },
+  {
+    "id": "U26",
+    "category": "nature",
+    "nuance": "Winged insects",
+    "common": {
+      "en": "Butterfly",
+      "fr": "Papillon",
+      "tr": "Kelebek",
+      "id": "Kupu-kupu"
+    },
+    "imposter": {
+      "en": "Moth",
+      "fr": "Papillon de nuit",
+      "tr": "Güve",
+      "id": "Ngengat"
+    }
+  },
+  {
+    "id": "U27",
+    "category": "nature",
+    "nuance": "Large reptiles",
+    "common": {
+      "en": "Crocodile",
+      "fr": "Crocodile",
+      "tr": "Timsah",
+      "id": "Buaya"
+    },
+    "imposter": {
+      "en": "Alligator",
+      "fr": "Alligator",
+      "tr": "Aligatör",
+      "id": "Aligator"
+    }
+  },
+  {
+    "id": "U28",
+    "category": "nature",
+    "nuance": "Atmospheric precipitation",
+    "common": {
+      "en": "Rain",
+      "fr": "Pluie",
+      "tr": "Yağmur",
+      "id": "Hujan"
+    },
+    "imposter": {
+      "en": "Snow",
+      "fr": "Neige",
+      "tr": "Kar",
+      "id": "Salju"
+    }
+  },
+  {
+    "id": "U29",
+    "category": "arts",
+    "nuance": "Acoustic string instruments",
+    "common": {
+      "en": "Guitar",
+      "fr": "Guitare",
+      "tr": "Gitar",
+      "id": "Gitar"
+    },
+    "imposter": {
+      "en": "Ukulele",
+      "fr": "Ukulélé",
+      "tr": "Ukulele",
+      "id": "Ukulele"
+    }
+  },
+  {
+    "id": "U30",
+    "category": "arts",
+    "nuance": "Keyboard instruments",
+    "common": {
+      "en": "Piano",
+      "fr": "Piano",
+      "tr": "Piyano",
+      "id": "Piano"
+    },
+    "imposter": {
+      "en": "Keyboard",
+      "fr": "Clavier",
+      "tr": "Org",
+      "id": "Keyboard"
+    }
+  },
+  {
+    "id": "U31",
+    "category": "arts",
+    "nuance": "Visual fine art",
+    "common": {
+      "en": "Painting",
+      "fr": "Peinture",
+      "tr": "Tablo",
+      "id": "Lukisan"
+    },
+    "imposter": {
+      "en": "Sculpture",
+      "fr": "Sculpture",
+      "tr": "Heykel",
+      "id": "Patung"
+    }
+  },
+  {
+    "id": "U32",
+    "category": "arts",
+    "nuance": "Entertainment auditoriums",
+    "common": {
+      "en": "Cinema",
+      "fr": "Cinéma",
+      "tr": "Sinema",
+      "id": "Bioskop"
+    },
+    "imposter": {
+      "en": "Theater",
+      "fr": "Théâtre",
+      "tr": "Tiyatro",
+      "id": "Panggung Teater"
+    }
+  },
+  {
+    "id": "U33",
+    "category": "places",
+    "nuance": "Accommodations",
+    "common": {
+      "en": "Hotel",
+      "fr": "Hôtel",
+      "tr": "Otel",
+      "id": "Hotel"
+    },
+    "imposter": {
+      "en": "Hostel",
+      "fr": "Auberge de jeunesse",
+      "tr": "Hostel",
+      "id": "Hostel"
+    }
+  },
+  {
+    "id": "U34",
+    "category": "places",
+    "nuance": "Major transport hubs",
+    "common": {
+      "en": "Airport",
+      "fr": "Aéroport",
+      "tr": "Havalimanı",
+      "id": "Bandara"
+    },
+    "imposter": {
+      "en": "Train Station",
+      "fr": "Gare",
+      "tr": "Tren Garı",
+      "id": "Stasiun Kereta"
+    }
+  },
+  {
+    "id": "U35",
+    "category": "places",
+    "nuance": "Book locations",
+    "common": {
+      "en": "Library",
+      "fr": "Bibliothèque",
+      "tr": "Kütüphane",
+      "id": "Perpustakaan"
+    },
+    "imposter": {
+      "en": "Bookstore",
+      "fr": "Librairie",
+      "tr": "Kitapçı",
+      "id": "Toko Buku"
+    }
+  },
+  {
+    "id": "U36",
+    "category": "places",
+    "nuance": "Medical facilities",
+    "common": {
+      "en": "Hospital",
+      "fr": "Hôpital",
+      "tr": "Hastane",
+      "id": "Rumah Sakit"
+    },
+    "imposter": {
+      "en": "Pharmacy",
+      "fr": "Pharmacie",
+      "tr": "Eczane",
+      "id": "Apotek"
+    }
+  },
+  {
+    "id": "U37",
+    "category": "places",
+    "nuance": "Home rooms",
+    "common": {
+      "en": "Kitchen",
+      "fr": "Cuisine",
+      "tr": "Mutfak",
+      "id": "Dapur"
+    },
+    "imposter": {
+      "en": "Living Room",
+      "fr": "Salon",
+      "tr": "Salon",
+      "id": "Ruang Tamu"
+    }
+  },
+  {
+    "id": "U38",
+    "category": "jobs",
+    "nuance": "Medical caretakers",
+    "common": {
+      "en": "Doctor",
+      "fr": "Médecin",
+      "tr": "Doktor",
+      "id": "Dokter"
+    },
+    "imposter": {
+      "en": "Nurse",
+      "fr": "Infirmier",
+      "tr": "Hemşire",
+      "id": "Perawat"
+    }
+  },
+  {
+    "id": "U39",
+    "category": "jobs",
+    "nuance": "Vehicle navigators",
+    "common": {
+      "en": "Pilot",
+      "fr": "Pilote",
+      "tr": "Pilot",
+      "id": "Pilot"
+    },
+    "imposter": {
+      "en": "Sailor",
+      "fr": "Marin",
+      "tr": "Denizci",
+      "id": "Pelaut"
+    }
+  },
+  {
+    "id": "U40",
+    "category": "jobs",
+    "nuance": "Kitchen professionals",
+    "common": {
+      "en": "Chef",
+      "fr": "Chef cuisinier",
+      "tr": "Şef",
+      "id": "Koki"
+    },
+    "imposter": {
+      "en": "Baker",
+      "fr": "Boulanger",
+      "tr": "Fırıncı",
+      "id": "Tukang Roti"
+    }
+  },
+  {
+    "id": "U41",
+    "category": "jobs",
+    "nuance": "Racquet sports",
+    "common": {
+      "en": "Tennis",
+      "fr": "Tennis",
+      "tr": "Tenis",
+      "id": "Tenis"
+    },
+    "imposter": {
+      "en": "Badminton",
+      "fr": "Badminton",
+      "tr": "Badminton",
+      "id": "Bulu Tangkis"
+    }
+  },
+  {
+    "id": "U42",
+    "category": "arts",
+    "nuance": "Celebratory gatherings",
+    "common": {
+      "en": "Birthday Party",
+      "fr": "Fête d'anniversaire",
+      "tr": "Doğum Günü",
+      "id": "Ulang Tahun"
+    },
+    "imposter": {
+      "en": "Wedding",
+      "fr": "Mariage",
+      "tr": "Düğün",
+      "id": "Pernikahan"
+    }
+  },
+  {
+    "id": "U43",
+    "category": "arts",
+    "nuance": "Game activities",
+    "common": {
+      "en": "Board Game",
+      "fr": "Jeu de société",
+      "tr": "Kutu Oyunu",
+      "id": "Board Game"
+    },
+    "imposter": {
+      "en": "Video Game",
+      "fr": "Jeu vidéo",
+      "tr": "Video Oyunu",
+      "id": "Video Game"
+    }
+  },
+  {
+    "id": "U44",
+    "category": "places",
+    "nuance": "Outdoor vacations",
+    "common": {
+      "en": "Camping",
+      "fr": "Camping",
+      "tr": "Kamp",
+      "id": "Berkemah"
+    },
+    "imposter": {
+      "en": "Beach Vacation",
+      "fr": "Vacances à la plage",
+      "tr": "Plaj Tatili",
+      "id": "Liburan Pantai"
+    }
+  },
+  {
+    "id": "U45",
+    "category": "objects",
+    "nuance": "Eating utensils",
+    "common": {
+      "en": "Fork",
+      "fr": "Fourchette",
+      "tr": "Çatal",
+      "id": "Garpu"
+    },
+    "imposter": {
+      "en": "Spoon",
+      "fr": "Cuillère",
+      "tr": "Kaşık",
+      "id": "Sendok"
+    }
+  },
+  {
+    "id": "H01",
+    "category": "halloween",
+    "nuance": "Spooky night flying creatures",
+    "common": {
+      "en": "Bat",
+      "fr": "Chauve-souris",
+      "tr": "Yarasa",
+      "id": "Kelelawar"
+    },
+    "imposter": {
+      "en": "Owl",
+      "fr": "Chouette",
+      "tr": "Baykuş",
+      "id": "Burung Hantu"
+    }
+  },
+  {
+    "id": "H02",
+    "category": "halloween",
+    "nuance": "Undead horror creatures",
+    "common": {
+      "en": "Vampire",
+      "fr": "Vampire",
+      "tr": "Vampir",
+      "id": "Vampir"
+    },
+    "imposter": {
+      "en": "Werewolf",
+      "fr": "Loup-garou",
+      "tr": "Kurt Adam",
+      "id": "Manusia Serigala"
+    }
+  },
+  {
+    "id": "H03",
+    "category": "halloween",
+    "nuance": "Shrouded spirits",
+    "common": {
+      "en": "Ghost",
+      "fr": "Fantôme",
+      "tr": "Hayalet",
+      "id": "Hantu"
+    },
+    "imposter": {
+      "en": "Skeleton",
+      "fr": "Squelette",
+      "tr": "İskelet",
+      "id": "Tengkorak"
+    }
+  },
+  {
+    "id": "H04",
+    "category": "halloween",
+    "nuance": "Wrapped & walking dead",
+    "common": {
+      "en": "Mummy",
+      "fr": "Momie",
+      "tr": "Mumya",
+      "id": "Mumi"
+    },
+    "imposter": {
+      "en": "Zombie",
+      "fr": "Zombie",
+      "tr": "Zombi",
+      "id": "Zombi"
+    }
+  },
+  {
+    "id": "H05",
+    "category": "halloween",
+    "nuance": "Carved holiday squash",
+    "common": {
+      "en": "Pumpkin",
+      "fr": "Citrouille",
+      "tr": "Balkabağı",
+      "id": "Labu"
+    },
+    "imposter": {
+      "en": "Watermelon",
+      "fr": "Pastèque",
+      "tr": "Karpuz",
+      "id": "Semangka"
+    }
+  },
+  {
+    "id": "H06",
+    "category": "halloween",
+    "nuance": "Dark magic wielders",
+    "common": {
+      "en": "Witch",
+      "fr": "Sorcière",
+      "tr": "Cadı",
+      "id": "Penyihir"
+    },
+    "imposter": {
+      "en": "Wizard",
+      "fr": "Sorcier",
+      "tr": "Büyücü",
+      "id": "Penyihir Pria"
+    }
+  },
+  {
+    "id": "H07",
+    "category": "halloween",
+    "nuance": "Witch transport & tools",
+    "common": {
+      "en": "Broomstick",
+      "fr": "Balai magique",
+      "tr": "Süpürge",
+      "id": "Sapu Terbang"
+    },
+    "imposter": {
+      "en": "Cauldron",
+      "fr": "Chaudron",
+      "tr": "Kazan",
+      "id": "Kuali Sihir"
+    }
+  },
+  {
+    "id": "H08",
+    "category": "halloween",
+    "nuance": "Sweet doorstep treats",
+    "common": {
+      "en": "Candy",
+      "fr": "Bonbon",
+      "tr": "Şeker",
+      "id": "Permen"
+    },
+    "imposter": {
+      "en": "Chocolate",
+      "fr": "Chocolat",
+      "tr": "Çikolata",
+      "id": "Cokelat"
+    }
+  },
+  {
+    "id": "H09",
+    "category": "halloween",
+    "nuance": "Haunted structure rooms",
+    "common": {
+      "en": "Haunted House",
+      "fr": "Maison hantée",
+      "tr": "Korku Evi",
+      "id": "Rumah Hantu"
+    },
+    "imposter": {
+      "en": "Graveyard",
+      "fr": "Cimetière",
+      "tr": "Mezarlık",
+      "id": "Kuburan"
+    }
+  },
+  {
+    "id": "H10",
+    "category": "halloween",
+    "nuance": "Costume head coverings",
+    "common": {
+      "en": "Mask",
+      "fr": "Masque",
+      "tr": "Maske",
+      "id": "Topeng"
+    },
+    "imposter": {
+      "en": "Makeup",
+      "fr": "Maquillage",
+      "tr": "Makyaj",
+      "id": "Riasan Wajah"
+    }
+  },
+  {
+    "id": "H11",
+    "category": "halloween",
+    "nuance": "Creepy arachnids & traps",
+    "common": {
+      "en": "Spider",
+      "fr": "Araignée",
+      "tr": "Örümcek",
+      "id": "Laba-laba"
+    },
+    "imposter": {
+      "en": "Spiderweb",
+      "fr": "Toile d'araignée",
+      "tr": "Örümcek Ağı",
+      "id": "Sarang Laba-laba"
+    }
+  },
+  {
+    "id": "H12",
+    "category": "halloween",
+    "nuance": "Final resting boxes",
+    "common": {
+      "en": "Coffin",
+      "fr": "Cercueil",
+      "tr": "Tabut",
+      "id": "Peti Mati"
+    },
+    "imposter": {
+      "en": "Tombstone",
+      "fr": "Pierre tombale",
+      "tr": "Mezar Taşı",
+      "id": "Batu Nisan"
+    }
+  },
+  {
+    "id": "H13",
+    "category": "halloween",
+    "nuance": "Spooky atmospheric weather",
+    "common": {
+      "en": "Fog",
+      "fr": "Brouillard",
+      "tr": "Sis",
+      "id": "Kabut"
+    },
+    "imposter": {
+      "en": "Thunderstorm",
+      "fr": "Orage",
+      "tr": "Fırtına",
+      "id": "Badai Petir"
+    }
+  },
+  {
+    "id": "H14",
+    "category": "halloween",
+    "nuance": "Creepy sound effects",
+    "common": {
+      "en": "Scream",
+      "fr": "Cri",
+      "tr": "Çığlık",
+      "id": "Jeritan"
+    },
+    "imposter": {
+      "en": "Whisper",
+      "fr": "Chuchotement",
+      "tr": "Fısıltı",
+      "id": "Bisikan"
+    }
+  },
+  {
+    "id": "H15",
+    "category": "halloween",
+    "nuance": "Fictional mad creators & beings",
+    "common": {
+      "en": "Frankenstein",
+      "fr": "Frankenstein",
+      "tr": "Frankenstein",
+      "id": "Frankenstein"
+    },
+    "imposter": {
+      "en": "Dracula",
+      "fr": "Dracula",
+      "tr": "Drakula",
+      "id": "Drakula"
+    }
+  },
+  {
+    "id": "U_food_10",
+    "category": "food",
+    "nuance": "Citrus fruits",
+    "common": {
+      "en": "Lemon",
+      "fr": "Citron",
+      "tr": "Limon",
+      "id": "Lemon"
+    },
+    "imposter": {
+      "en": "Lime",
+      "fr": "Citron vert",
+      "tr": "Misket Limonu",
+      "id": "Jeruk Nipis"
+    }
+  },
+  {
+    "id": "U_food_11",
+    "category": "food",
+    "nuance": "Italian pasta shapes",
+    "common": {
+      "en": "Spaghetti",
+      "fr": "Spaghetti",
+      "tr": "Spagetti",
+      "id": "Spageti"
+    },
+    "imposter": {
+      "en": "Penne",
+      "fr": "Penne",
+      "tr": "Penne Makarna",
+      "id": "Penne"
+    }
+  },
+  {
+    "id": "U_food_12",
+    "category": "food",
+    "nuance": "Salty movie and bar snacks",
+    "common": {
+      "en": "Popcorn",
+      "fr": "Pop-corn",
+      "tr": "Patlamış Mısır",
+      "id": "Popcorn"
+    },
+    "imposter": {
+      "en": "Potato Chips",
+      "fr": "Chips",
+      "tr": "Patates Cipsi",
+      "id": "Keripik Kentang"
+    }
+  },
+  {
+    "id": "U_food_13",
+    "category": "food",
+    "nuance": "Pancake and breakfast syrups",
+    "common": {
+      "en": "Honey",
+      "fr": "Miel",
+      "tr": "Bal",
+      "id": "Madu"
+    },
+    "imposter": {
+      "en": "Maple Syrup",
+      "fr": "Sirop d'érable",
+      "tr": "Akçaağaç Şurubu",
+      "id": "Sirup Maple"
+    }
+  },
+  {
+    "id": "U_food_14",
+    "category": "food",
+    "nuance": "Sweet chilled desserts",
+    "common": {
+      "en": "Ice Cream",
+      "fr": "Glace",
+      "tr": "Dondurma",
+      "id": "Es Krim"
+    },
+    "imposter": {
+      "en": "Frozen Yogurt",
+      "fr": "Yaourt glacé",
+      "tr": "Donmuş Yoğurt",
+      "id": "Yogurt Beku"
+    }
+  },
+  {
+    "id": "U_food_15",
+    "category": "food",
+    "nuance": "Fizzy sodas",
+    "common": {
+      "en": "Cola",
+      "fr": "Cola",
+      "tr": "Kola",
+      "id": "Kola"
+    },
+    "imposter": {
+      "en": "Iced Tea",
+      "fr": "Thé glacé",
+      "tr": "Soğuk Çay",
+      "id": "Es Teh"
+    }
+  },
+  {
+    "id": "U_food_16",
+    "category": "food",
+    "nuance": "Breakfast breads",
+    "common": {
+      "en": "Croissant",
+      "fr": "Croissant",
+      "tr": "Kruvasan",
+      "id": "Croissant"
+    },
+    "imposter": {
+      "en": "Bagel",
+      "fr": "Bagel",
+      "tr": "Simit",
+      "id": "Bagel"
+    }
+  },
+  {
+    "id": "U_obj_13",
+    "category": "objects",
+    "nuance": "Personal computing devices",
+    "common": {
+      "en": "Laptop",
+      "fr": "Ordinateur portable",
+      "tr": "Dizüstü Bilgisayar",
+      "id": "Laptop"
+    },
+    "imposter": {
+      "en": "Tablet",
+      "fr": "Tablette",
+      "tr": "Tablet",
+      "id": "Tablet"
+    }
+  },
+  {
+    "id": "U_obj_14",
+    "category": "objects",
+    "nuance": "Writing tools",
+    "common": {
+      "en": "Pen",
+      "fr": "Stylo",
+      "tr": "Tükenmez Kalem",
+      "id": "Pulpen"
+    },
+    "imposter": {
+      "en": "Pencil",
+      "fr": "Crayon",
+      "tr": "Kurşun Kalem",
+      "id": "Pensil"
+    }
+  },
+  {
+    "id": "U_obj_15",
+    "category": "objects",
+    "nuance": "Bedroom sleep items",
+    "common": {
+      "en": "Pillow",
+      "fr": "Oreiller",
+      "tr": "Yastık",
+      "id": "Bantal"
+    },
+    "imposter": {
+      "en": "Blanket",
+      "fr": "Couverture",
+      "tr": "Battaniye",
+      "id": "Selimut"
+    }
+  },
+  {
+    "id": "U_obj_16",
+    "category": "objects",
+    "nuance": "Portable baggage",
+    "common": {
+      "en": "Backpack",
+      "fr": "Sac à dos",
+      "tr": "Sırt Çantası",
+      "id": "Ransel"
+    },
+    "imposter": {
+      "en": "Suitcase",
+      "fr": "Valise",
+      "tr": "Bavul",
+      "id": "Koper"
+    }
+  },
+  {
+    "id": "U_nat_09",
+    "category": "nature",
+    "nuance": "Striped wild beasts",
+    "common": {
+      "en": "Tiger",
+      "fr": "Tigre",
+      "tr": "Kaplan",
+      "id": "Harimau"
+    },
+    "imposter": {
+      "en": "Leopard",
+      "fr": "Léopard",
+      "tr": "Leopar",
+      "id": "Macan Tutul"
+    }
+  },
+  {
+    "id": "U_nat_10",
+    "category": "nature",
+    "nuance": "Large marine mammals",
+    "common": {
+      "en": "Dolphin",
+      "fr": "Dauphin",
+      "tr": "Yunus",
+      "id": "Lumba-lumba"
+    },
+    "imposter": {
+      "en": "Whale",
+      "fr": "Baleine",
+      "tr": "Balina",
+      "id": "Paus"
+    }
+  },
+  {
+    "id": "U_nat_11",
+    "category": "nature",
+    "nuance": "Cold climate flightless birds",
+    "common": {
+      "en": "Penguin",
+      "fr": "Manchot",
+      "tr": "Penguen",
+      "id": "Penguin"
+    },
+    "imposter": {
+      "en": "Puffin",
+      "fr": "Macareux",
+      "tr": "Martı",
+      "id": "Puffin"
+    }
+  },
+  {
+    "id": "U_nat_12",
+    "category": "nature",
+    "nuance": "Majestic birds of prey",
+    "common": {
+      "en": "Eagle",
+      "fr": "Aigle",
+      "tr": "Kartal",
+      "id": "Elang"
+    },
+    "imposter": {
+      "en": "Hawk",
+      "fr": "Faucon",
+      "tr": "Şahin",
+      "id": "Rajawali"
+    }
+  },
+  {
+    "id": "U_nat_13",
+    "category": "nature",
+    "nuance": "Desert plants",
+    "common": {
+      "en": "Cactus",
+      "fr": "Cactus",
+      "tr": "Kaktüs",
+      "id": "Kaktus"
+    },
+    "imposter": {
+      "en": "Palm Tree",
+      "fr": "Palmier",
+      "tr": "Palmiye",
+      "id": "Pohon Palem"
+    }
+  },
+  {
+    "id": "U_nat_14",
+    "category": "nature",
+    "nuance": "Domesticated pack animals",
+    "common": {
+      "en": "Horse",
+      "fr": "Cheval",
+      "tr": "At",
+      "id": "Kuda"
+    },
+    "imposter": {
+      "en": "Donkey",
+      "fr": "Âne",
+      "tr": "Eşek",
+      "id": "Keledai"
+    }
+  },
+  {
+    "id": "U_nat_15",
+    "category": "nature",
+    "nuance": "Colorful flying insects",
+    "common": {
+      "en": "Butterfly",
+      "fr": "Papillon",
+      "tr": "Kelebek",
+      "id": "Kupu-kupu"
+    },
+    "imposter": {
+      "en": "Dragonfly",
+      "fr": "Libellule",
+      "tr": "Yusufçuk",
+      "id": "Capung"
+    }
+  },
+  {
+    "id": "U_nat_16",
+    "category": "nature",
+    "nuance": "Water formations",
+    "common": {
+      "en": "River",
+      "fr": "Rivière",
+      "tr": "Nehir",
+      "id": "Sungai"
+    },
+    "imposter": {
+      "en": "Waterfall",
+      "fr": "Cascade",
+      "tr": "Şelale",
+      "id": "Air Terjun"
+    }
+  },
+  {
+    "id": "U_art_07",
+    "category": "arts",
+    "nuance": "Keyboard instruments",
+    "common": {
+      "en": "Piano",
+      "fr": "Piano",
+      "tr": "Piyano",
+      "id": "Piano"
+    },
+    "imposter": {
+      "en": "Synthesizer",
+      "fr": "Synthétiseur",
+      "tr": "Org / Klavye",
+      "id": "Keyboard"
+    }
+  },
+  {
+    "id": "U_art_08",
+    "category": "arts",
+    "nuance": "Bowed string instruments",
+    "common": {
+      "en": "Violin",
+      "fr": "Violon",
+      "tr": "Keman",
+      "id": "Biola"
+    },
+    "imposter": {
+      "en": "Cello",
+      "fr": "Violoncelle",
+      "tr": "Çello",
+      "id": "Selo"
+    }
+  },
+  {
+    "id": "U_art_09",
+    "category": "arts",
+    "nuance": "Plucked acoustic instruments",
+    "common": {
+      "en": "Guitar",
+      "fr": "Guitare",
+      "tr": "Gitar",
+      "id": "Gitar"
+    },
+    "imposter": {
+      "en": "Ukulele",
+      "fr": "Ukulélé",
+      "tr": "Ukulele",
+      "id": "Ukulele"
+    }
+  },
+  {
+    "id": "U_art_10",
+    "category": "arts",
+    "nuance": "Percussion instruments",
+    "common": {
+      "en": "Drums",
+      "fr": "Batterie",
+      "tr": "Bateri",
+      "id": "Drum"
+    },
+    "imposter": {
+      "en": "Tambourine",
+      "fr": "Tambourin",
+      "tr": "Tef",
+      "id": "Rebana"
+    }
+  },
+  {
+    "id": "U_art_11",
+    "category": "arts",
+    "nuance": "Visual art styles",
+    "common": {
+      "en": "Oil Painting",
+      "fr": "Peinture à l'huile",
+      "tr": "Yağlı Boya",
+      "id": "Lukisan Minyak"
+    },
+    "imposter": {
+      "en": "Watercolor",
+      "fr": "Aquarelle",
+      "tr": "Sulu Boya",
+      "id": "Cat Air"
+    }
+  },
+  {
+    "id": "U_art_12",
+    "category": "arts",
+    "nuance": "Music recording formats",
+    "common": {
+      "en": "Vinyl Record",
+      "fr": "Disque vinyle",
+      "tr": "Plak",
+      "id": "Piringan Hitam"
+    },
+    "imposter": {
+      "en": "Cassette Tape",
+      "fr": "Cassette audio",
+      "tr": "Kaset",
+      "id": "Kaset Pita"
+    }
+  },
+  {
+    "id": "U_art_13",
+    "category": "arts",
+    "nuance": "Live storytelling venues",
+    "common": {
+      "en": "Theater",
+      "fr": "Théâtre",
+      "tr": "Tiyatro",
+      "id": "Teater"
+    },
+    "imposter": {
+      "en": "Cinema",
+      "fr": "Cinéma",
+      "tr": "Sinema",
+      "id": "Bioskop"
+    }
+  },
+  {
+    "id": "U_art_14",
+    "category": "arts",
+    "nuance": "Classical vocal performances",
+    "common": {
+      "en": "Opera",
+      "fr": "Opéra",
+      "tr": "Opera",
+      "id": "Opera"
+    },
+    "imposter": {
+      "en": "Musical",
+      "fr": "Comédie musicale",
+      "tr": "Müzikal",
+      "id": "Musikal"
+    }
+  },
+  {
+    "id": "U_art_15",
+    "category": "arts",
+    "nuance": "Dance genres",
+    "common": {
+      "en": "Ballet",
+      "fr": "Ballet",
+      "tr": "Bale",
+      "id": "Balet"
+    },
+    "imposter": {
+      "en": "Tango",
+      "fr": "Tango",
+      "tr": "Tango",
+      "id": "Tango"
+    }
+  },
+  {
+    "id": "U_art_16",
+    "category": "arts",
+    "nuance": "Writing forms",
+    "common": {
+      "en": "Poetry",
+      "fr": "Poésie",
+      "tr": "Şiir",
+      "id": "Puisi"
+    },
+    "imposter": {
+      "en": "Novel",
+      "fr": "Roman",
+      "tr": "Roman",
+      "id": "Novel"
+    }
+  },
+  {
+    "id": "U_pla_07",
+    "category": "places",
+    "nuance": "Air travel hubs",
+    "common": {
+      "en": "Airport",
+      "fr": "Aéroport",
+      "tr": "Havalimanı",
+      "id": "Bandara"
+    },
+    "imposter": {
+      "en": "Train Station",
+      "fr": "Gare",
+      "tr": "Tren Garı",
+      "id": "Stasiun Kereta"
+    }
+  },
+  {
+    "id": "U_pla_08",
+    "category": "places",
+    "nuance": "Water transit",
+    "common": {
+      "en": "Subway",
+      "fr": "Métro",
+      "tr": "Metro",
+      "id": "Kereta Bawah Tanah"
+    },
+    "imposter": {
+      "en": "Ferry",
+      "fr": "Ferry",
+      "tr": "Vapur",
+      "id": "Kapal Feri"
+    }
+  },
+  {
+    "id": "U_pla_09",
+    "category": "places",
+    "nuance": "Books and learning",
+    "common": {
+      "en": "Library",
+      "fr": "Bibliothèque",
+      "tr": "Kütüphane",
+      "id": "Perpustakaan"
+    },
+    "imposter": {
+      "en": "Bookstore",
+      "fr": "Librairie",
+      "tr": "Kitapçı",
+      "id": "Toko Buku"
+    }
+  },
+  {
+    "id": "U_pla_10",
+    "category": "places",
+    "nuance": "Lodging accommodations",
+    "common": {
+      "en": "Hotel",
+      "fr": "Hôtel",
+      "tr": "Otel",
+      "id": "Hotel"
+    },
+    "imposter": {
+      "en": "Hostel",
+      "fr": "Auberge de jeunesse",
+      "tr": "Pansiyon",
+      "id": "Hostel"
+    }
+  },
+  {
+    "id": "U_pla_11",
+    "category": "places",
+    "nuance": "Healthcare institutions",
+    "common": {
+      "en": "Hospital",
+      "fr": "Hôpital",
+      "tr": "Hastane",
+      "id": "Rumah Sakit"
+    },
+    "imposter": {
+      "en": "Pharmacy",
+      "fr": "Pharmacie",
+      "tr": "Eczane",
+      "id": "Apotek"
+    }
+  },
+  {
+    "id": "U_pla_12",
+    "category": "places",
+    "nuance": "Ancient high stone buildings",
+    "common": {
+      "en": "Castle",
+      "fr": "Château",
+      "tr": "Kale",
+      "id": "Kastel"
+    },
+    "imposter": {
+      "en": "Palace",
+      "fr": "Palais",
+      "tr": "Saray",
+      "id": "Istana"
+    }
+  },
+  {
+    "id": "U_pla_13",
+    "category": "places",
+    "nuance": "Urban recreation spots",
+    "common": {
+      "en": "City Park",
+      "fr": "Parc municipal",
+      "tr": "Şehir Parkı",
+      "id": "Taman Kota"
+    },
+    "imposter": {
+      "en": "Botanical Garden",
+      "fr": "Jardin botanique",
+      "tr": "Botanik Bahçesi",
+      "id": "Kebun Raya"
+    }
+  },
+  {
+    "id": "U_pla_14",
+    "category": "places",
+    "nuance": "Shopping areas",
+    "common": {
+      "en": "Shopping Mall",
+      "fr": "Centre commercial",
+      "tr": "Alışveriş Merkezi",
+      "id": "Mal"
+    },
+    "imposter": {
+      "en": "Supermarket",
+      "fr": "Supermarché",
+      "tr": "Süpermarket",
+      "id": "Supermarket"
+    }
+  },
+  {
+    "id": "U_pla_15",
+    "category": "places",
+    "nuance": "Sporting arenas",
+    "common": {
+      "en": "Stadium",
+      "fr": "Stade",
+      "tr": "Stadyum",
+      "id": "Stadion"
+    },
+    "imposter": {
+      "en": "Gym",
+      "fr": "Salle de sport",
+      "tr": "Spor Salonu",
+      "id": "Gym"
+    }
+  },
+  {
+    "id": "U_pla_16",
+    "category": "places",
+    "nuance": "Historical exhibition halls",
+    "common": {
+      "en": "Museum",
+      "fr": "Musée",
+      "tr": "Müze",
+      "id": "Museum"
+    },
+    "imposter": {
+      "en": "Art Gallery",
+      "fr": "Galerie d'art",
+      "tr": "Sanat Galerisi",
+      "id": "Galeri Seni"
+    }
+  },
+  {
+    "id": "U_job_05",
+    "category": "jobs",
+    "nuance": "Flight crew",
+    "common": {
+      "en": "Pilot",
+      "fr": "Pilote",
+      "tr": "Pilot",
+      "id": "Pilot"
+    },
+    "imposter": {
+      "en": "Flight Attendant",
+      "fr": "Hôtesse de l'air",
+      "tr": "Kabin Memuru",
+      "id": "Pramugari"
+    }
+  },
+  {
+    "id": "U_job_06",
+    "category": "jobs",
+    "nuance": "Emergency responders",
+    "common": {
+      "en": "Firefighter",
+      "fr": "Pompier",
+      "tr": "İtfaiyeci",
+      "id": "Pemadam Kebakaran"
+    },
+    "imposter": {
+      "en": "Paramedic",
+      "fr": "Ambulancier",
+      "tr": "Paramedik / Acil Tıp",
+      "id": "Paramedis"
+    }
+  },
+  {
+    "id": "U_job_07",
+    "category": "jobs",
+    "nuance": "Legal court professionals",
+    "common": {
+      "en": "Lawyer",
+      "fr": "Avocat",
+      "tr": "Avukat",
+      "id": "Pengacara"
+    },
+    "imposter": {
+      "en": "Judge",
+      "fr": "Juge",
+      "tr": "Hâkim",
+      "id": "Hakim"
+    }
+  },
+  {
+    "id": "U_job_08",
+    "category": "jobs",
+    "nuance": "Educational roles",
+    "common": {
+      "en": "Teacher",
+      "fr": "Professeur",
+      "tr": "Öğretmen",
+      "id": "Guru"
+    },
+    "imposter": {
+      "en": "Professor",
+      "fr": "Professeur d'université",
+      "tr": "Profesör",
+      "id": "Dosen"
+    }
+  },
+  {
+    "id": "U_job_09",
+    "category": "jobs",
+    "nuance": "Kitchen experts",
+    "common": {
+      "en": "Chef",
+      "fr": "Chef cuisinier",
+      "tr": "Şef Aşçı",
+      "id": "Koki"
+    },
+    "imposter": {
+      "en": "Baker",
+      "fr": "Boulanger",
+      "tr": "Fırıncı",
+      "id": "Tukang Roti"
+    }
+  },
+  {
+    "id": "U_job_10",
+    "category": "jobs",
+    "nuance": "Construction design",
+    "common": {
+      "en": "Architect",
+      "fr": "Architecte",
+      "tr": "Mimar",
+      "id": "Arsitek"
+    },
+    "imposter": {
+      "en": "Civil Engineer",
+      "fr": "Ingénieur civil",
+      "tr": "İnşaat Mühendisi",
+      "id": "Insinyur Sipil"
+    }
+  },
+  {
+    "id": "U_job_11",
+    "category": "jobs",
+    "nuance": "Animal care",
+    "common": {
+      "en": "Veterinarian",
+      "fr": "Vétérinaire",
+      "tr": "Veteriner",
+      "id": "Dokter Hewan"
+    },
+    "imposter": {
+      "en": "Dog Trainer",
+      "fr": "Éducateur canin",
+      "tr": "Köpek Eğitmeni",
+      "id": "Pelatih Anjing"
+    }
+  },
+  {
+    "id": "U_job_12",
+    "category": "jobs",
+    "nuance": "News media",
+    "common": {
+      "en": "Journalist",
+      "fr": "Journaliste",
+      "tr": "Gazeteci",
+      "id": "Jurnalis"
+    },
+    "imposter": {
+      "en": "Photographer",
+      "fr": "Photographe",
+      "tr": "Fotoğrafçı",
+      "id": "Fotografer"
+    }
+  },
+  {
+    "id": "U_job_13",
+    "category": "jobs",
+    "nuance": "Hair styling",
+    "common": {
+      "en": "Barber",
+      "fr": "Barbier",
+      "tr": "Berber",
+      "id": "Tukang Cukur"
+    },
+    "imposter": {
+      "en": "Hairdresser",
+      "fr": "Coiffeur",
+      "tr": "Kuaför",
+      "id": "Penata Rambut"
+    }
+  },
+  {
+    "id": "U_job_14",
+    "category": "jobs",
+    "nuance": "Cosmic explorers",
+    "common": {
+      "en": "Astronaut",
+      "fr": "Astronaute",
+      "tr": "Astronot",
+      "id": "Astronot"
+    },
+    "imposter": {
+      "en": "Astronomer",
+      "fr": "Astronome",
+      "tr": "Gökbilimci",
+      "id": "Astronom"
+    }
+  },
+  {
+    "id": "U_job_15",
+    "category": "jobs",
+    "nuance": "Oral health",
+    "common": {
+      "en": "Dentist",
+      "fr": "Dentiste",
+      "tr": "Diş Hekimi",
+      "id": "Dokter Gigi"
+    },
+    "imposter": {
+      "en": "Orthodontist",
+      "fr": "Orthodontiste",
+      "tr": "Ortodontist",
+      "id": "Ortodontis"
+    }
+  },
+  {
+    "id": "U_job_16",
+    "category": "jobs",
+    "nuance": "Musical entertainers",
+    "common": {
+      "en": "Singer",
+      "fr": "Chanteur",
+      "tr": "Şarkıcı",
+      "id": "Penyanyi"
+    },
+    "imposter": {
+      "en": "DJ",
+      "fr": "DJ",
+      "tr": "DJ",
+      "id": "DJ"
+    }
+  },
+  {
+    "id": "U_hal_16",
+    "category": "halloween",
+    "nuance": "Spooky flying animals",
+    "common": {
+      "en": "Bat",
+      "fr": "Chauve-souris",
+      "tr": "Yarasa",
+      "id": "Kelelawar"
+    },
+    "imposter": {
+      "en": "Owl",
+      "fr": "Chouette",
+      "tr": "Baykuş",
+      "id": "Burung Hantu"
+    }
+  }
+]

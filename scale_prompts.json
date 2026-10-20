@@ -1,0 +1,236 @@
+[
+  {
+    "id": "rent_cost",
+    "translations": {
+      "en": "Would you be happy or devastated if your monthly rent cost this amount?",
+      "tr": "Aylık ev kiranız bu miktar olsaydı mutlu mu olurdunuz yoksa yıkılır mıydınız?",
+      "fr": "Seriez-vous heureux ou dévasté si votre loyer mensuel coûtait cette somme ?",
+      "id": "Apakah kamu senang atau hancur jika biaya sewa rumah bulananmu sejumlah ini?"
+    }
+  },
+  {
+    "id": "injury_pain",
+    "translations": {
+      "en": "How painful or tolerable is this accident or injury on this scale?",
+      "tr": "Bu kaza veya sakatlık bu ölçekte ne kadar acı verici ya da dayanılabilir?",
+      "fr": "À quel point cette blessure est-elle douloureuse ou tolérable sur cette échelle ?",
+      "id": "Seberapa menyakitkan atau bisa ditoleransi cedera ini pada skala ini?"
+    }
+  },
+  {
+    "id": "street_food",
+    "translations": {
+      "en": "How delicious is this street food dish on this scale?",
+      "tr": "Bu sokak lezzeti bu ölçekte ne kadar lezzetli?",
+      "fr": "À quel point ce plat de street food est-il délicieux sur cette échelle ?",
+      "id": "Seberapa lezat jajanan kaki lima ini pada skala ini?"
+    }
+  },
+  {
+    "id": "awkward_ex",
+    "translations": {
+      "en": "How awkward would you feel if you bumped into your ex at this event?",
+      "tr": "Bu etkinlikte eski sevgilinizle karşılaşsaydınız ne kadar garip hissederdiniz?",
+      "fr": "À quel point vous sentiriez-vous mal à l'aise si vous croisiez votre ex à cet événement ?",
+      "id": "Seberapa canggung perasaanmu jika tidak sengaja bertemu mantan di acara ini?"
+    }
+  },
+  {
+    "id": "bank_balance",
+    "translations": {
+      "en": "How rich or broke would you feel with this bank balance right now?",
+      "tr": "Şu an banka hesabınızda bu bakiye olsaydı kendinizi ne kadar zengin ya da parasız hissederdiniz?",
+      "fr": "À quel point vous sentiriez-vous riche ou fauché avec ce solde bancaire en ce moment ?",
+      "id": "Seberapa kaya atau bokek perasaanmu dengan saldo rekening sejumlah ini sekarang?"
+    }
+  },
+  {
+    "id": "animal_danger",
+    "translations": {
+      "en": "How dangerous is this wild animal encounter?",
+      "tr": "Bu vahşi hayvanla karşılaşmak bu ölçekte ne kadar tehlikeli?",
+      "fr": "À quel point cette rencontre avec un animal sauvage est-elle dangereuse ?",
+      "id": "Seberapa berbahaya perjumpaan dengan hewan liar ini?"
+    }
+  },
+  {
+    "id": "zombie_survival",
+    "translations": {
+      "en": "How high is your chance of surviving a zombie apocalypse with this preparation?",
+      "tr": "Bu hazırlıkla bir zombi istilasında hayatta kalma şansınız bu ölçekte ne kadar yüksek?",
+      "fr": "Quelles sont vos chances de survivre à une apocalypse zombie avec cette préparation ?",
+      "id": "Seberapa tinggi peluangmu selamat dari kiamat zombie dengan persiapan ini?"
+    }
+  },
+  {
+    "id": "hot_sauce",
+    "translations": {
+      "en": "How spicy is this hot sauce?",
+      "tr": "Bu acı sos bu ölçekte ne kadar acı?",
+      "fr": "À quel point cette sauce piquante est-elle forte ?",
+      "id": "Seberapa pedas saus sambal ini?"
+    }
+  },
+  {
+    "id": "music_album",
+    "translations": {
+      "en": "How good is this music album?",
+      "tr": "Bu müzik albümü bu ölçekte ne kadar iyi?",
+      "fr": "À quel point cet album de musique est-il bon ?",
+      "id": "Seberapa bagus album musik ini?"
+    }
+  },
+  {
+    "id": "work_stress",
+    "translations": {
+      "en": "How stressful is this work deadline?",
+      "tr": "Bu iş teslim tarihi bu ölçekte ne kadar stresli?",
+      "fr": "À quel point cette date limite de travail est-elle stressante ?",
+      "id": "Seberapa menegangkan tenggat waktu pekerjaan ini?"
+    }
+  },
+  {
+    "id": "first_date_awkward",
+    "translations": {
+      "en": "How cringey or smooth was this first date conversation?",
+      "tr": "Bu ilk buluşma sohbeti ne kadar utanç verici ya da akıcıydı?",
+      "fr": "À quel point cette conversation de premier rendez-vous était-elle gênante ou fluide ?",
+      "id": "Seberapa canggung atau mulus obrolan kencan pertama ini?"
+    }
+  },
+  {
+    "id": "rollercoaster_thrill",
+    "translations": {
+      "en": "How terrifying or thrilling is this roller coaster ride?",
+      "tr": "Bu hız treni yolculuğu ne kadar korkutucu ya da heyecan verici?",
+      "fr": "À quel point ce tour de montagnes russes est-il terrifiant ou excitant ?",
+      "id": "Seberapa menakutkan atau menegangkan naik roller coaster ini?"
+    }
+  },
+  {
+    "id": "superpower_useful",
+    "translations": {
+      "en": "How useful in daily life is this hypothetical superpower?",
+      "tr": "Bu hayali süper güç günlük hayatta ne kadar kullanışlı olurdu?",
+      "fr": "À quel point ce super-pouvoir hypothétique est-il utile dans la vie quotidienne ?",
+      "id": "Seberapa berguna kekuatan super hipotesis ini dalam kehidupan sehari-hari?"
+    }
+  },
+  {
+    "id": "wifi_speed",
+    "translations": {
+      "en": "How fast or frustrating is this internet connection speed?",
+      "tr": "Bu internet bağlantı hızı ne kadar hızlı ya da sinir bozucu?",
+      "fr": "À quel point cette vitesse de connexion Internet est-elle rapide ou frustrante ?",
+      "id": "Seberapa cepat atau menyebalkan kecepatan koneksi internet ini?"
+    }
+  },
+  {
+    "id": "ghost_sighting",
+    "translations": {
+      "en": "How terrified would you be if you saw a shadowy figure in your bedroom at 3 AM?",
+      "tr": "Gece saat 3'te yatak odanızda gölgeli bir siluet görseydiniz ne kadar dehşete düşerdiniz?",
+      "fr": "À quel point seriez-vous terrifié si vous voyiez une silhouette dans votre chambre à 3h du matin ?",
+      "id": "Seberapa takut kamu jika melihat bayangan misterius di kamarmu jam 3 pagi?"
+    }
+  },
+  {
+    "id": "spicy_ramen",
+    "translations": {
+      "en": "How painful or manageable is this level of chili ramen spice on this scale?",
+      "tr": "Bu acı ramen seviyesi bu ölçekte ne kadar acı verici ya da dayanılabilir?",
+      "fr": "À quel point ce niveau de piment dans des ramen est-il douloureux ou supportable sur cette échelle ?",
+      "id": "Seberapa menyakitkan atau nikmat tingkat kepedasan ramen cabai ini pada skala ini?"
+    }
+  },
+  {
+    "id": "forgotten_birthday",
+    "translations": {
+      "en": "How hurt or forgiving would you be if your best friend forgot your milestone birthday?",
+      "tr": "En yakın arkadaşınız önemli doğum gününüzü unutsaydı ne kadar kırılır ya da affedici olurdunuz?",
+      "fr": "À quel point seriez-vous blessé ou indulgent si votre meilleur ami oubliait votre anniversaire important ?",
+      "id": "Seberapa sakit hati atau maklum perasaanmu jika sahabat melupakan hari ulang tahun pentingmu?"
+    }
+  },
+  {
+    "id": "battery_percentage",
+    "translations": {
+      "en": "How panicked or relaxed are you when your phone hits this battery level away from home?",
+      "tr": "Dışarıdayken telefon şarjınız bu seviyeye indiğinde ne kadar panikler ya da rahat kalırsınız?",
+      "fr": "À quel point paniquez-vous ou restez-vous détendu quand votre batterie atteint ce niveau hors de chez vous ?",
+      "id": "Seberapa panik atau santai perasaanmu saat baterai HP mencapai level ini saat jauh dari rumah?"
+    }
+  },
+  {
+    "id": "haunted_cabin",
+    "translations": {
+      "en": "How likely would you be to spend a night alone in this haunted cabin for $1,000?",
+      "tr": "1.000 dolar karşılığında bu perili dağ evinde tek başınıza bir gece geçirme ihtimaliniz ne olurdu?",
+      "fr": "Quelle serait votre probabilité de passer une nuit seul dans ce chalet hanté pour 1 000 $ ?",
+      "id": "Seberapa besar kemungkinanmu menghabiskan malam sendirian di kabin berhantu ini demi $1.000?"
+    }
+  },
+  {
+    "id": "karaoke_confidence",
+    "translations": {
+      "en": "How confident or mortified would you be performing this song at packed karaoke?",
+      "tr": "Tıklım tıklım dolu bir karoke barda bu şarkıyı söylerken ne kadar özgüvenli ya da utanmış olurdunuz?",
+      "fr": "À quel point seriez-vous confiant ou mortifié en chantant cette chanson dans un karaoké bondé ?",
+      "id": "Seberapa percaya diri atau malu perasaanmu menyanyikan lagu ini di karaoke yang ramai?"
+    }
+  },
+  {
+    "id": "traffic_jam",
+    "translations": {
+      "en": "How patient or furious are you when stuck in this gridlock traffic?",
+      "tr": "Böyle kilitlenmiş bir trafikte kaldığınızda ne kadar sabırlı ya da öfkeli olursunuz?",
+      "fr": "À quel point êtes-vous patient ou furieux lorsque vous êtes coincé dans ces embouteillages ?",
+      "id": "Seberapa sabar atau kesal dirimu saat terjebak dalam kemacetan total ini?"
+    }
+  },
+  {
+    "id": "spoilers",
+    "translations": {
+      "en": "How angry would you be if someone spoiled the season finale of your favorite series?",
+      "tr": "Biri en sevdiğiniz dizinin sezon finalini söyleseydi bu ölçekte ne kadar sinirlenirdiniz?",
+      "fr": "À quel point seriez-vous furieux si quelqu'un vous spoilait la fin de votre série préférée ?",
+      "id": "Seberapa marah dirimu jika seseorang membocorkan spoiler episode terakhir serial favoritmu?"
+    }
+  },
+  {
+    "id": "flight_turbulence",
+    "translations": {
+      "en": "How scary or calm is this severe airplane turbulence on this scale?",
+      "tr": "Uçakta yaşanan bu şiddetli türbülans bu ölçekte ne kadar korkutucu ya da sakin karşılanır?",
+      "fr": "À quel point cette turbulence aérienne sévère est-elle effrayante ou calme sur cette échelle ?",
+      "id": "Seberapa menakutkan atau tenang dirimu saat turbulensi pesawat yang hebat ini?"
+    }
+  },
+  {
+    "id": "lottery_win",
+    "translations": {
+      "en": "How life-changing or trivial would winning this amount in a lottery be?",
+      "tr": "Piyangodan bu miktarı kazanmak hayatınızı ne kadar değiştirir veya önemsiz kalırdı?",
+      "fr": "À quel point gagner cette somme à la loterie changerait-il votre vie ou serait-ce anecdotique ?",
+      "id": "Seberapa mengubah hidup atau sepele perasaanmu memenangkan jumlah uang ini di lotre?"
+    }
+  },
+  {
+    "id": "public_speaking",
+    "translations": {
+      "en": "How nervous or energized do you feel speaking in front of an audience of this size?",
+      "tr": "Bu büyüklükteki bir kalabalığın önünde konuşma yaparken ne kadar gergin ya da enerjik hissedersiniz?",
+      "fr": "À quel point êtes-vous nerveux ou motivé à l'idée de parler devant un public de cette taille ?",
+      "id": "Seberapa gugup atau bersemangat perasaanmu berbicara di depan audiens sebesar ini?"
+    }
+  },
+  {
+    "id": "horror_movie_scare",
+    "translations": {
+      "en": "How terrifying or cheesy was this jump scare in a horror movie?",
+      "tr": "Korku filmindeki bu ani korkutma sahnesi ne kadar dehşet verici ya da komik/ucuzdu?",
+      "fr": "À quel point ce jump scare de film d'horreur était-il terrifiant ou ridicule ?",
+      "id": "Seberapa mengerikan atau murahan adegan jump scare di film horor ini?"
+    }
+  }
+]

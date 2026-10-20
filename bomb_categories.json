@@ -1,0 +1,326 @@
+[
+  {
+    "id": "fridge",
+    "translations": {
+      "en": "Things in a refrigerator",
+      "tr": "Buzdolabında bulunan şeyler",
+      "fr": "Choses dans un réfrigérateur",
+      "id": "Benda di dalam kulkas"
+    }
+  },
+  {
+    "id": "countries_cms",
+    "translations": {
+      "en": "Countries starting with C, M, or S",
+      "tr": "C, M veya S harfiyle başlayan ülkeler",
+      "fr": "Pays commençant par C, M ou S",
+      "id": "Negara berawalan huruf C, M, atau S"
+    }
+  },
+  {
+    "id": "late_excuses",
+    "translations": {
+      "en": "Excuses for being late to work",
+      "tr": "İşe geç kalmak için uydurulan bahaneler",
+      "fr": "Excuses pour être en retard au travail",
+      "id": "Alasan terlambat masuk kerja"
+    }
+  },
+  {
+    "id": "under_bed",
+    "translations": {
+      "en": "Things you find under your bed",
+      "tr": "Yatağın altında bulabileceğiniz şeyler",
+      "fr": "Choses que l'on trouve sous son lit",
+      "id": "Benda yang ditemukan di bawah tempat tidur"
+    }
+  },
+  {
+    "id": "first_date",
+    "translations": {
+      "en": "Things you should never say on a first date",
+      "tr": "İlk buluşmada asla söylenmemesi gerekenler",
+      "fr": "Choses à ne jamais dire lors d'un premier rendez-vous",
+      "id": "Hal yang jangan pernah diucapkan saat kencan pertama"
+    }
+  },
+  {
+    "id": "heavy_animals",
+    "translations": {
+      "en": "Animals heavier than an average human",
+      "tr": "İnsandan daha ağır olan hayvanlar",
+      "fr": "Animaux plus lourds qu'un être humain",
+      "id": "Hewan yang lebih berat dari manusia"
+    }
+  },
+  {
+    "id": "bad_pizza",
+    "translations": {
+      "en": "Pizza toppings you would never want",
+      "tr": "Pizzada asla istemeyeceğiniz malzemeler",
+      "fr": "Garnitures de pizza dont vous ne voudriez jamais",
+      "id": "Topping pizza yang tidak kamu inginkan"
+    }
+  },
+  {
+    "id": "one_word_movies",
+    "translations": {
+      "en": "Movie titles with exactly one word",
+      "tr": "Tek kelimelik film isimleri",
+      "fr": "Titres de films en un seul mot",
+      "id": "Judul film dengan tepat satu kata"
+    }
+  },
+  {
+    "id": "beach_items",
+    "translations": {
+      "en": "Things you pack for the beach",
+      "tr": "Plaja giderken çantaya konulan eşyalar",
+      "fr": "Choses qu'on emporte à la plage",
+      "id": "Barang bawaan untuk ke pantai"
+    }
+  },
+  {
+    "id": "backpack_items",
+    "translations": {
+      "en": "Items found inside a backpack",
+      "tr": "Sırt çantasında bulunan eşyalar",
+      "fr": "Objets trouvés dans un sac à dos",
+      "id": "Benda di dalam tas ransel"
+    }
+  },
+  {
+    "id": "uniform_jobs",
+    "translations": {
+      "en": "Professions that wear uniforms",
+      "tr": "Üniforma giyen meslekler",
+      "fr": "Métiers qui portent un uniforme",
+      "id": "Profesi yang memakai seragam"
+    }
+  },
+  {
+    "id": "breakfast",
+    "translations": {
+      "en": "Breakfast foods and morning drinks",
+      "tr": "Kahvaltılık yiyecek ve içecekler",
+      "fr": "Aliments et boissons du petit-déjeuner",
+      "id": "Makanan dan minuman sarapan"
+    }
+  },
+  {
+    "id": "wood_metal",
+    "translations": {
+      "en": "Things made of wood or metal",
+      "tr": "Ahşap veya metalden yapılan eşyalar",
+      "fr": "Objets en bois ou en métal",
+      "id": "Benda terbuat dari kayu atau logam"
+    }
+  },
+  {
+    "id": "words_tr_bl",
+    "translations": {
+      "en": "Words that start with 'TR' or 'BL'",
+      "tr": "'TR' veya 'BL' ile başlayan kelimeler",
+      "fr": "Mots commençant par 'TR' ou 'BL'",
+      "id": "Kata berawalan 'TR' atau 'BL'"
+    }
+  },
+  {
+    "id": "board_games",
+    "translations": {
+      "en": "Board games and party games",
+      "tr": "Kutu oyunları ve parti oyunları",
+      "fr": "Jeux de société et jeux de soirée",
+      "id": "Permainan papan dan game pesta"
+    }
+  },
+  {
+    "id": "loud_noises",
+    "translations": {
+      "en": "Things that make loud noises",
+      "tr": "Yüksek ses çıkaran şeyler",
+      "fr": "Choses qui font un bruit fort",
+      "id": "Benda yang bersuara keras"
+    }
+  },
+  {
+    "id": "superheroes",
+    "translations": {
+      "en": "Superheroes or comic villains",
+      "tr": "Süper kahramanlar veya kötü karakterler",
+      "fr": "Super-héros ou super-vilains",
+      "id": "Pahlawan super atau penjahat komik"
+    }
+  },
+  {
+    "id": "before_sleep",
+    "translations": {
+      "en": "Things you do right before going to sleep",
+      "tr": "Uyumadan hemen önce yapılan şeyler",
+      "fr": "Choses qu'on fait juste avant de dormir",
+      "id": "Hal yang dilakukan tepat sebelum tidur"
+    }
+  },
+  {
+    "id": "red_things",
+    "translations": {
+      "en": "Things that are naturally red",
+      "tr": "Doğal olarak kırmızı olan şeyler",
+      "fr": "Choses qui sont naturellement rouges",
+      "id": "Benda yang berwarna merah alami"
+    }
+  },
+  {
+    "id": "desserts",
+    "translations": {
+      "en": "Sweet desserts and pastries",
+      "tr": "Tatlılar ve hamur işleri",
+      "fr": "Desserts sucrés et pâtisseries",
+      "id": "Makanan penutup manis dan kue"
+    }
+  },
+  {
+    "id": "flying_creatures",
+    "translations": {
+      "en": "Animals or insects that can fly",
+      "tr": "Uçabilen hayvanlar veya böcekler",
+      "fr": "Animaux ou insectes qui volent",
+      "id": "Hewan atau serangga yang bisa terbang"
+    }
+  },
+  {
+    "id": "winter_clothing",
+    "translations": {
+      "en": "Clothing items worn in winter",
+      "tr": "Kışın giyilen giysi ve aksesuarlar",
+      "fr": "Vêtements que l'on porte en hiver",
+      "id": "Pakaian yang dikenakan saat musim dingin"
+    }
+  },
+  {
+    "id": "annoying_habits",
+    "translations": {
+      "en": "Annoying habits people have",
+      "tr": "İnsanların sinir bozucu alışkanlıkları",
+      "fr": "Habitudes agaçantes chez les gens",
+      "id": "Kebiasaan orang yang menjengkelkan"
+    }
+  },
+  {
+    "id": "sports_with_ball",
+    "translations": {
+      "en": "Sports played with a ball",
+      "tr": "Top ile oynanan sporlar",
+      "fr": "Sports qui se jouent avec un ballon",
+      "id": "Olahraga yang dimainkan dengan bola"
+    }
+  },
+  {
+    "id": "halloween_costumes",
+    "translations": {
+      "en": "Popular Halloween costumes",
+      "tr": "Popüler Cadılar Bayramı kostümleri",
+      "fr": "Costumes populaires d'Halloween",
+      "id": "Kostum populer untuk Halloween"
+    }
+  },
+  {
+    "id": "haunted_house",
+    "translations": {
+      "en": "Things you would find in a haunted house",
+      "tr": "Perili bir evde bulabileceğiniz şeyler",
+      "fr": "Choses que l'on trouve dans une maison hantée",
+      "id": "Benda yang ditemukan di rumah hantu"
+    }
+  },
+  {
+    "id": "horror_monsters",
+    "translations": {
+      "en": "Classic horror movie monsters or creatures",
+      "tr": "Klasik korku filmi canavarları ve yaratıkları",
+      "fr": "Monstres ou créatures de films d'horreur",
+      "id": "Monster atau makhluk di film horor klasik"
+    }
+  },
+  {
+    "id": "superhero_powers",
+    "translations": {
+      "en": "Superpowers you wish you had",
+      "tr": "Sahip olmak isteyeceğiniz süper güçler",
+      "fr": "Super-pouvoirs que vous aimeriez avoir",
+      "id": "Kekuatan super yang ingin kamu miliki"
+    }
+  },
+  {
+    "id": "party_snacks",
+    "translations": {
+      "en": "Finger foods or snacks served at a party",
+      "tr": "Partilerde ikram edilen atıştırmalıklar",
+      "fr": "Amuse-gueules ou snacks servis lors d'une fête",
+      "id": "Camilan atau makanan ringan di pesta"
+    }
+  },
+  {
+    "id": "airport_carryon",
+    "translations": {
+      "en": "Things banned from airplane carry-on bags",
+      "tr": "Uçakta el bagajına alınması yasak olan şeyler",
+      "fr": "Objets interdits dans les bagages à main en avion",
+      "id": "Benda yang dilarang dibawa ke kabin pesawat"
+    }
+  },
+  {
+    "id": "desert_island",
+    "translations": {
+      "en": "Things to bring to a deserted island",
+      "tr": "Issız bir adaya düşseniz yanınıza alacağınız şeyler",
+      "fr": "Objets à emporter sur une île déserte",
+      "id": "Benda yang dibawa jika terdampar di pulau terpencil"
+    }
+  },
+  {
+    "id": "kitchen_appliances",
+    "translations": {
+      "en": "Kitchen appliances and gadgets",
+      "tr": "Mutfakta kullanılan elektrikli aletler",
+      "fr": "Appareils et ustensiles électroménagers de cuisine",
+      "id": "Peralatan elektronik dan perabot dapur"
+    }
+  },
+  {
+    "id": "spooky_sounds",
+    "translations": {
+      "en": "Creepy sounds that make you jump at night",
+      "tr": "Geceleri insanı ürküten tekinsiz sesler",
+      "fr": "Bruits effrayants qui vous font sursauter la nuit",
+      "id": "Suara menyeramkan yang bikin kaget saat malam hari"
+    }
+  },
+  {
+    "id": "candy_brands",
+    "translations": {
+      "en": "Famous chocolate or candy brands",
+      "tr": "Ünlü çikolata veya şekerleme markaları",
+      "fr": "Marques célèbres de chocolat ou de bonbons",
+      "id": "Merek cokelat atau permen terkenal"
+    }
+  },
+  {
+    "id": "road_trip_essentials",
+    "translations": {
+      "en": "Things needed for a long road trip",
+      "tr": "Uzun bir araba yolculuğunda gereken şeyler",
+      "fr": "Choses indispensables pour un long voyage en voiture",
+      "id": "Perlengkapan penting untuk perjalanan darat jauh"
+    }
+  },
+  {
+    "id": "spooky_movies",
+    "translations": {
+      "en": "Horror or spooky movies",
+      "tr": "Korku veya gerilim filmleri",
+      "fr": "Films d'horreur ou films effrayants",
+      "id": "Film horor atau film bertema seram"
+    }
+  }
+]
